@@ -8,7 +8,7 @@ const bestItem = {
   imgOne: "/assets/img/bestItem/bestItem1.jpg",
   imgTwo: "/assets/img/bestItem//bestItem2.jpg",
   details:
-    " Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds.",
+    " 1Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds.",
 };
 
 export default function BestItem() {

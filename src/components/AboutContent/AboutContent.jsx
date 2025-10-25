@@ -7,8 +7,8 @@ const about_content = {
   title: "Royalty",
   textWhite: "Exquisite Dining Experience Fit for",
   imgOne: "/assets/img/about/about_bg.jpg",
-  subtext:
-    "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that.",
+  // subtext:
+  //   "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that.",
   details:
     "Where Authenticity Meets Class 🇮🇹 Inspirational Italian Food 🍷 Great Selection Of Wine & Cocktails 🔥 Wood Fired Pizzas.",
 };
