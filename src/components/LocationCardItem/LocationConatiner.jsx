@@ -23,10 +23,10 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <h6 className="card-title"> Kitisuru 1.3 C</h6>
+            <p className="card-subtext">Nairobi</p>
+            <p> Kenya</p>
+            <p>info@lavilla.co.ke </p>
           </div>
           <div className="location-card-item col-4 style-1">
             <Link to="#">
@@ -45,10 +45,10 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <h6 className="card-title"> Westlands</h6>
+            <p className="card-subtext">Nairobi</p>
+            <p> Nairobi, Kenya</p>
+            <p>info@lavilla.co.ke </p>
           </div>
           <div className="location-card-item col-4">
             <Link to="#">
@@ -67,10 +67,10 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <h6 className="card-title"> Gigiri</h6>
+            <p className="card-subtext">Nairobi</p>
+            <p> Nairobi, Kenya</p>
+            <p>info@lavilla.co.ke </p>
           </div>
         </div>
       </div>
@@ -94,10 +94,10 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <h6 className="card-title"> Lavington</h6>
+            <p className="card-subtext">Nairobi</p>
+            <p> Nairobi, Kenya</p>
+            <p>info@lavilla.co.ke </p>
           </div>
           <div className="location-card-item col-4 style-1">
             <Link to="#">
@@ -116,10 +116,10 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <h6 className="card-title"> Loresho</h6>
+            <p className="card-subtext">Nairobi</p>
+            <p> Nairobi, Kenya</p>
+            <p>info@lavilla.co.ke </p>
           </div>
           <div className="location-card-item col-4">
             <Link to="#">
@@ -138,10 +138,10 @@ export default function LocationConatiner() {
                 </svg>
               </div>
             </Link>
-            <h6 className="card-title"> New York</h6>
-            <p className="card-subtext">901 N Pitt Str., Suite 170</p>
-            <p> Alexandria, NY, USA</p>
-            <p>info@example.com </p>
+            <h6 className="card-title"> Runda</h6>
+            <p className="card-subtext">Nairobi</p>
+            <p> Nairobi, Kenya</p>
+            <p>info@lavilla.co.ke </p>
           </div>
         </div>
       </div>
