@@ -4,16 +4,16 @@ import { footerAnimation, scrollUpBtn, scrollUpShow } from "../../helper/main";
 import { WhiteButton } from "../../components/Button/Button";
 
 import footerBg from "/assets/img/bg/footer_bg.png";
-import elegenciaLogo from "/assets/img/logo/Elegencia.png";
+import elegenciaLogo from "/assets/img/logo/logo.png";
 
 const Footertext = {
-  email: "iinfo@lavilla.co.ke",
+  email: "info@lavilla.co.ke",
   phoneone: "+254 706 880 688",
   phonetwo: "+254 733 880 688",
   addressone: "1.3C ,Kitisuru Road. Nairobi",
   addresstwo: "",
   timeone: "MONDAY & SUNDAY: 11:30AM - 22:30PM",
-  timetwo: "TUESDAY - SATURDAY: 12:0PAM - 11:00PM",
+  timetwo: "TUESDAY - SATURDAY: 12:0PM - 11:00PM",
   copyright: "Copyright 2025 All Right Reserved",
 };
 
