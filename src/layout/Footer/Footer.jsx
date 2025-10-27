@@ -7,14 +7,14 @@ import footerBg from "/assets/img/bg/footer_bg.png";
 import elegenciaLogo from "/assets/img/logo/Elegencia.png";
 
 const Footertext = {
-  email: "info@example.com",
-  phoneone: "1-800-915-6271",
-  phonetwo: "1-800-915-6271",
-  addressone: "2726 Av. PapineauMontreal",
-  addresstwo: " H2K 4J6, Canada",
-  timeone: "SUNDAY - THURSDAY: 11:30AM - 11PM",
-  timetwo: "FRIDAY & SATURDAY: 11:30AM - 12AM",
-  copyright: "Copyright 2023 All Right Reserved",
+  email: "iinfo@lavilla.co.ke",
+  phoneone: "+254 706 880 688",
+  phonetwo: "+254 733 880 688",
+  addressone: "1.3C ,Kitisuru Road. Nairobi",
+  addresstwo: "",
+  timeone: "MONDAY & SUNDAY: 11:30AM - 22:30PM",
+  timetwo: "TUESDAY - SATURDAY: 12:0PAM - 11:00PM",
+  copyright: "Copyright 2025 All Right Reserved",
 };
 
 const Footernav = [

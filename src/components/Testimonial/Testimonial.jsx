@@ -5,21 +5,21 @@ const testimonialInfo = [
   {
     img: "/assets/img/testimonial/testimonial_1.jpg",
     title: "Steven K. Roberts",
-    subtitle: "From USA",
+    subtitle: "From Nairobi",
     content:
       "“Their talented team of passionate chefs masterfully crafts each dish, combining the finest ingredients with innovative techniques to present culinary creations that are as visually stunning as they are delicious.”",
   },
   {
     img: "/assets/img/testimonial/testimonial_2.jpg",
     title: "K. Roberts",
-    subtitle: "From ",
+    subtitle: "From Westlands ",
     content:
       "“Their talented team of passionate chefs masterfully crafts each dish, combining the finest ingredients with innovative techniques to present culinary creations that are as visually stunning as they are delicious.”",
   },
   {
     img: "/assets/img/testimonial/testimonial_3.jpg",
-    title: "Jon K. Sun",
-    subtitle: "From ",
+    title: "Jon Kamau",
+    subtitle: "From Mombasa ",
     content:
       "“Their talented team of passionate chefs masterfully crafts each dish, combining the finest ingredients with innovative techniques to present culinary creations that are as visually stunning as they are delicious.”",
   },
