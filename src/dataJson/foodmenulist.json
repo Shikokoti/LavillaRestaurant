@@ -2,11 +2,11 @@
   {
     "foodMenu": [
       {
-        "title": "Spaghetti alla Carbonara",
-        "price": "$49",
+        "title": "Breggio D’amore (Aperitif)",
+        "price": "Ksh 2450",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Creamy Philadelphia cheese and delicate Bocconcini mozzarella",
+        "priceSubTitle": "Paired with Unique Alcohol Shots."
       },
       {
         "title": "Caviar-topped Oysters",
