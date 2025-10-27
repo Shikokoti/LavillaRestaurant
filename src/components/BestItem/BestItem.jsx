@@ -8,7 +8,7 @@ const bestItem = {
   imgOne: "/assets/img/bestItem/bestItem1.jpg",
   imgTwo: "/assets/img/bestItem//bestItem2.jpg",
   details:
-    " 1Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds.",
+    " Our menu has been specially curated to offer an authentic Italian cuisine that is simple yet divine using the finest of ingredients. The next time you visit us to devour Italian food, make sure to enjoy the simplicity and taste the flavour of every ingredient on the dish. With compliments, from our chef!",
 };
 
 export default function BestItem() {
