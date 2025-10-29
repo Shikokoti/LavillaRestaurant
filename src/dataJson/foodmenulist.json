@@ -189,7 +189,6 @@
         "subTitle": "Nutritious Dish that Blends The Rich Flavors of Classic Minestrone With Tender Pieces of Chicken",
         "priceSubTitle": ""
       }
-     
     ],
     "headingtext": {
       "title": "Zuppe",
@@ -201,46 +200,116 @@
   {
     "foodMenu": [
       {
-    "title": "SPAGHETTI CACIO E PEPE",
-    "price": "Ksh 1900",
-    "image": "/assets/img/itemShow/item-show.png",
-    "subTitle": "Chefs Special Pasta With Creamy Black Pepper Sauce Pecorino & Parmesan",
-    "priceSubTitle": "V"
-  },
-  {
-    "title": "SPAGHETTI CON POLPETTINE",
-    "price": "Ksh 1800",
-    "image": "/assets/img/itemShow/item-show.png",
-    "subTitle": "Spaghetti with Tomato Sauce and Homemade Meatballs",
-    "priceSubTitle": ""
-  },
-      {
-    "title": "PASSATELLI AL POMODORO FRESCO E BASILICO",
-    "price": "Ksh 1750",
-    "image": "/assets/img/itemShow/item-show.png",
-    "subTitle": "Homemade Passatelli Pasta With Fresh Sliced Tomatoes & Basil",
-    "priceSubTitle": "V | E"
-  },
-  {
-    "title": "LINGUINE AL PESTO CON POMODORINI E BURRATA",
-    "price": "Ksh 1950",
-    "image": "/assets/img/itemShow/item-show.png",
-    "subTitle": "With Homemade Basil Pesto Sauce Cherry Tomato & Burrata Cheese",
-    "priceSubTitle": "V | N"
-  },
-      {
-        "title": "ZUPPA DI ARAGOSTA",
-        "price": "Ksh 2400",
+        "title": "SPAGHETTI CACIO E PEPE",
+        "price": "Ksh 1900",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lobster Bisque Soup",
-        "priceSubTitle": "S"
+        "subTitle": "Chefs Special Pasta With Creamy Black Pepper Sauce Pecorino & Parmesan",
+        "priceSubTitle": "V"
       },
       {
-        "title": "ZUPPA DI POLLO",
+        "title": "SPAGHETTI CON POLPETTINE",
+        "price": "Ksh 1800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Spaghetti with Tomato Sauce and Homemade Meatballs",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "PASSATELLI AL POMODORO FRESCO E BASILICO",
+        "price": "Ksh 1750",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Passatelli Pasta With Fresh Sliced Tomatoes & Basil",
+        "priceSubTitle": "V | E"
+      },
+      {
+        "title": "LINGUINE AL PESTO CON POMODORINI E BURRATA",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "With Homemade Basil Pesto Sauce Cherry Tomato & Burrata Cheese",
+        "priceSubTitle": "V | N"
+      },
+      {
+        "title": "RIGATONI CARBONARA",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Traditional Roma pasta with Pancetta & Pecorino Cheese",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "RIGATONI ALL’ AMATRICIANA",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Traditional Rome Pasta With Pancetta Bacon, Tomato, Chilli & Pecorino Cheese",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "ORECCHIETTE MAMMA MIA BROCCOLI E SALSICCIA",
+        "price": "Ksh 1800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Pasta With Broccoli & Pork Sausage",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "PENNE ALL’ ARRABBIATA",
         "price": "Ksh 1450",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Nutritious Dish that Blends The Rich Flavors of Classic Minestrone With Tender Pieces of Chicken",
+        "subTitle": "With Cherry Tomato Sauce & Chilly",
+        "priceSubTitle": "V"
+      },
+      {
+        "title": "TAGLIATELLE AI FUNGHI PORCINI E TARTUFO",
+        "price": "Ksh 2100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Tagliatelle Pasta, With Black Truffle Sauce, Mushroom & Cream",
+        "priceSubTitle": "V | E"
+      },
+      {
+        "title": "TAGLIATELLE PASTA CON PROSCUITO DI PARMA E",
+        "price": "Ksh 2250",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Tagliatelle Pasta with Parma Ham, Rucola & Parmesan Cheese",
         "priceSubTitle": ""
+      },
+      {
+        "title": "TAGLIATELLE CON CARNE",
+        "price": "Ksh 2000",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Tagliatelle Pasta With Beef Tenderloin Cubes",
+        "priceSubTitle": "A | E"
+      },
+      {
+        "title": "RAVIOLI I RICOTTA E SPINACI",
+        "price": "Ksh 1850",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Ravioli Pasta Filled Ricotta Cheese, Spinach With Tomato OR White Mushroom Sauce OR Butter & Sage",
+        "priceSubTitle": "V"
+      },
+      {
+        "title": "RAVIOLI BURRATA E MELANZANE CON POMODORO CILIEGINO",
+        "price": "Ksh 2150",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Ravioli Pasta Filled With Burrata Cheese & Eggplant",
+        "priceSubTitle": "V | E"
+      },
+      {
+        "title": "LASAGNA AGLI ASPARAGI",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Pasta Sheets, Asparagus, Besciamella Sauce & Parmesan",
+        "priceSubTitle": "V | E"
+      },
+      {
+        "title": "LASAGNA EMILIANA CON RAGU` BOLOGNESE E MOZZARELLA",
+        "price": "Ksh 1850",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Pasta Baked with Beef Bolognese Tomato Bolognese Sauce & Mozzarella Cheese",
+        "priceSubTitle": "A | E"
+      },
+      {
+        "title": "GNOCCHI DI PATATE AL GORGONZOLA",
+        "price": "Ksh 1900",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Gnocchi with Cheese & Walnuts",
+        "priceSubTitle": "N | V | E"
       }
     ],
     "headingtext": {
