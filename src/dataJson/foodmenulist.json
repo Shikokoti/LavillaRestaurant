@@ -358,8 +358,176 @@
       }
     ],
     "headingtext": {
-      "title": "Pasta Di Terra",
-      "subTitle": "Rissoto",
+      "title": "Veg Pasta",
+      "subTitle": "Risotto",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+        "title": "SPAGHETTI ALL’ ARAGOSTA",
+        "price": "Ksh 3800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Pasta Spaghetti With Cherry Tomatoes & Lobster",
+        "priceSubTitle": "S | A"
+      },
+      {
+        "title": "SPAGHETTI ALLE VONGOLE",
+        "price": "Ksh 2150",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Spaghetti Pasta With Fresh Clams",
+        "priceSubTitle": "S | A"
+      },
+      {
+        "title": "LINGUINE ALLO SCOGLIO",
+        "price": "Ksh 2400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Linguine Pasta With Prawns, Squid & Mussels",
+        "priceSubTitle": "S | A"
+      },
+      {
+        "title": "LINGUINE AL NERO DI SEPPIA E CALAMARI",
+        "price": "Ksh 2150",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Linguine Pasta, Squid, Squid Ink, Onions With White Wine",
+        "priceSubTitle": "A"
+      },
+      {
+        "title": "LINGUINE AL DENTICE CON CRAMBLE ALL'ACCIUGHE",
+        "price": "Ksh 2000",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Linguine Pasta With Red Snapper & Crumbled Anchovies",
+        "priceSubTitle": "A"
+      },
+      {
+        "title": "TAGLIATELLE WITH SEAFOOD RAGU",
+        "price": "Ksh 2000",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Tagliatelle with Octopus Ragu",
+        "priceSubTitle": "A | E"
+      },
+      {
+        "title": "TAGLIATELLE GAMBERI E LIMONE",
+        "price": "Ksh 2000",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Pasta with Prawns & Lemon Zest",
+        "priceSubTitle": "A | E | S"
+      },
+      {
+        "title": "PENNE SALMONE E BROCCOLI",
+        "price": "Ksh 2050",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "",
+        "priceSubTitle": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Sea Food Pasta",
+      "subTitle": "Risotto",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+
+  {
+    "foodMenu": [
+      {
+        "title": "PETTO DI POLLO AI FUNGHI (180/200Grms)",
+        "price": "Ksh 2350",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Grilled Chicken Breast Topped With a Creamy Mushroom Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "COSTOLETTE DI AGNELLO SCOTTADITO CON PATATE ARROSTE (350Grms)",
+        "price": "Ksh 3200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Grilled Tender Lamb Chops Served With Roasted Potatoes",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "COSTOLETTE DI MAIALE ALLA GRIGLIA CON ASPARAGI (350Grms)",
+        "price": "Ksh 3600",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Grilled Pork Chops Served with Grilled Vegetables & Roasted Potatoes",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "SCALLOPPINE DI POLLO CON PROSCIUTTO DI PARMA E MOZZARELLA A (180/200Grms)",
+        "price": "Ksh 3400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Chicken Breast Scallop With White Wine, Parma Ham, Mozzarella & Mushrooms",
+        "priceSubTitle": "A"
+      },
+      {
+        "title": "RIB-EYE STEAK (350Grms)",
+        "price": "Ksh 4600",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Imported From South Africa. Grilled, Served With Sauteed Mushrooms, Grilled Asparagus & Gravy or Pepper Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "SIRLOIN STEAK (350Grms)",
+        "price": "Ksh 4200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Imported From South Africa. Grilled, Served With Thyme Sauteed Vegetables & Gravy or Pepper Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "PETTO DI POLLO ALLA PARMENTIER CON FUNGHI TRIFOLATI (180/200Grms)",
+        "price": "Ksh 2400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Chicken Breast Filled With Parma Ham & Mozzarella Cheese",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "GALLETO ALLA DIAVOLA (350Grms)",
+        "price": "Ksh 2350",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Grilled Chicken Served With Roasted Rosemary Potato Wedges",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "COTOLETTA ALLA MILANESE IN TRUFFLE SAUCE (180/200Grms)",
+        "price": "Ksh 3800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Chicken Breast In Bread Crumbs & Truffle Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "OSSOBUCO ALLA MILANESE (350Grms)",
+        "price": "Ksh 4250",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Braised Beef Shank With Lemon & Fine Herbs Served On a Bed of Saffron Rice",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "TOMAHAWK (450Grms)",
+        "price": "Ksh 8200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Imported From Italy. Grilled Italian Tomahawk Served With Mashed Potatoes & Grilled Vegetables",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "T-BONE (500Grms)",
+        "price": "Ksh 6500",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Imported From Italy. Grilled T-BONE Served With Pepper Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "FILLETO DI MANZO AL SALSA PEPE NERO OR FUNGHI TARTUFATA GF (300Grms)",
+        "price": "Ksh 4200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Beef Fillet With Green Garden Salad, Parmesan Shavings Served With Roasted Potato With a Choice of Pepper Sauce OR Funghi Tartufata",
+        "priceSubTitle": "GF"
+      }
+    ],
+    "headingtext": {
+      "title": "Pollo Carne E Pesce",
+      "subTitle": "MEAT MAIN COURSES",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
