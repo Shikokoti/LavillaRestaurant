@@ -2,11 +2,11 @@
   {
     "foodMenu": [
       {
-        "title": "Breggio D’amore (Aperitif)",
-        "price": "Ksh 2450",
+        "title": "BURRATA PUGLIESE CON INSALATINA MISTA",
+        "price": "Ksh 2100",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Creamy Philadelphia cheese and delicate Bocconcini mozzarella",
-        "priceSubTitle": "Paired with Unique Alcohol Shots."
+        "subTitle": "Burrata Cheese With Rocket Salad & Cherry Tomatoes",
+        "priceSubTitle": "V"
       },
       {
         "title": "Caviar-topped Oysters",
@@ -73,8 +73,8 @@
       }
     ],
     "headingtext": {
-      "title": "Appetizers",
-      "subTitle": "Appetizers",
+      "title": "Antipasti",
+      "subTitle": "Starter | Salad",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/menuBg.png"
