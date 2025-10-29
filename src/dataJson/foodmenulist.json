@@ -313,8 +313,53 @@
       }
     ],
     "headingtext": {
-      "title": "Zuppe",
-      "subTitle": "Soups",
+      "title": "Pasta Di Terra",
+      "subTitle": "Pasta",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+        "title": "RISOTTO AL TARTUFO",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Arborio Rice in Fresh Truffle Sauce with Parmesan & Parsley. To Make it More Special, with added Fresh Truffle @ Ksh 500 Per Gram",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "RISOTTO PRIMAVERA V",
+        "price": "Ksh 1700",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Italian Arborio Rice With Mixed Vegetables",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "RISOTTO AI FUNGHI PORCINI V",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Arborio Rice With Porcini Mushroom",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "RISOTTO AI GAMBERI E ZUCCHINE A",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Italian Arborio Rice With Prawns & Zucchini",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "RISOTTO PERE E TALEGGIO V",
+        "price": "Ksh 1900",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Flavorful Rich Creamy Arborio Rice With The Sweet & Delicate Flavors Of Pears & Taleggio Cheese",
+        "priceSubTitle": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Pasta Di Terra",
+      "subTitle": "Rissoto",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
