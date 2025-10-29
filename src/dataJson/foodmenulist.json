@@ -9,67 +9,67 @@
         "priceSubTitle": "V"
       },
       {
-        "title": "Caviar-topped Oysters",
-        "price": "$49",
+        "title": "INSALATINA PRIMAVERA ",
+        "price": "Ksh 1100",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Mixed Green Salad, Cherry Tomato, Rocket & Onions",
+        "priceSubTitle": "VG | GF"
       },
       {
-        "title": "Croquetas de jamón",
-        "price": "$49",
+        "title": "INSALATA MISTA CON BARBABIETOLE",
+        "price": "Ksh 1300",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Mixed Green Salad, Cherry Tomatoes, Rocket, Onions, Feta & Beetroot",
+        "priceSubTitle": "V"
       },
       {
-        "title": "Foie Gras and Fig Terrine",
-        "price": "$49",
+        "title": "CAESAR SALAD",
+        "price": "Ksh 1400",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Green Salad With Mayonaise, Eggs, Bacon, Crutons & Parmesan Cheese",
+        "priceSubTitle": "E"
       },
       {
-        "title": "paella valenciana",
-        "price": "$49",
+        "title": "CAPONATA DI VERDURE ALLA SICILIANA",
+        "price": "Ksh 1100",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Sicily Mix Sautéed Vegetables With Olives & Capers",
+        "priceSubTitle": "V | N | GF"
       },
       {
-        "title": "Truffle-infused Filet Mignon",
-        "price": "$49",
+        "title": "CROSTINI ASSORTITI",
+        "price": "Ksh 1350",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Toasted Homemade Bread Topped With Cherry Tomato, Black Truffles Sauce, Mushrooms & Burrata Cheese",
+        "priceSubTitle": "V | N"
       },
       {
-        "title": "Peri Peri Prawns",
-        "price": "$49",
+        "title": "ARANCINI AI FUNGHI E TARTUFO",
+        "price": "Ksh 1100",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Truffle Mushroom Arancini Balls With Mozarella, Sriracha Sauce & Baba Ganoush",
+        "priceSubTitle": "V"
       },
       {
-        "title": "Butter Poached Lobster",
-        "price": "$49",
+        "title": "CAMEMBERT FRITTO CON MIELE ",
+        "price": "Ksh 1100",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Fried Camembert Cheese Served With Honey",
+        "priceSubTitle": "V"
       },
       {
-        "title": "Golden Saffron Risotto",
-        "price": "$49",
+        "title": "PARMIGIANA DI MELANZANE",
+        "price": "Ksh 1300",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Traditional Baked Aubergine With Tomato & Mozzarella",
+        "priceSubTitle": "V | GF"
       },
       {
-        "title": "Herb-Crusted Rack of Lamb",
-        "price": "$49",
+        "title": "CARPACCIO DI MANZO RUCOLA E PARMIGIANO",
+        "price": "Ksh 2150",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Thinly Sliced Cold Beef Tenderloin With Rocket Salad & Flake Grana Padano",
+        "priceSubTitle": ""
       }
     ],
     "headingtext": {
