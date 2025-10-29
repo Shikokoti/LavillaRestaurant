@@ -40,7 +40,7 @@
         "title": "CROSTINI ASSORTITI",
         "price": "Ksh 1350",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Toasted Homemade Bread Topped With Cherry Tomato, Black Truffles Sauce, Mushrooms & Burrata Cheese",
+        "subTitle": "Toasted Homemade Bread Topped With Cherry Tomato",
         "priceSubTitle": "V | N"
       },
       {
@@ -70,6 +70,27 @@
         "image": "/assets/img/itemShow/item-show.png",
         "subTitle": "Thinly Sliced Cold Beef Tenderloin With Rocket Salad & Flake Grana Padano",
         "priceSubTitle": ""
+      },
+      {
+        "title": "PROSCIUTTO CRUDO PARMA",
+        "price": "Ksh 2100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Thinly Sliced Parma Ham",
+        "priceSubTitle": "ITALIY"
+      },
+      {
+        "title": "ALI DI POLLO",
+        "price": "Ksh 1250",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Tender, Juicy Chicken Wings, Fried to Golden Perfection & Tossed in a Barbeque Signature Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "TAGLIERE DI SALUMI E FORMAGGI PER DUE PERSONE",
+        "price": "Ksh 6500",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Consists of: (Cheese Cuts - Caciotta Cheese with Truffle, Spicy aged Pecorino Cheese, Raw Milk Fontina Cheese, Sweet Taleggio) (Meat Cuts - Truffle Mortadella, Spicy Dry-Cured Italian Pork Meat, (Cinghiale) Italian Wild Boar Salami, Parma Ham)",
+        "priceSubTitle": ""
       }
     ],
     "headingtext": {
@@ -82,80 +103,45 @@
   {
     "foodMenu": [
       {
-        "title": "Vienetta (Netherlands)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "INSALATA DI MARE",
+        "price": "Ksh 2300",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Mix Seafood Prawns | Squid | With Honey Mustard Dressing",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Apple Strudel (Austria)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "FIORE DI CARPACCIO NORVEGESE AFFUMICATO",
+        "price": "Ksh 2200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Smoked Norwegian Salmon With Fennel & Lemon Orange Dressing",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Tiramisu",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "GAMBERI TEMPURA",
+        "price": "Ksh 2600",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "A Delicate Balance Of Crisp & Tender Fried Prawns",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Foie Gras and Fig Terrine",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "COCKTAIL DI GAMBERI IN SALSA ROSA",
+        "price": "Ksh 1800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Queen Prawns Served In Pink Sauce",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Apple Strudel",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Truffle-infused Filet Mignon",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Crème Brûlée",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Butter Poached Lobster",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Black Forest Cake",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Pastéis de Nata (Portugal)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "PESCE VELA AFFUMICATO SUL LETTO DI LATTUGA",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Smoked Sailfish Carpaccio On a Bed Of Lettuce Topped With Onions & Drizzle Of Fresh Lemon Juice",
+        "priceSubTitle": "S"
       }
     ],
     "bgImgShow": "/assets/img/bg/barMenuBg.png",
     "headingtext": {
-      "title": "Bar Items",
-      "subTitle": "Juice Bar",
+      "title": "Antipasti",
+      "subTitle": "SEAFOOD STARTER",
       "tyle": "center"
     }
   },
