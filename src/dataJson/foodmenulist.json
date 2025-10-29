@@ -148,79 +148,104 @@
   {
     "foodMenu": [
       {
-        "title": "Guinness Irelandian",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "ZUPPA DI FUNGHI PORCINI",
+        "price": "Ksh 1400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Mushroom Cream Soup",
+        "priceSubTitle": "V | GF"
       },
       {
-        "title": "Scotch Whisky Scotland",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "MINESTRONE CONTADINA",
+        "price": "Ksh 1100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Vegetable Soup",
+        "priceSubTitle": "V | GF"
       },
       {
-        "title": "Aperol Spritz Italian",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "VELLUTATA DI ZUCCA",
+        "price": "Ksh 1200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Pumpkin Cream Soup",
+        "priceSubTitle": "V | GF"
       },
       {
-        "title": "Jägermeister Germany",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "VELLUTATA DI ASPARAGI",
+        "price": "Ksh 1550",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Asparagus Cream Soup",
+        "priceSubTitle": "V | GF"
       },
       {
-        "title": "Pilsner Urquell Czech",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "ZUPPA DI ARAGOSTA",
+        "price": "Ksh 2400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Lobster Bisque Soup",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Port Wine (Portugal)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "ZUPPA DI POLLO",
+        "price": "Ksh 1450",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Nutritious Dish that Blends The Rich Flavors of Classic Minestrone With Tender Pieces of Chicken",
+        "priceSubTitle": ""
+      }
+     
+    ],
+    "headingtext": {
+      "title": "Zuppe",
+      "subTitle": "Soups",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+    "title": "SPAGHETTI CACIO E PEPE",
+    "price": "Ksh 1900",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Chefs Special Pasta With Creamy Black Pepper Sauce Pecorino & Parmesan",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "SPAGHETTI CON POLPETTINE",
+    "price": "Ksh 1800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Spaghetti with Tomato Sauce and Homemade Meatballs",
+    "priceSubTitle": ""
+  },
+      {
+    "title": "PASSATELLI AL POMODORO FRESCO E BASILICO",
+    "price": "Ksh 1750",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Homemade Passatelli Pasta With Fresh Sliced Tomatoes & Basil",
+    "priceSubTitle": "V | E"
+  },
+  {
+    "title": "LINGUINE AL PESTO CON POMODORINI E BURRATA",
+    "price": "Ksh 1950",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "With Homemade Basil Pesto Sauce Cherry Tomato & Burrata Cheese",
+    "priceSubTitle": "V | N"
+  },
+      {
+        "title": "ZUPPA DI ARAGOSTA",
+        "price": "Ksh 2400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Lobster Bisque Soup",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Pavlova (New Zealand)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Vodka Russia / Poland",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Vodka Russia / Poland",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Aperol Spritz Italian",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "ZUPPA DI POLLO",
+        "price": "Ksh 1450",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Nutritious Dish that Blends The Rich Flavors of Classic Minestrone With Tender Pieces of Chicken",
+        "priceSubTitle": ""
       }
     ],
     "headingtext": {
-      "title": "Desserts",
-      "subTitle": "Sweet dreams",
+      "title": "Zuppe",
+      "subTitle": "Soups",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
