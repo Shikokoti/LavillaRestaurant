@@ -531,5 +531,78 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+    "title": "FRITTURA DI CALAMARI CON SALSA TARTARA (250Grms)",
+    "price": "Ksh 2300",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Deep Fried Calamari Served With Tartar Sauce & Mix Salad",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "GRIGLIATA MISTA DI MARE GF",
+    "price": "Ksh 5800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Mixed Seafood Platter With Lobster, Red Snapper, Prawns & Squid Served With Grilled Vegetables",
+    "priceSubTitle": "GF"
+  },
+  {
+    "title": "FILLETO DI DENTICE ROSSO GRIGLIATO GF (250Grms)",
+    "price": "Ksh 2600",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Red Snapper Fillet Served With Steamed Vegetables",
+    "priceSubTitle": "GF"
+  },
+  {
+    "title": "BRANZINO IN SALSA LA VILLA (250Grms)",
+    "price": "Ksh 2850",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Seabass In Creamy White Capers Sauce",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "BRANZINO IN SALSA SICILIANA GF (250Grms)",
+    "price": "Ksh 2850",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Seabass Poached In A Tomato, Bell Peppers & Olives Sauce Served On A Bed Of Sauteed Cubed Vegetables",
+    "priceSubTitle": "GF"
+  },
+  {
+    "title": "POLIPO ALLA GRIGLIA CON SALSA DI PASSATINA DI CECI AL ROSMARINO GF (200Grms)",
+    "price": "Ksh 2800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Tender Octopus Served Over a Bed Of Chickpeas Sauce & Capers",
+    "priceSubTitle": "GF"
+  },
+  {
+    "title": "TRANCIO DI SALMONE IN CROSTA GF | N (220Grms)",
+    "price": "Ksh 4050",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Atlantic Salmon Fillet with Vegetables",
+    "priceSubTitle": "GF | N"
+  },
+  {
+    "title": "GAMBERI JUMBO ALLA GRIGLIA GF | S (400Grms)",
+    "price": "Ksh 5200",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Jumbo Prawns Served with Mix Salad",
+    "priceSubTitle": "GF | S"
+  },
+  {
+    "title": "CALAMARI ALLA GRIGLIA CON SALSA OLIO E LIMONE GF (250Grms)",
+    "price": "Ksh 2300",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Calamari With Lemon Olive Oil Served with Mix Salad",
+    "priceSubTitle": "GF"
+  }
+    ],
+    "headingtext": {
+      "title": "Secondi Di Mare",
+      "subTitle": "SEAFOOD MAIN COURSES",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
   }
 ]
