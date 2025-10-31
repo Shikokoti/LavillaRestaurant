@@ -604,5 +604,57 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+    "title": "MIXED GRILLED VEGETABLES",
+    "price": "Ksh 450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "ROASTED ROSEMARY POTATO WEDGES",
+    "price": "Ksh 450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "BUTTER SPINACH",
+    "price": "Ksh 350",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "TRUFFLE FRENCH FRIES",
+    "price": "Ksh 550",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "BROCCOLI IN OLIVE OIL GARLIC & CHILLI",
+    "price": "Ksh 450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "GRILLED ASPARAGUS",
+    "price": "Ksh 450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  }
+    ],
+    "headingtext": {
+      "title": "Sides",
+      "subTitle": "Sides",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
   }
 ]
