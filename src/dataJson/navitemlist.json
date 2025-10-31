@@ -11,7 +11,12 @@
         "key": "about"
     },
     {
-        "title": "Menu",
+        "title": "Food Menu",
+        "link": "/menu",
+        "key": "menu"
+    },
+    {
+        "title": "Drinks Menu",
         "link": "/menu",
         "key": "menu"
     },
@@ -26,40 +31,8 @@
         "key": "portfolio"
     },
     {
-        "title": "Blog",
-        "link": "/blog",
-        "key": "blog"
-    },
-    {
-        "title": "Pages",
-        "link": "/",
-        "key": "pages",
-        "childern": [
-            {
-                "title": "Contact",
-                "link": "/contact",
-                "key": "contact"
-            },
-            {
-                "title": "Reservations",
-                "link": "/reservations",
-                "key": "reservations"
-            },
-            {
-                "title": "gallery",
-                "link": "/gallery",
-                "key": "gallery"
-            },
-            {
-                "title": "Error Pages",
-                "link": "/error-pages",
-                "key": "errorpages"
-            },
-            {
-                "title": "Comming Soon",
-                "link": "/comming-soon",
-                "key": "commingsoon"
-            }
-        ]
+        "title": "Contact Us",
+        "link": "/contact",
+        "key": "pages"
     }
 ]
