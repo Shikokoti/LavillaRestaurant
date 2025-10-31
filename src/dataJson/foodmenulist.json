@@ -656,5 +656,148 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+    "title": "CREMOSA CON TARTUFO V",
+    "price": "Ksh 2250",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Cream, Mozzarella, Mushrooms, Truffle Sauce",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "MEDITERRANEA V",
+    "price": "Ksh 1350",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Mozzarella, Sliced Tomato & Basil",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "MARGHERITA V",
+    "price": "Ksh 1300",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella & Basil",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "MARINARA V",
+    "price": "Ksh 1200",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Basil, Chilli, Garlic & Olive Oil",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "VEGETARIANA V",
+    "price": "Ksh 1450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella, Eggplant, Zucchini, Artichokes & Fresh Mushrooms",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "BOSCAIOLA",
+    "price": "Ksh 1800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Porcini Mushrooms & Pork Sausage",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PIZZA AMATRICIANA",
+    "price": "Ksh 1850",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato Bolognaise, Mozzarella, Chili & Pancetta Bacon",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PIZZA NORCINA CON FUNGHI PORCINI E BURRATA V",
+    "price": "Ksh 2250",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Black Truffle Pizza with Porcini Mushrooms & Mozzarella Burrata",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "NAPOLI",
+    "price": "Ksh 1550",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella, Anchovies, Capers & Basil",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PROSCIUTTO COTTO E FUNGHI",
+    "price": "Ksh 1650",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella, Cotto & Mushroom",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "VULCANO",
+    "price": "Ksh 1750",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Italian Chili Salami, Tomato & Mozzarella",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "CALZONE V",
+    "price": "Ksh 1700",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Folded Pizza with Tomato, Mozzarella & Mushrooms",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "BURRATA PUGLIESE",
+    "price": "Ksh 2000",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella, Cotto Ham & Burrata Cheese",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "FUNGHI V",
+    "price": "Ksh 1400",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomatoes, Mozzarella & Fresh Mushrooms",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "SEAFOOD PIZZA S",
+    "price": "Ksh 2500",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella, Prawns & Calamari",
+    "priceSubTitle": "S"
+  },
+  {
+    "title": "PIZZA CALABRESE NDUJA E OLIVE NERE",
+    "price": "Ksh 2150",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella With Nduja (Cured Pork & Peppers Paste) & Black Olives",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PIZZA BARESE",
+    "price": "Ksh 2800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Pizza with Parma Ham, Rocket & Burrata Cheese",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "CARBONARA",
+    "price": "Ksh 1850",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Mozzarella, Bacon, Carbonara Cream & Pecorino",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "CHICKEN BARBEQUE PIZZA",
+    "price": "Ksh 1650",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella & Homemade BBQ Chicken",
+    "priceSubTitle": ""
+  }
+    ],
+    "headingtext": {
+      "title": "Pizze",
+      "subTitle": "Pizza",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
   }
 ]
