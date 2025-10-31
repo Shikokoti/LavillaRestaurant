@@ -900,5 +900,112 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+     {
+    "title": "INSILATA QUINOA CON VERDURE",
+    "price": "Ksh 1100",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "With mushroom, red onions, zucchini & bell peppers.",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "CAPONATA DI VERDURE ALLA SICILIANA",
+    "price": "Ksh 1100",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Sicily mix sautéed vegetables with olives & capers.",
+    "priceSubTitle": "V | N | GF"
+  },
+  {
+    "title": "MINESTRONE CONTADINA",
+    "price": "Ksh 1100",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Vegetable soup.",
+    "priceSubTitle": "V | GF"
+  }
+    ],
+    "headingtext": {
+      "title": "Vegan Menu",
+      "subTitle": "ANTIPASTE | SALADS | SOUPS",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+     {
+    "title": "RISOTTO AL FUNGHI",
+    "price": "Ksh 2150",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Arborio Italy rice with saffron & porcini mushrooms.",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "LINGUINE ORTOLANA CON JULIENNE DI ZUCCHINE",
+    "price": "Ksh 1600",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Linguine pasta with zucchini, cherry tomatoes & pine nuts.",
+    "priceSubTitle": "N | V | VG"
+  },
+  {
+    "title": "Traditional Baked Aubergine With Tomato & Mozzarella",
+    "price": "Ksh 1300",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PENNE ALL’ ARRABBIATA",
+    "price": "Ksh 1450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "With cherry tomato sauce and chili.",
+    "priceSubTitle": "V | GF"
+  }
+    ],
+    "headingtext": {
+      "title": "Piatti Principali Vegan",
+      "subTitle": "Main Courses Vegan",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+     {
+    "title": "SORBET",
+    "price": "Ksh 350",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Choices of lemon, strawberry & passion.",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "COPPA GELATO",
+    "price": "Ksh 800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Choices of coconut & chocolate.",
+    "priceSubTitle": "VG"
+  },
+  {
+    "title": "VEGAN PISTACCHIO GELATO",
+    "price": "Ksh 800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": "VG"
+  },
+  {
+    "title": "FRUIT SALAD",
+    "price": "Ksh 550",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Assorted seasonal fruits.",
+    "priceSubTitle": ""
+  }
+    ],
+    "headingtext": {
+      "title": "Dolce Vegan",
+      "subTitle": "Dessert",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
   }
 ]
