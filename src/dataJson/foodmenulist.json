@@ -799,5 +799,106 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+    "title": "DELIZIA DI TIRAMISU",
+    "price": "Ksh 950",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Mascarpone Mousse. Coffee-soaked finger biscuits.",
+    "priceSubTitle": "A | E"
+  },
+  {
+    "title": "PANNA E FRAGOLE (STRAWBERRY CLOUD)",
+    "price": "Ksh 1000",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Delicious strawberries with cream.",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PANNA COTTA AI FRUTTI DI BOSCO",
+    "price": "Ksh 750",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Milk cream pudding with berry fruit sauce.",
+    "priceSubTitle": "A"
+  },
+  {
+    "title": "CHEESE CAKE AI FRUTTI DI BOSCO",
+    "price": "Ksh 1250",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Cheesecake with lemon & blueberries.",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "LAVA CAKE AL CIOCCOLATO CON GELATO ALLA VANIGLIA",
+    "price": "Ksh 1200",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Chocolate lava cake with vanilla ice cream (contains eggs).",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "RICOTTA CON CIOCCOLATO",
+    "price": "Ksh 1200",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Ricotta cheese pie with chocolate & ice cream (contains eggs).",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "MONALISA INSPIRATION",
+    "price": "Ksh 1750",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Assorted pastries delicatessen (serving for two).",
+    "priceSubTitle": "A | E"
+  },
+  {
+    "title": "SORBET (per scoop)",
+    "price": "Ksh 350",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Choices of lemon, strawberry & passion.",
+    "priceSubTitle": "GF"
+  },
+  {
+    "title": "COPPA GELATO",
+    "price": "Ksh 400",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Choices of vanilla, chocolate & salted caramel.",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "PISTACCHIO GELATO",
+    "price": "Ksh 650",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Pistachio gelato.",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "CASSATA SICILIANA",
+    "price": "Ksh 750",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Sponge cake with ice cream & candied fruits.",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "TORTA AL CIOCCOLATO (EGGLESS)",
+    "price": "Ksh 1150",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Rich, moist, decadently chocolatey cake (eggless).",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "SORBETTO AL LIMONE E PROSECCO",
+    "price": "Ksh 1400",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Lemon sorbet with Prosecco wine.",
+    "priceSubTitle": "A"
+  }
+    ],
+    "headingtext": {
+      "title": "Dolce",
+      "subTitle": "Dessert",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
   }
 ]
