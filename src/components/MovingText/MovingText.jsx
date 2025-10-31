@@ -2,8 +2,8 @@ import React from "react";
 
 const movingText = [
   {
-    white: "To Make A Reservation Please Call Us ",  
-    yellow: "Or Text Via WhatsApp 0n +254706880688",
+    white: "Make A Reservation ",  
+    yellow: "Via WhatsApp 0n +254706880688",
   },
   {
     white: "Come lets Dine Together at",
