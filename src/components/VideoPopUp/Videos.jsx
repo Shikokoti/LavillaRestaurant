@@ -18,7 +18,7 @@ export default function Videos({ videoId }) {
       <div className="ak-height-150 ak-height-lg-60"></div>
       <div className="video-section" ref={imageContainer}>
         <ModalVideo
-          channel="youtube"
+          channel="vimeo"
           youtube={{ mute: 0, autoplay: 0 }}
           isOpen={isOpen}
           videoId={videoId}
