@@ -4,7 +4,7 @@
         "posation": "Ladies Night",
         "name": "With Live Band Music",
         "img": "/assets/img/chef/chef_1.jpg",
-        "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
+        "videolink": "",
         "shortDesp": "Gather your girls and unwind in style every Thursday at LaVilla Restaurant!",
         "desp": "Enjoy a glamorous evening filled with live band music, signature cocktails, and irresistible vibes. Celebrate good food, laughter, and rhythm — because every lady deserves a night to shine. 💃",
         "Children": [
@@ -24,8 +24,8 @@
     },
     {
         "id": 2,
-        "posation": "Italian Specialist",
-        "name": "Craig Martin",
+        "posation": "Wine Wednesday",
+        "name": "Drink All Wine",
         "img": "/assets/img/chef/chef_2.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
         "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
@@ -47,8 +47,8 @@
     },
     {
         "id": 3,
-        "posation": "Thai Specialist",
-        "name": "Italian Specialist",
+        "posation": "Chef Specials",
+        "name": "Chef Special",
         "img": "/assets/img/chef/chef_3.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
         "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
@@ -70,8 +70,8 @@
     },
     {
         "id": 4,
-        "posation": "Italian Specialist",
-        "name": "Andrew Cannon",
+        "posation": "Pizza Fridays",
+        "name": "Cabonara & Wine",
         "img": "/assets/img/chef/chef_4.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
         "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
@@ -93,8 +93,8 @@
     },
     {
         "id": 5,
-        "posation": "Italian Specialist",
-        "name": "Wesley Story",
+        "posation": "Happy Hour",
+        "name": "Buy two get one free",
         "img": "/assets/img/chef/chef_5.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
         "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
@@ -116,8 +116,8 @@
     },
     {
         "id": 6,
-        "posation": "Michael Laseter",
-        "name": "Michael Laseter",
+        "posation": "Pasta Fiesta",
+        "name": "Pasta & Wine",
         "img": "/assets/img/chef/chef_6.jpg",
         "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
         "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
