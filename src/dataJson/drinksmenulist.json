@@ -1,0 +1,148 @@
+[
+  {
+    "drinksMenu": [
+      {
+        "title": "APERITIF & COCKTAILS",
+        "price": "Ksh 2100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Aperitif",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "NEGRONI CLASSICO ",
+        "price": "Ksh 1100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Mixed Green Salad, Cherry Tomato, Rocket & Onions",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "INSALATA MISTA CON BARBABIETOLE",
+        "price": "Ksh 1300",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Mixed Green Salad, Cherry Tomatoes, Rocket, Onions, Feta & Beetroot",
+        "priceSubTitle": "V"
+      },
+      {
+        "title": "CAESAR SALAD",
+        "price": "Ksh 1400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Green Salad With Mayonaise, Eggs, Bacon, Crutons & Parmesan Cheese",
+        "priceSubTitle": "E"
+      },
+      {
+        "title": "CAPONATA DI VERDURE ALLA SICILIANA",
+        "price": "Ksh 1100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Sicily Mix Sautéed Vegetables With Olives & Capers",
+        "priceSubTitle": "V | N | GF"
+      },
+      {
+        "title": "CROSTINI ASSORTITI",
+        "price": "Ksh 1350",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Toasted Homemade Bread Topped With Cherry Tomato",
+        "priceSubTitle": "V | N"
+      },
+      {
+        "title": "ARANCINI AI FUNGHI E TARTUFO",
+        "price": "Ksh 1100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Truffle Mushroom Arancini Balls With Mozarella, Sriracha Sauce & Baba Ganoush",
+        "priceSubTitle": "V"
+      },
+      {
+        "title": "CAMEMBERT FRITTO CON MIELE ",
+        "price": "Ksh 1100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Fried Camembert Cheese Served With Honey",
+        "priceSubTitle": "V"
+      },
+      {
+        "title": "PARMIGIANA DI MELANZANE",
+        "price": "Ksh 1300",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Traditional Baked Aubergine With Tomato & Mozzarella",
+        "priceSubTitle": "V | GF"
+      },
+      {
+        "title": "CARPACCIO DI MANZO RUCOLA E PARMIGIANO",
+        "price": "Ksh 2150",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Thinly Sliced Cold Beef Tenderloin With Rocket Salad & Flake Grana Padano",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "PROSCIUTTO CRUDO PARMA",
+        "price": "Ksh 2100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Thinly Sliced Parma Ham",
+        "priceSubTitle": "ITALIY"
+      },
+      {
+        "title": "ALI DI POLLO",
+        "price": "Ksh 1250",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Tender, Juicy Chicken Wings, Fried to Golden Perfection & Tossed in a Barbeque Signature Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "TAGLIERE DI SALUMI E FORMAGGI PER DUE PERSONE",
+        "price": "Ksh 6500",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Consists of: (Cheese Cuts - Caciotta Cheese with Truffle, Spicy aged Pecorino Cheese, Raw Milk Fontina Cheese, Sweet Taleggio) (Meat Cuts - Truffle Mortadella, Spicy Dry-Cured Italian Pork Meat, (Cinghiale) Italian Wild Boar Salami, Parma Ham)",
+        "priceSubTitle": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Antipasti",
+      "subTitle": "Starter | Salad",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/menuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+        "title": "INSALATA DI MARE",
+        "price": "Ksh 2300",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Mix Seafood Prawns | Squid | With Honey Mustard Dressing",
+        "priceSubTitle": "S"
+      },
+      {
+        "title": "FIORE DI CARPACCIO NORVEGESE AFFUMICATO",
+        "price": "Ksh 2200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Smoked Norwegian Salmon With Fennel & Lemon Orange Dressing",
+        "priceSubTitle": "S"
+      },
+      {
+        "title": "GAMBERI TEMPURA",
+        "price": "Ksh 2600",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "A Delicate Balance Of Crisp & Tender Fried Prawns",
+        "priceSubTitle": "S"
+      },
+      {
+        "title": "COCKTAIL DI GAMBERI IN SALSA ROSA",
+        "price": "Ksh 1800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Queen Prawns Served In Pink Sauce",
+        "priceSubTitle": "S"
+      },
+      {
+        "title": "PESCE VELA AFFUMICATO SUL LETTO DI LATTUGA",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Smoked Sailfish Carpaccio On a Bed Of Lettuce Topped With Onions & Drizzle Of Fresh Lemon Juice",
+        "priceSubTitle": "S"
+      }
+    ],
+    "bgImgShow": "/assets/img/bg/barMenuBg.png",
+    "headingtext": {
+      "title": "Antipasti",
+      "subTitle": "SEAFOOD STARTER",
+      "tyle": "center"
+    }
+  }
+]
