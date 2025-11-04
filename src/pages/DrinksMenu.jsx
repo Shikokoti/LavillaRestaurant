@@ -22,7 +22,7 @@ export default function DrinksMenu() {
 
   return (
     <div>
-      <CommonHero title="Our Drinks Menu" link="/" />
+      <CommonHero title="Our Drinks Menu." link="/" />
       {drinksmenulist?.map((item, i) => (
         <div
           key={i}
