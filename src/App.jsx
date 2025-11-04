@@ -16,6 +16,7 @@ import Chefdetails from "./pages/Chefdetails";
 import Portfoliodetails from "./pages/Portfoliodetails";
 import Blog from "./pages/Blog";
 import Blogdetails from "./pages/Blogdetails";
+import DrinksMenu from "./pages/DrinksMenu";
 
 export default function App() {
   return (
@@ -25,6 +26,7 @@ export default function App() {
         <Route path="/home2" element={<HomeTwo />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/menu" element={<Menu />}></Route>
+        <Route path="/drinks-menu" element={<DrinksMenu />}></Route>
         <Route path="/chef" element={<Chef />}></Route>
         <Route path="/meet-the-chef/:id" element={<Chefdetails />}></Route>
         <Route path="/portfolio" element={<Portfolio />}></Route>

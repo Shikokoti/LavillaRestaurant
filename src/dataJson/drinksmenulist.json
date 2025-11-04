@@ -1,6 +1,6 @@
 [
   {
-    "drinksMenu": [
+    "DrinksMenu": [
       {
         "title": "APERITIF & COCKTAILS",
         "price": "Ksh 2100",
@@ -101,7 +101,7 @@
     "bgImgShow": "/assets/img/bg/menuBg.png"
   },
   {
-    "foodMenu": [
+    "DrinksMenu": [
       {
         "title": "INSALATA DI MARE",
         "price": "Ksh 2300",

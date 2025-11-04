@@ -17,8 +17,8 @@
     },
     {
         "title": "Drinks Menu",
-        "link": "/menu",
-        "key": "menu"
+        "link": "/drinks-menu",
+        "key": "drinksmenu"
     },
     {
         "title": "Events",
