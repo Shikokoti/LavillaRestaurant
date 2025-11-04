@@ -210,6 +210,177 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Barbera D’Asti DOC Balbi | 2021 | Piemonte",
+        "price": "Ksh 6200",
+        "subTitle": "Full bodied, dry, round, and velvety.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Nebbiolo D’Alba DOC Balbi | 2019 | Piemonte",
+        "price": "Ksh 6800",
+        "subTitle": "A full-bodied dry wine with velvety and harmonious flavors, typical light and wild strawberries.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Terdema Langhe Santa Stefano Belbo | Dolcetto | Barbera | Merlot | 2020 | Piemonte",
+        "price": "Ksh 7800",
+        "subTitle": "Exhibits flavors of red fruits and dark fruits with an oaky finish.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Barbaresco Balbi | Nebbiolo | 2019 | Piemonte",
+        "price": "Ksh 9600",
+        "subTitle": "Full-bodied with fruity, spicy, and leather notes with pleasing tannins.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Amarone Della Valpolicella DOCG | La Collina Dei Ciliegi | 2015 | Veneto",
+        "price": "Ksh 6500",
+        "subTitle": "A bold, smooth, and dry wine with notes of black fruits, black currants, blueberries, blackberries, red fruits, strawberries, and dried leaves.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Macion Valpolicella Ripasso Superiore DOC | La Collina Dei Ciliegi | 2019 | Veneto",
+        "price": "Ksh 7400",
+        "subTitle": "Aromas of small red fruits and dried flowers, followed by sophisticated balsamic notes. Velvety, harmonious, full, and round with lively freshness.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Chianti Giacondi | 2020 | Tuscany",
+        "price": "Ksh 4200 / 900",
+        "subTitle": "Lightly fruity and dry red with good acidity and slight tannin roughness.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Fattoria Le Maestrelle Santa Cristina | Shiraz | 2020 | Tuscany",
+        "price": "Ksh 6800 / 1400",
+        "subTitle": "Complex and intense on the nose with notes of vanilla and coffee, balanced with aromas of mint, cocoa, and red fruits.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Brunello Di Montalcino DOCG | Sangiovese | 2018 | Tuscany",
+        "price": "Ksh 22000",
+        "subTitle": "Gorgeous earthy bouquet with spice (black pepper), dark fruit (cherry), and smoke notes.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Pinot Nero Mastri Venacoli | 2021 | Trentino",
+        "price": "Ksh 6800",
+        "subTitle": "Red ruby color with brick-red reflections, fruity nose, dry, harmonious and refined palate with pleasantly bitter undertones.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Sangiovese Merlot IGT Nespolino Rubicone | 2021 | Romagna",
+        "price": "Ksh 4200 / 900",
+        "subTitle": "Well-balanced red blend with intense ruby color. Notes of cherry and violet typical of Sangiovese, with herbs and chocolate aromas from Merlot.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Sangiovese DOC Fico Grande | 2022 | Romagna",
+        "price": "Ksh 4200",
+        "subTitle": "Bright red with violet highlights, rich bouquet of red fruits, medium-bodied with delicate tannins.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Cabernet Sauvignon Giacondi | Forli",
+        "price": "Ksh 4200",
+        "subTitle": "Distinctive black currant aromas with intense ruby-red color.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Merlot Giacondi | Forli",
+        "price": "Ksh 4800",
+        "subTitle": "Typical ruby color with cherry flavors accentuated by herbal notes.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Sangiovese Superiore DOC Prugneto | 2021 | Romagna",
+        "price": "Ksh 6200",
+        "subTitle": "Notes of ripe fruits and aromas of cherry, licorice, raspberry, and violet.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Sangiovese Appassimento Tenuta Santodeno | 2022 | Romagna",
+        "price": "Ksh 8800",
+        "subTitle": "Intense ruby color and deep rich aromas of red fruits, blackberry jam, and spices. Full-bodied with soft tannins and balanced sweetness.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Sangiovese Cabernet Sauvignon IGT Borgo Dei Guidi Rubicone | 2019",
+        "price": "Ksh 9800",
+        "subTitle": "Soft & round wine with deep ruby red color and a long intense perfume of red fruits and blackberry jam, sweetened by spicy notes of licorice.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Sangiovese Superiore DOC Prugneto 1.5L | 2021",
+        "price": "Ksh 11500",
+        "subTitle": "Notes of ripe fruits and aromas of cherry, licorice, raspberry, and violet.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Sangiovese Superiore DOC Prugneto 3L | 2021",
+        "price": "Ksh 38000",
+        "subTitle": "Notes of ripe fruits and aromas of cherry, licorice, raspberry, and violet.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Montepulciano Riserva DOC Tombacco Biferno | 2018 | Abruzzo",
+        "price": "Ksh 5800",
+        "subTitle": "A deep ruby red blend with violet reflections together with wild berries and well-integrated tannins with a long finish.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Montepulciano Truentum Sud D'Italia | 2021 | Abruzzo",
+        "price": "Ksh 8800",
+        "subTitle": "A deep ruby red blend with violet reflections together with wild berries and well-integrated tannins with a long finish.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Trentangeli DOC Castell Del Monte | Cabernet | Shiraz | 2018 | Puglia",
+        "price": "Ksh 7800",
+        "subTitle": "Blend of Aglianico, Shiraz, Cabernet Sauvignon with notes of blackberry, chocolate, vanilla, and earthy flavors.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Susco IGP San Marzano Salento | Susumaniello | 2020 | Puglia",
+        "price": "Ksh 6800",
+        "subTitle": "Floral and fruity bouquet with spicy delicate balsamic notes; intense ruby color.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      }
+    ],
+    "headingtext": {
+      "title": "Red Wine",
+      "subTitle": "Itallian Wines",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   }
 
 ]
