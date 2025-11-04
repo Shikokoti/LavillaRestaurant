@@ -103,46 +103,113 @@
   {
     "DrinksMenu": [
       {
-        "title": "INSALATA DI MARE",
-        "price": "Ksh 2300",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Mix Seafood Prawns | Squid | With Honey Mustard Dressing",
-        "priceSubTitle": "S"
+        "title": "Pinot Grigio DOC | Giacondi | Sicily",
+        "price": "Ksh 1150 / 5500",
+        "subTitle": "The pleasant fruity flavor of ripe pear in the nose.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
       },
       {
-        "title": "FIORE DI CARPACCIO NORVEGESE AFFUMICATO",
-        "price": "Ksh 2200",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Smoked Norwegian Salmon With Fennel & Lemon Orange Dressing",
-        "priceSubTitle": "S"
+        "title": "Chardonnay Giacondi | Veneto",
+        "price": "Ksh 1150 / 5500",
+        "subTitle": "Bright yellow color, intriguing floral notes. Pleasantly dry on the palate.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
       },
       {
-        "title": "GAMBERI TEMPURA",
-        "price": "Ksh 2600",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "A Delicate Balance Of Crisp & Tender Fried Prawns",
-        "priceSubTitle": "S"
+        "title": "Trebbiano D'Abruzzo DOC | Abruzzo | 2023",
+        "price": "Ksh 5800",
+        "subTitle": "Aromas of delicate floral notes like acacia or white blossoms with hints of green apple, pear, and lemon zest. Light to medium bodied.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
       },
       {
-        "title": "COCKTAIL DI GAMBERI IN SALSA ROSA",
-        "price": "Ksh 1800",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Queen Prawns Served In Pink Sauce",
-        "priceSubTitle": "S"
+        "title": "Gavi DOCG Bollina | Serravalle Scrivia | 2023",
+        "price": "Ksh 1250 / 6200",
+        "subTitle": "Aromatic and bright wine with good aromatic persistence and a pleasant acidic and mineral note.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
       },
       {
-        "title": "PESCE VELA AFFUMICATO SUL LETTO DI LATTUGA",
-        "price": "Ksh 1950",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Smoked Sailfish Carpaccio On a Bed Of Lettuce Topped With Onions & Drizzle Of Fresh Lemon Juice",
-        "priceSubTitle": "S"
+        "title": "Cavit Riesling | Trento | 2023",
+        "price": "Ksh 6200",
+        "subTitle": "Refreshing light floral notes with aromas and flavors of apricot, peach, and pear — known for its balanced sweetness and acidity. Light-bodied.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Sauvignon Blanc Asiottus | Emilia Romagna",
+        "price": "Ksh 1350 / 6200",
+        "subTitle": "Nose reveals a delicate blend of elderflower and gooseberry with hints of green bell pepper and lime. On the palate, it's medium-bodied with good refreshing acidity, featuring tones of white-fleshed fruits and green tea. Blend of Chardonnay and Sauvignon Blanc grapes.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
       }
     ],
-    "bgImgShow": "/assets/img/bg/barMenuBg.png",
     "headingtext": {
-      "title": "Antipasti",
-      "subTitle": "SEAFOOD STARTER",
+      "title": "White Wine",
+      "subTitle": "Itallian Wines",
       "tyle": "center"
-    }
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Pinot Grigio Blush Zonin | Veneto | 2015",
+        "price": "Ksh 5200",
+        "subTitle": "Delicate and fine aromas with floral and fruity notes.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Rosé Santa Cristina Giardino | Sangiovese | Toscana | 2021",
+        "price": "Ksh 6200",
+        "subTitle": "An intriguing and pleasant nose that offers floral and fruity notes of pink grapefruit, wild strawberries, and ripe apples, balanced with crisp freshness and a savory finish.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Prosecco DOC Rosé Brut Luna | Glera | Veneto",
+        "price": "Ksh 5800",
+        "subTitle": "Aromas of citrus, melon, almond, honey, and strawberry accompanied with floral notes.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Pinot Grigio Rosé San Vigilio | Lombardy | 2021",
+        "price": "Ksh 1250 / 6200",
+        "subTitle": "Lovely, light coppery pink color. Appealing lightly aromatic nose with red currant and cherry notes. Crisp palate with strawberry and peach fruit characters leading to a fresh and juicy finish.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Stil Rosé DOC Santa Margherita | Lombardy | 2021",
+        "price": "Ksh 6500",
+        "subTitle": "The delicate pink color leads you to floral fragrances and fruity notes of orange with hints of lychee and ginger.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Manzoni Moscato Bottega Rosé | Veneto",
+        "price": "Ksh 13000",
+        "subTitle": "The aroma of roses and fruity notes of cherry, raspberries, ripe citrus fruits, and final spicy notes of sage.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Rosé Brut Gold Bottega | Pinot Noir | Veneto",
+        "price": "Ksh 13000",
+        "subTitle": "Nose of peach and summer berries with a palate that is fresh and crisp, with floral notes and flavors of strawberry and peach.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      }
+    ],
+    "headingtext": {
+      "title": "Rosé Wine",
+      "subTitle": "Itallian Wines",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   }
+
 ]
