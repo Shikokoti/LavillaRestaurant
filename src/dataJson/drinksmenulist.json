@@ -381,6 +381,37 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Moët & Chandon Imperial Brut | France | Pinot Noir | Pinot Meunier | Chardonnay",
+        "price": "Ksh 20000",
+        "subTitle": "An elegant golden straw yellow color with green highlights and a sparkling bouquet.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Veuve Clicquot Brut | 2015 | France | Pinot Noir-Chardonnay | Pinot Meunier",
+        "price": "Ksh 26000",
+        "subTitle": "The Brut Yellow Label is known for its rich, complex flavor profile with notes of yellow and white fruits, citrus, and a touch of brioche.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Laurent-Perrier La Cuvée Brut | France | Pinot Noir | Chardonnay | Pinot Meunier",
+        "price": "Ksh 24000",
+        "subTitle": "A non-vintage champagne known for its elegant, refined style and delicate, crisp flavors.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      }
+    ],
+    "headingtext": {
+      "title": "Champagne & Sparkling",
+      "subTitle": "Itallian Wines",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   }
 
 ]
