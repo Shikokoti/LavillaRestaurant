@@ -227,5 +227,95 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Negroni Sbagliato",
+        "price": "Ksh 900",
+        "subTitle": "Prosecco, Campari & Martini Rosso.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Negroni Classic",
+        "price": "Ksh 950",
+        "subTitle": "London Dry Gin, Campari & Martini Rosso.",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Negroni Cocktails",
+      "subTitle": "Classic Italian Cocktails",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Kijabe Gimlet",
+        "price": "Ksh 1500",
+        "subTitle": "Muddled juniper berries, with Blue Dot Gin, simple syrup and Lemon juice.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Blue Dot Negroni",
+        "price": "Ksh 1350",
+        "subTitle": "Procera Blue Dot Gin, Campari & Martini Fiero.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Red Dot Negroni",
+        "price": "Ksh 1650",
+        "subTitle": "Red Dot, Campari and sweet red vermouth.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray Craft",
+        "price": "Ksh 1450",
+        "subTitle": "Rosemary Aromatic Tonic & Strawberries.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray 10 Craft",
+        "price": "Ksh 1600",
+        "subTitle": "Grapefruit Mediterranean Tonic.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray Royale Craft",
+        "price": "Ksh 1650",
+        "subTitle": "Mixed Berries - Blue Tonic.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Malfy Gin Rosa Craft",
+        "price": "Ksh 1650",
+        "subTitle": "Grapefruit, Grapefruit Tonic.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Botanist Craft",
+        "price": "Ksh 1550",
+        "subTitle": "Strawberries, Indian Tonic.",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Gin Cocktails & Craft Gins",
+      "subTitle": "Premium Gin Creations",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   }
 ]
