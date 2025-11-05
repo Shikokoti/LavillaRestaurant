@@ -23,12 +23,12 @@
             {
                 "title": "Wines",
                 "link": "/drinks-menu/wines",
-                "key": "cocktails"
+                "key": "Wines"
             },
             {
                 "title": "Beverages",
                 "link": "/drinks-menu/beverages",
-                "key": "wines"
+                "key": "Beverages"
             }
 
         ]
