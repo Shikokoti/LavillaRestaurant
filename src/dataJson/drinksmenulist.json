@@ -317,5 +317,134 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Beefeater",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Beefeater Pink",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Beefeater Blood Orange",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Bombay Sapphire",
+        "price": "Ksh 500",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray",
+        "price": "Ksh 500",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray 10",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray Royale",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Hendricks",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "The Botanist",
+        "price": "Ksh 700",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Gin Mare",
+        "price": "Ksh 700",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Procera Blue Dot",
+        "price": "Ksh 950",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Procera Red Dot",
+        "price": "Ksh 1050",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Procera Green Dot",
+        "price": "Ksh 1250",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Monkey 47",
+        "price": "Ksh 750",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Malfy Rosa",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Malfy Con Limone",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Malfy Originale",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Gin Spirits",
+      "subTitle": "Premium Gin Selection",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   }
 ]
