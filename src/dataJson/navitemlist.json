@@ -18,7 +18,20 @@
     {
         "title": "Drinks Menu",
         "link": "/drinks-menu",
-        "key": "drinksmenu"
+        "key": "drinksmenu",
+        "children":[
+            {
+                "title": "Cocktails",
+                "link": "/drinks-menu/wines",
+                "key": "cocktails"
+            },
+            {
+                "title": "Wines",
+                "link": "/drinks-menu/beverages",
+                "key": "wines"
+            }
+
+        ]
     },
     {
         "title": "Events",
