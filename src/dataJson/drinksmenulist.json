@@ -475,9 +475,29 @@
         "price": "Ksh 32000",
         "subTitle": "A full-bodied dry wine with velvety and harmonious flavors, typical light and wild strawberries.",
         "priceSubTitle": "",
-        "image": "/assets/img/itemShow/food-menu.png" 
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Barbaresco DOCG Ceretto | Nebbiolo | 2020 ",
+        "price": "Ksh 28000",
+        "subTitle": "Soft, dry, rich in tannins harmonious, and full. Rich bouquet.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Solaia Antinori | Cabarnet Sauvignon | 2018 ",
+        "price": "Ksh 63000",
+        "subTitle": "An intense, deep ruby red color. Its nose is impressive with intense notes of dark,",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
       }
-    ]
+    ],
+    "headingtext": {
+      "title": "Premium Wine",
+      "subTitle": "Piemonte | Tuscany",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   }
 
 ]
