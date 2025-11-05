@@ -412,6 +412,72 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Moscato DOCG Acquesi Asti | Piemonte",
+        "price": "Ksh 1100 / 5200",
+        "subTitle": "The bouquet consists of honey, peach, and a touch of citrus.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      }
+    ],
+    "headingtext": {
+      "title": "Moscato Wine",
+      "subTitle": "Piemonte",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Chamdor Sparkling White | South Africa",
+        "price": "Ksh 5200 / 3800",
+        "subTitle": "Alcohol-free sparkling grape juice made from the highest quality grapes to give you the sweet wine flavors without the alcohol.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Chamdor Sparkling Red | South Africa",
+        "price": "Ksh 3800 / 7500",
+        "subTitle": "Alcohol-free sparkling grape juice made from the highest quality grapes to give you the sweet wine flavors without the alcohol.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Copenhagen Sparkling Tea Bla | Denmark | 2024",
+        "price": "Ksh 3800 / 7500",
+        "subTitle": "Delicate aromas of jasmine, chamomile & a hint of citrus. Followed by a round taste from the careful selection of white teas & accompanied by good complexity & depth from the green teas.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      },
+      {
+        "title": "Copenhagen Sparkling Tea Lysegron | Denmark | 2024",
+        "price": "Ksh 3800 / 7500",
+        "subTitle": "Lively & elegant with notes of citrus, lemongrass, Earl Grey sencha & orange peel. Remarkable layers & a long-lasting hint of Darjeeling & green apples on the finish.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png"
+      }
+    ],
+    "headingtext": {
+      "title": "Non-Alcoholic & Sparkling Tea",
+      "subTitle": "International",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Barolo DOCG Ceretto | Nebbiolo | 2019 | Piemonte",
+        "price": "Ksh 32000",
+        "subTitle": "A full-bodied dry wine with velvety and harmonious flavors, typical light and wild strawberries.",
+        "priceSubTitle": "",
+        "image": "/assets/img/itemShow/food-menu.png" 
+      }
+    ]
   }
 
 ]
