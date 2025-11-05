@@ -5,7 +5,7 @@ import { ButtonCommon } from "../Button/Button";
 
 import itemShow from "/assets/img/itemShow/food-menu.png";
 
-const foodMenu = [
+const WineMenu = [
   {
     title: "Breggio D’amore",
     price: "Ksh 2450",
@@ -92,7 +92,7 @@ export default function FoodMenuHome({ styleTwo }) {
         {styleTwo == true ? (
           <div className="d-flex justify-content-between flex-wrap gap-5 gap-md-0">
             <div className="ak-menu-list style-2">
-              {foodMenu?.slice(0, 5).map((item, index) => {
+              {WineMenu?.slice(0, 5).map((item, index) => {
                 return <WineMenuItem key={index} data={item} />;
               })}
             </div>
@@ -102,7 +102,7 @@ export default function FoodMenuHome({ styleTwo }) {
           </div>
         ) : (
           <div className="ak-menu-list">
-            {foodMenu?.map((item, index) => {
+            {WineMenu?.map((item, index) => {
               return <WineMenuItem key={index} data={item} />;
             })}
           </div>
