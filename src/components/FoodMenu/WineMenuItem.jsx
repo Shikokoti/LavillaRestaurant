@@ -2,7 +2,7 @@ import { useLayoutEffect, useRef } from "react";
 import PropTypes from "prop-types";
 import { foodMenuHr, overImageShows } from "../../helper/main";
 
-export default function DrinksMenuItem({ data }) {
+export default function WineMenuItem({ data }) {
   const menuListSection = useRef(null);
   const border = useRef(null);
   const bordertwo = useRef(null);
@@ -43,7 +43,7 @@ export default function DrinksMenuItem({ data }) {
   );
 }
 
-DrinksMenuItem.propTypes = {
+WineMenuItem.propTypes = {
   data: PropTypes.shape({
     title: PropTypes.string,
     price: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
