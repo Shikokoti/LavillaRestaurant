@@ -323,126 +323,223 @@
       {
         "title": "Beefeater",
         "price": "Ksh 400",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 6700",
         "image": ""
       },
       {
         "title": "Beefeater Pink",
         "price": "Ksh 450",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 6700",
         "image": ""
       },
       {
         "title": "Beefeater Blood Orange",
         "price": "Ksh 450",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 6700",
         "image": ""
       },
       {
         "title": "Bombay Sapphire",
         "price": "Ksh 500",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 7500",
         "image": ""
       },
       {
         "title": "Tanqueray",
         "price": "Ksh 500",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 8000",
         "image": ""
       },
       {
         "title": "Tanqueray 10",
         "price": "Ksh 600",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 10000",
         "image": ""
       },
       {
         "title": "Tanqueray Royale",
         "price": "Ksh 600",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 7500",
         "image": ""
       },
       {
         "title": "Hendricks",
         "price": "Ksh 600",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 10500",
         "image": ""
       },
       {
         "title": "The Botanist",
         "price": "Ksh 700",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 10000",
         "image": ""
       },
       {
         "title": "Gin Mare",
         "price": "Ksh 700",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 13000",
         "image": ""
       },
       {
         "title": "Procera Blue Dot",
         "price": "Ksh 950",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 18000",
         "image": ""
       },
       {
         "title": "Procera Red Dot",
         "price": "Ksh 1050",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 21000",
         "image": ""
       },
       {
         "title": "Procera Green Dot",
         "price": "Ksh 1250",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 25000",
         "image": ""
       },
       {
         "title": "Monkey 47",
         "price": "Ksh 750",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 9500",
         "image": ""
       },
       {
         "title": "Malfy Rosa",
         "price": "Ksh 550",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 9500",
         "image": ""
       },
       {
         "title": "Malfy Con Limone",
         "price": "Ksh 550",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 9500",
         "image": ""
       },
       {
         "title": "Malfy Originale",
         "price": "Ksh 550",
-        "subTitle": "",
-        "priceSubTitle": "",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 9500",
         "image": ""
       }
     ],
     "headingtext": {
-      "title": "Gin Spirits",
+      "title": "Gin",
       "subTitle": "Premium Gin Selection",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Absolut",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 7500",
+        "image": ""
+      },
+      {
+        "title": "Ketel One",
+        "price": "Ksh 550",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 9500",
+        "image": ""
+      },
+      {
+        "title": "Grey Goose",
+        "price": "Ksh 750",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 13000",
+        "image": ""
+      },
+      {
+        "title": "Ciroc",
+        "price": "Ksh 700",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 12500",
+        "image": ""
+      },
+      {
+        "title": "Beluga",
+        "price": "Ksh 800",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 14000",
+        "image": ""
+      },
+      {
+        "title": "Belvedere",
+        "price": "Ksh 650",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 12000",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Vodka",
+      "subTitle": "Premium Vodka Selection",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Bacardi Carta Blanca",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 6000",
+        "image": ""
+      },
+      {
+        "title": "Bacardi Negra",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 6000",
+        "image": ""
+      },
+      {
+        "title": "Captain Morgan Spiced",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 6000",
+        "image": ""
+      },
+      {
+        "title": "Malibu",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 4000",
+        "image": ""
+      },
+      {
+        "title": "Ron Zacapa 23",
+        "price": "Ksh 800",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 19800",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Rum",
+      "subTitle": "Premium Rum Selection",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
