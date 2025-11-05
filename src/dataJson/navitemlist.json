@@ -21,12 +21,12 @@
         "key": "drinksmenu",
         "children":[
             {
-                "title": "Cocktails",
+                "title": "Wines",
                 "link": "/drinks-menu/wines",
                 "key": "cocktails"
             },
             {
-                "title": "Wines",
+                "title": "Beverages",
                 "link": "/drinks-menu/beverages",
                 "key": "wines"
             }
