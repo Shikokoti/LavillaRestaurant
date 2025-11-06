@@ -76,3 +76,38 @@ npm start
 
 
 Open your browser and navigate to http://localhost:3000.
+
+```
+
+Usage
+
+Navigate through the pages using the menu bar.
+
+View dishes and drinks in the Menu section.
+
+Fill in the Reservation Form to book a table.
+
+Browse the Gallery to see restaurant photos.
+
+Check About and Contact for more information.
+
+```
+
+## Folder Structure
+,,,
+
+lavilla-restaurant/
+├── client/                 # React frontend
+│   ├── src/
+│   │   ├── components/     # Reusable components (Menu, Hero, Buttons)
+│   │   ├── pages/          # Individual pages (Home, About, Menu, Contact)
+│   │   ├── assets/         # Images, fonts, icons
+│   │   └── App.js
+├── server/                 # Node.js backend
+│   ├── routes/             # API routes (e.g., reservations)
+│   ├── controllers/        # Logic for handling requests
+│   ├── models/             # Database models
+│   └── server.js
+├── README.md
+└── package.json
+,,,
