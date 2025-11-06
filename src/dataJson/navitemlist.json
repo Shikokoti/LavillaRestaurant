@@ -33,15 +33,16 @@
 
         ]
     },
+
+    {
+        "title": "Wine Menu",
+        "link": "/drinks-menu/wines",
+        "key": "Wines"
+    },
     {
         "title": "Events",
         "link": "/chef",
         "key": "chef"
-    },
-    {
-        "title": "Specials",
-        "link": "/portfolio",
-        "key": "portfolio"
     },
     {
         "title": "Contact Us",

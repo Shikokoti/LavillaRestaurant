@@ -967,8 +967,8 @@
       }
     ],
     "headingtext": {
-      "title": "Soft Drinks & Energy Drinks",
-      "subTitle": "Refreshing Non-Alcoholic Choices",
+      "title": "Coffee",
+      "subTitle": "Rich & Aromatic Brews",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
@@ -1005,8 +1005,53 @@
       }
     ],
     "headingtext": {
-      "title": "Soft Drinks & Energy Drinks",
-      "subTitle": "Refreshing Non-Alcoholic Choices",
+      "title": "Tea",
+      "subTitle": "Aromatic & Soothing",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "NuttySalted Toffey",
+        "price": "Ksh 650",
+        "subTitle": "",
+        "priceSubTitle": "Contains Nuts",
+        "image": ""
+      },
+      {
+        "title": "Heavenly Vanilla",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Creamy Chocolate Dream",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Kitisuru Strawberry Dream",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "La Villa Coffee Cloud",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Milkshaes & Smoothies",
+      "subTitle": "Delightful Blended Treats",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
