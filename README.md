@@ -1,111 +1,121 @@
+# 🍽️ Lavilla Restaurant Website
 
-# Lavilla Restaurant Website
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) 
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/) 
 
-Welcome to the Lavilla Restaurant Website project! This is a modern, responsive web application for a restaurant, built with **React** for the frontend and **Node.js** for the backend. The website allows users to explore the menu, make reservations, view galleries, and learn more about the restaurant.
-
----
-
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+A modern, responsive **restaurant website** built with **React** and **Node.js**, featuring online reservations, dynamic menus, gallery pages, and smooth navigation.
 
 ---
 
-## Features
+## 🚀 Table of Contents
 
-- **Dynamic Menu Pages**: Browse food and drinks menus with images, prices, and descriptions.  
-- **Reservation System**: Make online reservations with form validation.  
-- **Gallery Page**: View images of the restaurant and past events.  
-- **About Page**: Learn about the restaurant, its story, and chefs.  
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices.  
-- **Smooth Navigation**: Fast and intuitive routing with React Router.  
-
----
-
-## Technologies Used
-
-- **Frontend**:  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
-
-- **Backend**:  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-
-- **Database**:  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-- **Other Tools**:  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)  
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
- 
+- [🎯 Features](#-features)  
+- [🛠️ Technologies Used](#-technologies-used)  
+- [💻 Installation](#-installation)  
+- [📦 Usage](#-usage)  
+- [📂 Folder Structure](#-folder-structure)  
+- [🤝 Contributing](#-contributing)  
+- [📄 License](#-license)  
 
 ---
 
-## Installation
+## 🎯 Features
 
-1. Clone the repository:
+- 🍔 **Dynamic Menu Pages** – View food & drinks menus with images, prices, and descriptions  
+- 📝 **Reservation System** – Book tables online with validation  
+- 🖼️ **Gallery Page** – Browse restaurant and event photos  
+- 📖 **About Page** – Learn about the restaurant and chefs  
+- 📱 **Responsive Design** – Works perfectly on desktop, tablet, and mobile  
+- ⚡ **Smooth Navigation** – Fast and intuitive routing with React Router  
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)  
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)  
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)  
+
+### Backend
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
+
+### Database
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+
+### Other Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)  
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)  
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)  
+
+---
+
+## 💻 Installation
+
+1. **Clone the repository:**
 ```bash
-git clone https://github.com/shikokoti/lavilla-restaurant.git
+git clone https://github.com/shikokkot/lavilla-restaurant.git
 ```
-## 2. Navigate to the project director
+## Navigate to the project directory:
 ```bash
+Copy code
 cd lavilla-restaurant
 ```
-## 3. Install dependencies for frontend:
+## Install frontend dependencies:
 
 ```bash
+Copy code
 cd client
 npm install
 ```
-## 4. Install dependencies for backend:
+## Install backend dependencies:
 
 ```bash
+Copy code
 cd ../server
 npm install
 ```
+
 ## Start the development server:
 
-# In the server folder
-```bash 
+```bash
+Copy code
+In the server folder
 npm run dev
 ```
-## In the client folder
+
+# In the client folder
 ```bash
 npm start
-```
-Open your browser and navigate to http://localhost:3000.
-```
-
-Usage
-
-Navigate through the pages using the menu bar.
-
-View dishes and drinks in the Menu section.
-
-Fill in the Reservation Form to book a table.
-
-Browse the Gallery to see restaurant photos.
-
-Check About and Contact for more information.
-
+Open your browser:
+http://localhost:3000
 ```
 
-## Folder Structure
-
+## 📦 Usage
 ```
+Explore pages via the top navigation menu
+
+View dishes & drinks in the Menu section
+
+Fill the Reservation Form to book a table
+
+Browse Gallery images
+
+Check About and Contact for more information
+```
+
+## 📂 Folder Structure
+```bash
+Copy code
 lavilla-restaurant/
 ├── client/                 # React frontend
 │   ├── src/
@@ -120,26 +130,35 @@ lavilla-restaurant/
 │   └── server.js
 ├── README.md
 └── package.json
-
 ```
-## Contributing
+## 🤝 Contributing
+```
+Contributions are welcome!
 
-Contributions are welcome! To contribute:
-
-Fork the repository.
-
+Fork the repository
+```
 Create a new branch:
 
+```bash
+Copy code
 git checkout -b feature/YourFeatureName
-
-
 Make your changes and commit:
-
+```
+```bash
+Copy code
 git commit -m "Add your message"
+Push your branch and open a Pull Request
+```
 
-
-Push to your branch and open a Pull Request.
-
-License
-
+## 📄 License
 This project is licensed under the MIT License.
+
+yaml
+Copy code
+
+---
+
+This version uses **badges for all technologies**, emojis for visual hierarchy, and a clean structure for better readability.  
+
+ 
+
