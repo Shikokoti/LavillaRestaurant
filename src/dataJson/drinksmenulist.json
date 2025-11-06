@@ -543,5 +543,78 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Olmeca Bianco",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Olmeca Gold",
+        "price": "Ksh 550",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 9500",
+        "image": ""
+      },
+      {
+        "title": "Jose Cuervo Gold",
+        "price": "Ksh 550",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 9500",
+        "image": ""
+      },
+      {
+        "title": "Don Julio Blanco",
+        "price": "Ksh 700",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 14000",
+        "image": ""
+      },
+      {
+        "title": "Don Julio Reposado",
+        "price": "Ksh 700",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 14000",
+        "image": ""
+      },
+      {
+        "title": "Don Julio Anejo",
+        "price": "Ksh 850",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 18000",
+        "image": ""
+      },
+      {
+        "title": "Cincoro Blanco",
+        "price": "Ksh 850",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 35000",
+        "image": ""
+      },
+      {
+        "title": "Cincoro Reposado",
+        "price": "Ksh 850",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 45000",
+        "image": ""
+      },
+      {
+        "title": "Don Julio 1942",
+        "price": "Ksh 2600",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 65000",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Tequila",
+      "subTitle": "Premium Tequila Selection",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   }
 ]
