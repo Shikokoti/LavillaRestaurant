@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "posation": "Ladies Night",
-        "name": "With Live Band Music",
+        "posation": "Fridays 7:30 PM - 9:00 PM",
+        "name": "Live Band ",
         "img": "/assets/img/chef/chef_1.jpg",
         "videolink": "https://vimeo.com/734126900",
         "shortDesp": "Gather your girls and unwind in style every Thursday at LaVilla Restaurant!",
@@ -14,7 +14,7 @@
             },
             {
                 "link": "https://www.linkedin.com/",
-                "name": "linkedin"
+                "name": "TikTok"
             },
             {
                 "link": "https://www.instagram.com/",
@@ -24,11 +24,11 @@
     },
     {
         "id": 2,
-        "posation": "Wine Wednesday",
-        "name": "Drink All Wine",
+        "posation": "Sundays 6:00 PM - 8:00 PM",
+        "name": "Live Piano",
         "img": "/assets/img/chef/chef_2.jpg",
         "videolink": "https://vimeo.com/734126900",
-        "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
+        "shortDesp": "Lavilla restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
         "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
         "Children": [
             {
