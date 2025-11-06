@@ -42,3 +42,27 @@ Welcome to the Lavilla Restaurant Website project! This is a modern, responsive 
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/lavilla-restaurant.git
+
+
+```
+## 2. Navigate to the project director
+```bash
+cd lavilla-restaurant
+
+----
+
+```
+## 3. Install dependencies for frontend:
+
+```bash
+cd client
+npm install
+
+```
+## 4. Install dependencies for backend:
+
+```bash
+ccd ../server
+npm install
+
+```
