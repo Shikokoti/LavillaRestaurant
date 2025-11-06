@@ -1,16 +1,17 @@
 import { useLayoutEffect, useRef } from "react";
 import CommonHero from "../components/CommonHero/CommonHero";
-import DrinksMenuItem from "../components/FoodMenu/DrinksMenuItem";
+import WineMenuItem from "../components/FoodMenu/WineMenuItem"; 
+//import DrinksMenuItem from "../components/FoodMenu/DrinksMenuItem";
 import SectionTitle from "../components/SectionTitle/SectionTitle";
 import { imageZoomInOut } from "../helper/main";
-import drinksmenulist from "../dataJson/drinksmenulist.json";
+import winemenulist from "../dataJson/winemenulist.json";
 
-export default function DrinksMenu() {
+export default function WineMenu() {
   const imageContainers = useRef([]);
   const imageZoomIns = useRef([]);
 
   useLayoutEffect(() => {
-    drinksmenulist.forEach((drinks, index) => {
+    winemenulist.forEach((drinks, index) => {
       if (imageContainers.current[index] && imageZoomIns.current[index]) {
         imageZoomInOut(
           imageContainers.current[index],
@@ -22,8 +23,8 @@ export default function DrinksMenu() {
 
   return (
     <div>
-      <CommonHero title="Our Beverage Menu." link="/" />
-      {drinksmenulist?.map((item, i) => (
+      <CommonHero title="Our Wine Menu." link="/" />
+      {winemenulist?.map((item, i) => (
         <div
           key={i}
           className="set-bg-img-section"
@@ -45,8 +46,8 @@ export default function DrinksMenu() {
             />
             <div className="ak-height-65 ak-height-lg-30"></div>
             <div className="ak-menu-list">
-              {item?.DrinksMenu?.map((drink, index) => (
-                <DrinksMenuItem key={index} data={drink} />
+              {item?.WineMenu?.map((drink, index) => (
+                <WineMenuItem key={index} data={drink} />
               ))}
               
             </div>

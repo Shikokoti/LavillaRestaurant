@@ -18,17 +18,31 @@
     {
         "title": "Drinks Menu",
         "link": "/drinks-menu",
-        "key": "drinksmenu"
+        "key": "drinksmenu",
+        "children":[
+            {
+                "title": "Wines",
+                "link": "/drinks-menu/wines",
+                "key": "Wines"
+            },
+            {
+                "title": "Beverages",
+                "link": "/drinks-menu/beverages",
+                "key": "Beverages"
+            }
+
+        ]
+    },
+
+    {
+        "title": "Wine Menu",
+        "link": "/drinks-menu/wines",
+        "key": "Wines"
     },
     {
         "title": "Events",
         "link": "/chef",
         "key": "chef"
-    },
-    {
-        "title": "Specials",
-        "link": "/portfolio",
-        "key": "portfolio"
     },
     {
         "title": "Contact Us",
