@@ -66,3 +66,13 @@ ccd ../server
 npm install
 
 ```
+Start the development server:
+
+# In the server folder
+npm run dev
+
+# In the client folder
+npm start
+
+
+Open your browser and navigate to http://localhost:3000.
