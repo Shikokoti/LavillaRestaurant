@@ -156,9 +156,7 @@ This project is licensed under the MIT License.
 yaml
 Copy code
 
----
-
-This version uses **badges for all technologies**, emojis for visual hierarchy, and a clean structure for better readability.  
+---  
 
  
 
