@@ -774,5 +774,57 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Orange",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Passion Fruit",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Pineapple",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Mango Juice",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Fresh Lemon & Ginger Juice",
+        "price": "Ksh 450",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Freshly Squeezed Orange Juice",
+        "price": "Ksh 800",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Juices",
+      "subTitle": "Freshly Prepared & Chilled",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   }
 ]
