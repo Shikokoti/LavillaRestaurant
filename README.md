@@ -41,7 +41,7 @@ Welcome to the Lavilla Restaurant Website project! This is a modern, responsive 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/lavilla-restaurant.git
+git clone https://github.com/shikokoti/lavilla-restaurant.git
 
 
 ```
