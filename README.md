@@ -30,10 +30,27 @@ Welcome to the Lavilla Restaurant Website project! This is a modern, responsive 
 
 ## Technologies Used
 
-- **Frontend**: React, React Router, SCSS/CSS, Axios  
-- **Backend**: Node.js, Express.js  
-- **Database**: (Optional) MongoDB / SQLite / PostgreSQL depending on implementation  
-- **Other Tools**: Git, npm, Webpack, ESLint  
+- **Frontend**:  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
+
+- **Backend**:  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+
+- **Database**:  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+- **Other Tools**:  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)  
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+ 
 
 ---
 
@@ -42,41 +59,34 @@ Welcome to the Lavilla Restaurant Website project! This is a modern, responsive 
 1. Clone the repository:
 ```bash
 git clone https://github.com/shikokoti/lavilla-restaurant.git
-
-
 ```
 ## 2. Navigate to the project director
 ```bash
 cd lavilla-restaurant
-
-----
-
 ```
 ## 3. Install dependencies for frontend:
 
 ```bash
 cd client
 npm install
-
 ```
 ## 4. Install dependencies for backend:
 
 ```bash
-ccd ../server
+cd ../server
 npm install
-
 ```
-Start the development server:
+## Start the development server:
 
 # In the server folder
+```bash 
 npm run dev
-
-# In the client folder
+```
+## In the client folder
+```bash
 npm start
-
-
+```
 Open your browser and navigate to http://localhost:3000.
-
 ```
 
 Usage
@@ -94,8 +104,8 @@ Check About and Contact for more information.
 ```
 
 ## Folder Structure
-,,,
 
+```
 lavilla-restaurant/
 ├── client/                 # React frontend
 │   ├── src/
@@ -110,4 +120,26 @@ lavilla-restaurant/
 │   └── server.js
 ├── README.md
 └── package.json
-,,,
+
+```
+## Contributing
+
+Contributions are welcome! To contribute:
+
+Fork the repository.
+
+Create a new branch:
+
+git checkout -b feature/YourFeatureName
+
+
+Make your changes and commit:
+
+git commit -m "Add your message"
+
+
+Push to your branch and open a Pull Request.
+
+License
+
+This project is licensed under the MIT License.
