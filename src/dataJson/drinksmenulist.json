@@ -826,5 +826,92 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Fanta Orange & Black Currant",
+        "price": "Ksh 300",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Coke",
+        "price": "Ksh 300",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Sprite",
+        "price": "Ksh 300",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tonic",
+        "price": "Ksh 300",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Diet Coke",
+        "price": "Ksh 300",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Stoney",
+        "price": "Ksh 300",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Fitch and Leeds Indian Tonic",
+        "price": "Ksh 400",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Fitch and Leeds Blue Tonic",
+        "price": "Ksh 400",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Fitch and Leeds Pink Tonic",
+        "price": "Ksh 400",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Red Bull",
+        "price": "Ksh 600",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Heineken Zero 0",
+        "price": "Ksh 600",
+        "subTitle": "Glass",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Soft Drinks & Energy Drinks",
+      "subTitle": "Refreshing Non-Alcoholic Choices",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   }
 ]
