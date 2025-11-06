@@ -913,5 +913,102 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Espresso",
+        "price": "Ksh 300",
+        "subTitle": "Single",
+        "priceSubTitle": "250",
+        "image": ""
+      },
+      {
+        "title": "Machiato",
+        "price": "Ksh 400",
+        "subTitle": "Single",
+        "priceSubTitle": "350",
+        "image": ""
+      },
+      {
+        "title": "Cappuccino",
+        "price": "Ksh 500",
+        "subTitle": "Single",
+        "priceSubTitle": "450",
+        "image": ""
+      },
+      {
+        "title": "Latte",
+        "price": "Ksh 500",
+        "subTitle": "Single",
+        "priceSubTitle": "450",
+        "image": ""
+      },
+      {
+        "title": "Americano",
+        "price": "Ksh 450",
+        "subTitle": "Single",
+        "priceSubTitle": "400",
+        "image": ""
+      },
+      {
+        "title": "Mocha",
+        "price": "Ksh 550",
+        "subTitle": "Single",
+        "priceSubTitle": "500",
+        "image": ""
+      },
+      {
+        "title": "Hot Chocolate",
+        "price": "Ksh 500",
+        "subTitle": "Single",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Soft Drinks & Energy Drinks",
+      "subTitle": "Refreshing Non-Alcoholic Choices",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Herbal Tea",
+        "price": "Ksh 400",
+        "subTitle": "Single",
+        "priceSubTitle": "Hibiscus | Green | Camomile",
+        "image": ""
+      },
+      {
+        "title": "English Breakfast",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Fruit Tea",
+        "price": "Ksh 500",
+        "subTitle": "Peach | Srawberry-Vanilla | Apple-Cinnamon",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Mixed Kenyan Tea",
+        "price": "Ksh 500",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Soft Drinks & Energy Drinks",
+      "subTitle": "Refreshing Non-Alcoholic Choices",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   }
 ]
