@@ -6,19 +6,19 @@ const sliderData = [
   {
     title: "Welcome To Lavilla",
     maintitle: "Restaurant",
-    desp: "Between a bottle of Italian wine and two close friends, born the vision La Villa Restaurant and Wine bar The deep passion for the Italian cuisine, pushed those friends to open an Italian restaurant in Nairobi with a concept totally different from the standards.... La Villa needed to be an elegant place where any one can taste the traditional Italian cuisine and a range of Italian wines....",
+    desp: "Where Authenticity Meets Class 🇮🇹 Inspirational Italian Food 🍷 Great Selection Of Wine & Cocktails 🔥 Wood Fired Pizzas.",
     buttonUrl: "reservations",
   },
   {
     title: "Experience Italian Cuisine",
     maintitle: "Restaurant",
-    desp: "Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with",
+    desp: "Where Authenticity Meets Class 🇮🇹 Inspirational Italian Food 🍷 Great Selection Of Wine & Cocktails 🔥 Wood Fired Pizzas.",
     buttonUrl: "reservations",
   },
   {
-    title: "Fine Dining Awaits",
+    title: "Nairobi Fine Dining Awaits",
     maintitle: "Restaurant",
-    desp: "Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with",
+    desp: "Where Authenticity Meets Class 🇮🇹 Inspirational Italian Food 🍷 Great Selection Of Wine & Cocktails 🔥 Wood Fired Pizzas.",
     buttonUrl: "reservations",
   },
 ];
