@@ -6,7 +6,7 @@ import classNames from "classnames";
 
 const Openinginfo = {
   title: "Opening Hours",
-  image: "/assets/img/about/about_open_hour.jpg",
+  image: "/assets/img/about/about10.jpg",
   subtext:
     "Lavilla, where culinary artistry meets exceptional dining experiences. At Lavilla, we strive to create a gastronomic haven that.",
   open: "MON 17:30PM - 23:00PM",
