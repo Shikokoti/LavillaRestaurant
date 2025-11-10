@@ -47,7 +47,7 @@ export default function CommentConatctFrom() {
         />
       </div>
       <div className="ak-height-40 ak-height-lg-20"></div>
-      <SubmitButton>Post Comment</SubmitButton>
+      <SubmitButton>Submit Comment</SubmitButton>
     </form>
   );
 }
