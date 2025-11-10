@@ -12,7 +12,7 @@ const Footertext = {
   addressone: "1.3C ,Kitisuru Road. Nairobi",
   addresstwo: "",
   timeone: "MONDAY 17:30PM - 23:00PM",
-  timetwo: "TUESDAY - SATURDAY: 12:00PM - 23:00PM" ,
+  timetwo: "TUESDAY - SATURDAY: 12:00PM - 23:00PM",
   timethree: "SUNDAY: 12:00PM - 21:30PM",
   copyright: "Copyright 2025 All Right Reserved",
 };
@@ -141,6 +141,8 @@ export default function Footer() {
                   ref={footerTimeBorder}
                 ></div>
                 <p>{Footertext.timetwo}</p>
+                <div className="footer-time-border my-1"></div>
+                <p>{Footertext.timethree}</p> 
               </div>
               <div className="footer-btn">
                 <WhiteButton to="reservations">Reservations</WhiteButton>
