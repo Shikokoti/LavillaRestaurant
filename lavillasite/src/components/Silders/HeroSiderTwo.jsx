@@ -6,19 +6,19 @@ const sliderData = [
   {
     title: "Welcome To Lavilla",
     maintitle: "Restaurant",
-    desp: "Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with",
+    desp: "Where Authenticity Meets Class 🇮🇹 Inspirational Italian Food 🍷 Great Selection Of Wine & Cocktails 🔥 Wood Fired Pizzas.",
     buttonUrl: "reservations",
   },
   {
     title: "Experience Italian Cuisine",
     maintitle: "Restaurant",
-    desp: "Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with",
+    desp: "Where Authenticity Meets Class 🇮🇹 Inspirational Italian Food 🍷 Great Selection Of Wine & Cocktails 🔥 Wood Fired Pizzas.",
     buttonUrl: "reservations",
   },
   {
-    title: "Fine Dining Awaits",
+    title: "Nairobi Fine Dining Awaits",
     maintitle: "Restaurant",
-    desp: "Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with",
+    desp: "Where Authenticity Meets Class 🇮🇹 Inspirational Italian Food 🍷 Great Selection Of Wine & Cocktails 🔥 Wood Fired Pizzas.",
     buttonUrl: "reservations",
   },
 ];

@@ -2,24 +2,24 @@ import React from "react";
 
 const movingText = [
   {
-    white: "Embark on a gastronomic adventure ",
-    yellow: "guided our by exquisite dishes",
+    white: "",
+    yellow: "",
   },
   {
-    white: "Embark on a gastronomic adventure ",
-    yellow: "guided our by exquisite dishes",
+    white: "make a reservation",
+    yellow: "on +254706880688",
   },
 ];
 
 export default function MovingText() {
   return (
-    <div className="ak-moving-section-wrap ak-normal text-uppercase">
+    <div className="ak-moving-section-wrap ak-normal lowercase">
       <div className="ak-moving-section-in">
         {movingText?.map((text, i) => (
           <div className="ak-moving-section" key={i}>
-            <h2>
-              {text.white} <span>{text.yellow}</span>
-            </h2>
+            <h3 className="tracking-wide md:tracking-widest">
+              {text.white} <span className="text-yellow-400">{text.yellow}</span>
+            </h3>
           </div>
         ))}
       </div>

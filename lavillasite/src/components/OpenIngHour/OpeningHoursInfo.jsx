@@ -8,13 +8,14 @@ const Openinginfo = {
   title: "Opening Hours",
   image: "/assets/img/about/about_open_hour.jpg",
   subtext:
-    "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that.",
-  open: "SUNDAY - THURSDAY: 11:30AM - 11PM",
-  close: "FRIDAY & SATURDAY: 11:30AM - 12AM",
+    "Lavilla, where culinary artistry meets exceptional dining experiences. At Lavilla, we strive to create a gastronomic haven that.",
+  open: "MONDAY - 17:30PM - 22:30PM",
+  close: "TUESDAY & SATURDAY: 12:00PM - 23:30PM",
+  open2: "SUNDAY: 12:00PM - 22:00PM",
 };
 
 export default function OpeningHoursInfo({ typeTwo }) {
-  const { title, image, subtext, open, close } = Openinginfo;
+  const { title, image, subtext, open, close, open2 } = Openinginfo;
 
   const openingHour = classNames("opening-hour", {
     "type-2": typeTwo,
@@ -38,7 +39,7 @@ export default function OpeningHoursInfo({ typeTwo }) {
             <SectionTitle title={title} animTwo={true} />
             <div className="ak-height-30 ak-height-lg-30"></div>
             <p className="opening-hour-subtext">{subtext}</p>
-            {open && close ? (
+            {open && close  ? (
               <>
                 <div className="ak-height-30 ak-height-lg-30"></div>
                 <div className="opening-hour-date">

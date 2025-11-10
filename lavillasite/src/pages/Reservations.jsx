@@ -13,7 +13,7 @@ export default function Reservations() {
       <div className="container-fluid">
         <div className="ak-booking-system-map-from">
           <div className="booking-system-map">
-            <GoogleMap addressLink="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96652.27317354927!2d-74.33557928194516!3d40.79756494697628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3a82f1352d0dd%3A0x81d4f72c4435aab5!2sTroy+Meadows+Wetlands!5e0!3m2!1sen!2sbd!4v1563075599994!5m2!1sen!2sbd" />
+            <GoogleMap addressLink="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31911.085591123723!2d36.780416!3d-1.23886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f198ef85004c3%3A0xefb5fc6d518faa6!2sLa%20Villa%20Italian%20Restaurant%20%26%20Wine%20Bar!5e0!3m2!1sen!2sus!4v1761584314280!5m2!1sen!2sus" />
             <div className="booking-system-map-second">
               <div className="booking-system-heading">
                 <SectionTitle

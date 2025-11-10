@@ -7,10 +7,10 @@ const about_content = {
   title: "Royalty",
   textWhite: "Exquisite Dining Experience Fit for",
   imgOne: "/assets/img/about/about_bg.jpg",
-  subtext:
-    "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that.",
+  // subtext:
+  //   "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that.",
   details:
-    "Where Authenticity Meets Class 🇮🇹 Inspirational Italian Food 🍷 Great Selection Of Wine & Cocktails 🔥 Wood Fired Pizzas.",
+    "Between a bottle of Italian wine and two close friends, born the vision La Villa Restaurant and Wine bar The deep passion for the Italian cuisine, pushed those friends to open an Italian restaurant in Nairobi with a concept totally different from the standards.... La Villa needed to be an elegant place where any one can taste the traditional Italian cuisine and a range of Italian wines....",
 };
 
 const { title, textWhite, imgOne, subtext, details } = about_content;

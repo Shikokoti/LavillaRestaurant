@@ -1,33 +1,37 @@
-import React, { useLayoutEffect, useRef } from "react";
+import { useLayoutEffect, useRef } from "react";
 import CommonHero from "../components/CommonHero/CommonHero";
-import FoodMenuItem from "../components/FoodMenu/FoodMenuItem";
+import WineMenuItem from "../components/FoodMenu/WineMenuItem"; 
+//import DrinksMenuItem from "../components/FoodMenu/DrinksMenuItem";
 import SectionTitle from "../components/SectionTitle/SectionTitle";
 import { imageZoomInOut } from "../helper/main";
-import foodmenulist from "../dataJson/foodmenulist.json";
+import winemenulist from "../dataJson/winemenulist.json";
 
-export default function Menu() {
+export default function WineMenu() {
   const imageContainers = useRef([]);
   const imageZoomIns = useRef([]);
 
   useLayoutEffect(() => {
-    foodmenulist.forEach((item, index) => {
-      imageZoomInOut(
-        imageContainers.current[index],
-        imageZoomIns.current[index]
-      );
+    winemenulist.forEach((drinks, index) => {
+      if (imageContainers.current[index] && imageZoomIns.current[index]) {
+        imageZoomInOut(
+          imageContainers.current[index],
+          imageZoomIns.current[index]
+        );
+      }
     });
   }, []);
+
   return (
     <div>
-      <CommonHero title={"Our  Food Menu"} link={"/"} />
-      {foodmenulist?.map((item, i) => (
+      <CommonHero title="Our Wine Menu." link="/" />
+      {winemenulist?.map((item, i) => (
         <div
           key={i}
           className="set-bg-img-section"
           ref={(el) => (imageContainers.current[i] = el)}
         >
           <img
-            src={`${item.bgImgShow}`}
+            src={item.bgImgShow}
             alt="..."
             className="imagesZoom bg-img ak-bg"
             ref={(el) => (imageZoomIns.current[i] = el)}
@@ -38,13 +42,14 @@ export default function Menu() {
             <SectionTitle
               title={item.headingtext.title}
               subTitle={item.headingtext.subTitle}
-              tyle={item.headingtext.tyle}
+              style={item.headingtext.tyle}
             />
             <div className="ak-height-65 ak-height-lg-30"></div>
             <div className="ak-menu-list">
-              {item.foodMenu?.map((item, index) => {
-                return <FoodMenuItem key={index} data={item} />;
-              })}
+              {item?.WineMenu?.map((drink, index) => (
+                <WineMenuItem key={index} data={drink} />
+              ))}
+              
             </div>
           </div>
 

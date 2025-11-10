@@ -2,79 +2,100 @@
   {
     "foodMenu": [
       {
-        "title": "Spaghetti alla Carbonara",
-        "price": "$49",
+        "title": "BURRATA PUGLIESE CON INSALATINA MISTA",
+        "price": "Ksh 2100",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Burrata Cheese With Rocket Salad & Cherry Tomatoes",
+        "priceSubTitle": "V"
       },
       {
-        "title": "Caviar-topped Oysters",
-        "price": "$49",
+        "title": "INSALATINA PRIMAVERA ",
+        "price": "Ksh 1100",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Mixed Green Salad, Cherry Tomato, Rocket & Onions",
+        "priceSubTitle": "VG | GF"
       },
       {
-        "title": "Croquetas de jamón",
-        "price": "$49",
+        "title": "INSALATA MISTA CON BARBABIETOLE",
+        "price": "Ksh 1300",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Mixed Green Salad, Cherry Tomatoes, Rocket, Onions, Feta & Beetroot",
+        "priceSubTitle": "V"
       },
       {
-        "title": "Foie Gras and Fig Terrine",
-        "price": "$49",
+        "title": "CAESAR SALAD",
+        "price": "Ksh 1400",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Green Salad With Mayonaise, Eggs, Bacon, Crutons & Parmesan Cheese",
+        "priceSubTitle": "E"
       },
       {
-        "title": "paella valenciana",
-        "price": "$49",
+        "title": "CAPONATA DI VERDURE ALLA SICILIANA",
+        "price": "Ksh 1100",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Sicily Mix Sautéed Vegetables With Olives & Capers",
+        "priceSubTitle": "V | N | GF"
       },
       {
-        "title": "Truffle-infused Filet Mignon",
-        "price": "$49",
+        "title": "CROSTINI ASSORTITI",
+        "price": "Ksh 1350",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Toasted Homemade Bread Topped With Cherry Tomato",
+        "priceSubTitle": "V | N"
       },
       {
-        "title": "Peri Peri Prawns",
-        "price": "$49",
+        "title": "ARANCINI AI FUNGHI E TARTUFO",
+        "price": "Ksh 1100",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Truffle Mushroom Arancini Balls With Mozarella, Sriracha Sauce & Baba Ganoush",
+        "priceSubTitle": "V"
       },
       {
-        "title": "Butter Poached Lobster",
-        "price": "$49",
+        "title": "CAMEMBERT FRITTO CON MIELE ",
+        "price": "Ksh 1100",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Fried Camembert Cheese Served With Honey",
+        "priceSubTitle": "V"
       },
       {
-        "title": "Golden Saffron Risotto",
-        "price": "$49",
+        "title": "PARMIGIANA DI MELANZANE",
+        "price": "Ksh 1300",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Traditional Baked Aubergine With Tomato & Mozzarella",
+        "priceSubTitle": "V | GF"
       },
       {
-        "title": "Herb-Crusted Rack of Lamb",
-        "price": "$49",
+        "title": "CARPACCIO DI MANZO RUCOLA E PARMIGIANO",
+        "price": "Ksh 2150",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "subTitle": "Thinly Sliced Cold Beef Tenderloin With Rocket Salad & Flake Grana Padano",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "PROSCIUTTO CRUDO PARMA",
+        "price": "Ksh 2100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Thinly Sliced Parma Ham",
+        "priceSubTitle": "ITALIY"
+      },
+      {
+        "title": "ALI DI POLLO",
+        "price": "Ksh 1250",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Tender, Juicy Chicken Wings, Fried to Golden Perfection & Tossed in a Barbeque Signature Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "TAGLIERE DI SALUMI E FORMAGGI PER DUE PERSONE",
+        "price": "Ksh 6500",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Consists of: (Cheese Cuts - Caciotta Cheese with Truffle, Spicy aged Pecorino Cheese, Raw Milk Fontina Cheese, Sweet Taleggio) (Meat Cuts - Truffle Mortadella, Spicy Dry-Cured Italian Pork Meat, (Cinghiale) Italian Wild Boar Salami, Parma Ham)",
+        "priceSubTitle": ""
       }
     ],
     "headingtext": {
-      "title": "Appetizers",
-      "subTitle": "Appetizers",
+      "title": "Antipasti",
+      "subTitle": "Starter | Salad",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/menuBg.png"
@@ -82,159 +103,907 @@
   {
     "foodMenu": [
       {
-        "title": "Vienetta (Netherlands)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "INSALATA DI MARE",
+        "price": "Ksh 2300",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Mix Seafood Prawns | Squid | With Honey Mustard Dressing",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Apple Strudel (Austria)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "FIORE DI CARPACCIO NORVEGESE AFFUMICATO",
+        "price": "Ksh 2200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Smoked Norwegian Salmon With Fennel & Lemon Orange Dressing",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Tiramisu",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "GAMBERI TEMPURA",
+        "price": "Ksh 2600",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "A Delicate Balance Of Crisp & Tender Fried Prawns",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Foie Gras and Fig Terrine",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "COCKTAIL DI GAMBERI IN SALSA ROSA",
+        "price": "Ksh 1800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Queen Prawns Served In Pink Sauce",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Apple Strudel",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Truffle-infused Filet Mignon",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Crème Brûlée",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Butter Poached Lobster",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Black Forest Cake",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Pastéis de Nata (Portugal)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_2.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "PESCE VELA AFFUMICATO SUL LETTO DI LATTUGA",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Smoked Sailfish Carpaccio On a Bed Of Lettuce Topped With Onions & Drizzle Of Fresh Lemon Juice",
+        "priceSubTitle": "S"
       }
     ],
     "bgImgShow": "/assets/img/bg/barMenuBg.png",
     "headingtext": {
-      "title": "Bar Items",
-      "subTitle": "Juice Bar",
+      "title": "Antipasti",
+      "subTitle": "SEAFOOD STARTER",
       "tyle": "center"
     }
   },
   {
     "foodMenu": [
       {
-        "title": "Guinness Irelandian",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "ZUPPA DI FUNGHI PORCINI",
+        "price": "Ksh 1400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Mushroom Cream Soup",
+        "priceSubTitle": "V | GF"
       },
       {
-        "title": "Scotch Whisky Scotland",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "MINESTRONE CONTADINA",
+        "price": "Ksh 1100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Vegetable Soup",
+        "priceSubTitle": "V | GF"
       },
       {
-        "title": "Aperol Spritz Italian",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "VELLUTATA DI ZUCCA",
+        "price": "Ksh 1200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Pumpkin Cream Soup",
+        "priceSubTitle": "V | GF"
       },
       {
-        "title": "Jägermeister Germany",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "VELLUTATA DI ASPARAGI",
+        "price": "Ksh 1550",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Asparagus Cream Soup",
+        "priceSubTitle": "V | GF"
       },
       {
-        "title": "Pilsner Urquell Czech",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "ZUPPA DI ARAGOSTA",
+        "price": "Ksh 2400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Lobster Bisque Soup",
+        "priceSubTitle": "S"
       },
       {
-        "title": "Port Wine (Portugal)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Pavlova (New Zealand)",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Vodka Russia / Poland",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Vodka Russia / Poland",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
-      },
-      {
-        "title": "Aperol Spritz Italian",
-        "price": "$49",
-        "image": "/assets/img/itemShow/item-show_3.png",
-        "subTitle": "Lorem passionate chefs masterfully",
-        "priceSubTitle": "Extra free juice"
+        "title": "ZUPPA DI POLLO",
+        "price": "Ksh 1450",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Nutritious Dish that Blends The Rich Flavors of Classic Minestrone With Tender Pieces of Chicken",
+        "priceSubTitle": ""
       }
     ],
     "headingtext": {
-      "title": "Desserts",
-      "subTitle": "Sweet dreams",
+      "title": "Zuppe",
+      "subTitle": "Soups",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+        "title": "SPAGHETTI CACIO E PEPE",
+        "price": "Ksh 1900",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Chefs Special Pasta With Creamy Black Pepper Sauce Pecorino & Parmesan",
+        "priceSubTitle": "V"
+      },
+      {
+        "title": "SPAGHETTI CON POLPETTINE",
+        "price": "Ksh 1800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Spaghetti with Tomato Sauce and Homemade Meatballs",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "PASSATELLI AL POMODORO FRESCO E BASILICO",
+        "price": "Ksh 1750",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Passatelli Pasta With Fresh Sliced Tomatoes & Basil",
+        "priceSubTitle": "V | E"
+      },
+      {
+        "title": "LINGUINE AL PESTO CON POMODORINI E BURRATA",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "With Homemade Basil Pesto Sauce Cherry Tomato & Burrata Cheese",
+        "priceSubTitle": "V | N"
+      },
+      {
+        "title": "RIGATONI CARBONARA",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Traditional Roma pasta with Pancetta & Pecorino Cheese",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "RIGATONI ALL’ AMATRICIANA",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Traditional Rome Pasta With Pancetta Bacon, Tomato, Chilli & Pecorino Cheese",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "ORECCHIETTE MAMMA MIA BROCCOLI E SALSICCIA",
+        "price": "Ksh 1800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Pasta With Broccoli & Pork Sausage",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "PENNE ALL’ ARRABBIATA",
+        "price": "Ksh 1450",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "With Cherry Tomato Sauce & Chilly",
+        "priceSubTitle": "V"
+      },
+      {
+        "title": "TAGLIATELLE AI FUNGHI PORCINI E TARTUFO",
+        "price": "Ksh 2100",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Tagliatelle Pasta, With Black Truffle Sauce, Mushroom & Cream",
+        "priceSubTitle": "V | E"
+      },
+      {
+        "title": "TAGLIATELLE PASTA CON PROSCUITO DI PARMA E",
+        "price": "Ksh 2250",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Tagliatelle Pasta with Parma Ham, Rucola & Parmesan Cheese",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "TAGLIATELLE CON CARNE",
+        "price": "Ksh 2000",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Tagliatelle Pasta With Beef Tenderloin Cubes",
+        "priceSubTitle": "A | E"
+      },
+      {
+        "title": "RAVIOLI I RICOTTA E SPINACI",
+        "price": "Ksh 1850",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Ravioli Pasta Filled Ricotta Cheese, Spinach With Tomato OR White Mushroom Sauce OR Butter & Sage",
+        "priceSubTitle": "V"
+      },
+      {
+        "title": "RAVIOLI BURRATA E MELANZANE CON POMODORO CILIEGINO",
+        "price": "Ksh 2150",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Ravioli Pasta Filled With Burrata Cheese & Eggplant",
+        "priceSubTitle": "V | E"
+      },
+      {
+        "title": "LASAGNA AGLI ASPARAGI",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Pasta Sheets, Asparagus, Besciamella Sauce & Parmesan",
+        "priceSubTitle": "V | E"
+      },
+      {
+        "title": "LASAGNA EMILIANA CON RAGU` BOLOGNESE E MOZZARELLA",
+        "price": "Ksh 1850",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Pasta Baked with Beef Bolognese Tomato Bolognese Sauce & Mozzarella Cheese",
+        "priceSubTitle": "A | E"
+      },
+      {
+        "title": "GNOCCHI DI PATATE AL GORGONZOLA",
+        "price": "Ksh 1900",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Gnocchi with Cheese & Walnuts",
+        "priceSubTitle": "N | V | E"
+      }
+    ],
+    "headingtext": {
+      "title": "Pasta Di Terra",
+      "subTitle": "Pasta",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+        "title": "RISOTTO AL TARTUFO",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Arborio Rice in Fresh Truffle Sauce with Parmesan & Parsley. To Make it More Special, with added Fresh Truffle @ Ksh 500 Per Gram",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "RISOTTO PRIMAVERA V",
+        "price": "Ksh 1700",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Italian Arborio Rice With Mixed Vegetables",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "RISOTTO AI FUNGHI PORCINI V",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Arborio Rice With Porcini Mushroom",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "RISOTTO AI GAMBERI E ZUCCHINE A",
+        "price": "Ksh 1950",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Italian Arborio Rice With Prawns & Zucchini",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "RISOTTO PERE E TALEGGIO V",
+        "price": "Ksh 1900",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Flavorful Rich Creamy Arborio Rice With The Sweet & Delicate Flavors Of Pears & Taleggio Cheese",
+        "priceSubTitle": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Veg Pasta",
+      "subTitle": "Risotto",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+        "title": "SPAGHETTI ALL’ ARAGOSTA",
+        "price": "Ksh 3800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Pasta Spaghetti With Cherry Tomatoes & Lobster",
+        "priceSubTitle": "S | A"
+      },
+      {
+        "title": "SPAGHETTI ALLE VONGOLE",
+        "price": "Ksh 2150",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Spaghetti Pasta With Fresh Clams",
+        "priceSubTitle": "S | A"
+      },
+      {
+        "title": "LINGUINE ALLO SCOGLIO",
+        "price": "Ksh 2400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Linguine Pasta With Prawns, Squid & Mussels",
+        "priceSubTitle": "S | A"
+      },
+      {
+        "title": "LINGUINE AL NERO DI SEPPIA E CALAMARI",
+        "price": "Ksh 2150",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Linguine Pasta, Squid, Squid Ink, Onions With White Wine",
+        "priceSubTitle": "A"
+      },
+      {
+        "title": "LINGUINE AL DENTICE CON CRAMBLE ALL'ACCIUGHE",
+        "price": "Ksh 2000",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Linguine Pasta With Red Snapper & Crumbled Anchovies",
+        "priceSubTitle": "A"
+      },
+      {
+        "title": "TAGLIATELLE WITH SEAFOOD RAGU",
+        "price": "Ksh 2000",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Tagliatelle with Octopus Ragu",
+        "priceSubTitle": "A | E"
+      },
+      {
+        "title": "TAGLIATELLE GAMBERI E LIMONE",
+        "price": "Ksh 2000",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Homemade Pasta with Prawns & Lemon Zest",
+        "priceSubTitle": "A | E | S"
+      },
+      {
+        "title": "PENNE SALMONE E BROCCOLI",
+        "price": "Ksh 2050",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "",
+        "priceSubTitle": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Sea Food Pasta",
+      "subTitle": "Risotto",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+
+  {
+    "foodMenu": [
+      {
+        "title": "PETTO DI POLLO AI FUNGHI (180/200Grms)",
+        "price": "Ksh 2350",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Grilled Chicken Breast Topped With a Creamy Mushroom Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "COSTOLETTE DI AGNELLO SCOTTADITO CON PATATE ARROSTE (350Grms)",
+        "price": "Ksh 3200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Grilled Tender Lamb Chops Served With Roasted Potatoes",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "COSTOLETTE DI MAIALE ALLA GRIGLIA CON ASPARAGI (350Grms)",
+        "price": "Ksh 3600",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Grilled Pork Chops Served with Grilled Vegetables & Roasted Potatoes",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "SCALLOPPINE DI POLLO CON PROSCIUTTO DI PARMA E MOZZARELLA A (180/200Grms)",
+        "price": "Ksh 3400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Chicken Breast Scallop With White Wine, Parma Ham, Mozzarella & Mushrooms",
+        "priceSubTitle": "A"
+      },
+      {
+        "title": "RIB-EYE STEAK (350Grms)",
+        "price": "Ksh 4600",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Imported From South Africa. Grilled, Served With Sauteed Mushrooms, Grilled Asparagus & Gravy or Pepper Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "SIRLOIN STEAK (350Grms)",
+        "price": "Ksh 4200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Imported From South Africa. Grilled, Served With Thyme Sauteed Vegetables & Gravy or Pepper Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "PETTO DI POLLO ALLA PARMENTIER CON FUNGHI TRIFOLATI (180/200Grms)",
+        "price": "Ksh 2400",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Chicken Breast Filled With Parma Ham & Mozzarella Cheese",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "GALLETO ALLA DIAVOLA (350Grms)",
+        "price": "Ksh 2350",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Grilled Chicken Served With Roasted Rosemary Potato Wedges",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "COTOLETTA ALLA MILANESE IN TRUFFLE SAUCE (180/200Grms)",
+        "price": "Ksh 3800",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Chicken Breast In Bread Crumbs & Truffle Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "OSSOBUCO ALLA MILANESE (350Grms)",
+        "price": "Ksh 4250",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Braised Beef Shank With Lemon & Fine Herbs Served On a Bed of Saffron Rice",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "TOMAHAWK (450Grms)",
+        "price": "Ksh 8200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Imported From Italy. Grilled Italian Tomahawk Served With Mashed Potatoes & Grilled Vegetables",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "T-BONE (500Grms)",
+        "price": "Ksh 6500",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Imported From Italy. Grilled T-BONE Served With Pepper Sauce",
+        "priceSubTitle": ""
+      },
+      {
+        "title": "FILLETO DI MANZO AL SALSA PEPE NERO OR FUNGHI TARTUFATA GF (300Grms)",
+        "price": "Ksh 4200",
+        "image": "/assets/img/itemShow/item-show.png",
+        "subTitle": "Beef Fillet With Green Garden Salad, Parmesan Shavings Served With Roasted Potato With a Choice of Pepper Sauce OR Funghi Tartufata",
+        "priceSubTitle": "GF"
+      }
+    ],
+    "headingtext": {
+      "title": "Pollo Carne E Pesce",
+      "subTitle": "MEAT MAIN COURSES",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+    "title": "FRITTURA DI CALAMARI CON SALSA TARTARA (250Grms)",
+    "price": "Ksh 2300",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Deep Fried Calamari Served With Tartar Sauce & Mix Salad",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "GRIGLIATA MISTA DI MARE GF",
+    "price": "Ksh 5800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Mixed Seafood Platter With Lobster, Red Snapper, Prawns & Squid Served With Grilled Vegetables",
+    "priceSubTitle": "GF"
+  },
+  {
+    "title": "FILLETO DI DENTICE ROSSO GRIGLIATO GF (250Grms)",
+    "price": "Ksh 2600",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Red Snapper Fillet Served With Steamed Vegetables",
+    "priceSubTitle": "GF"
+  },
+  {
+    "title": "BRANZINO IN SALSA LA VILLA (250Grms)",
+    "price": "Ksh 2850",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Seabass In Creamy White Capers Sauce",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "BRANZINO IN SALSA SICILIANA GF (250Grms)",
+    "price": "Ksh 2850",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Seabass Poached In A Tomato, Bell Peppers & Olives Sauce Served On A Bed Of Sauteed Cubed Vegetables",
+    "priceSubTitle": "GF"
+  },
+  {
+    "title": "POLIPO ALLA GRIGLIA CON SALSA DI PASSATINA DI CECI AL ROSMARINO GF (200Grms)",
+    "price": "Ksh 2800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Tender Octopus Served Over a Bed Of Chickpeas Sauce & Capers",
+    "priceSubTitle": "GF"
+  },
+  {
+    "title": "TRANCIO DI SALMONE IN CROSTA GF | N (220Grms)",
+    "price": "Ksh 4050",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Atlantic Salmon Fillet with Vegetables",
+    "priceSubTitle": "GF | N"
+  },
+  {
+    "title": "GAMBERI JUMBO ALLA GRIGLIA GF | S (400Grms)",
+    "price": "Ksh 5200",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Jumbo Prawns Served with Mix Salad",
+    "priceSubTitle": "GF | S"
+  },
+  {
+    "title": "CALAMARI ALLA GRIGLIA CON SALSA OLIO E LIMONE GF (250Grms)",
+    "price": "Ksh 2300",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Grilled Calamari With Lemon Olive Oil Served with Mix Salad",
+    "priceSubTitle": "GF"
+  }
+    ],
+    "headingtext": {
+      "title": "Secondi Di Mare",
+      "subTitle": "SEAFOOD MAIN COURSES",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+    "title": "MIXED GRILLED VEGETABLES",
+    "price": "Ksh 450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "ROASTED ROSEMARY POTATO WEDGES",
+    "price": "Ksh 450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "BUTTER SPINACH",
+    "price": "Ksh 350",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "TRUFFLE FRENCH FRIES",
+    "price": "Ksh 550",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "BROCCOLI IN OLIVE OIL GARLIC & CHILLI",
+    "price": "Ksh 450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "GRILLED ASPARAGUS",
+    "price": "Ksh 450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  }
+    ],
+    "headingtext": {
+      "title": "Sides",
+      "subTitle": "Sides",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+    "title": "CREMOSA CON TARTUFO V",
+    "price": "Ksh 2250",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Cream, Mozzarella, Mushrooms, Truffle Sauce",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "MEDITERRANEA V",
+    "price": "Ksh 1350",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Mozzarella, Sliced Tomato & Basil",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "MARGHERITA V",
+    "price": "Ksh 1300",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella & Basil",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "MARINARA V",
+    "price": "Ksh 1200",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Basil, Chilli, Garlic & Olive Oil",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "VEGETARIANA V",
+    "price": "Ksh 1450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella, Eggplant, Zucchini, Artichokes & Fresh Mushrooms",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "BOSCAIOLA",
+    "price": "Ksh 1800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Porcini Mushrooms & Pork Sausage",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PIZZA AMATRICIANA",
+    "price": "Ksh 1850",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato Bolognaise, Mozzarella, Chili & Pancetta Bacon",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PIZZA NORCINA CON FUNGHI PORCINI E BURRATA V",
+    "price": "Ksh 2250",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Black Truffle Pizza with Porcini Mushrooms & Mozzarella Burrata",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "NAPOLI",
+    "price": "Ksh 1550",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella, Anchovies, Capers & Basil",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PROSCIUTTO COTTO E FUNGHI",
+    "price": "Ksh 1650",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella, Cotto & Mushroom",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "VULCANO",
+    "price": "Ksh 1750",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Italian Chili Salami, Tomato & Mozzarella",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "CALZONE V",
+    "price": "Ksh 1700",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Folded Pizza with Tomato, Mozzarella & Mushrooms",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "BURRATA PUGLIESE",
+    "price": "Ksh 2000",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella, Cotto Ham & Burrata Cheese",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "FUNGHI V",
+    "price": "Ksh 1400",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomatoes, Mozzarella & Fresh Mushrooms",
+    "priceSubTitle": "V"
+  },
+  {
+    "title": "SEAFOOD PIZZA S",
+    "price": "Ksh 2500",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella, Prawns & Calamari",
+    "priceSubTitle": "S"
+  },
+  {
+    "title": "PIZZA CALABRESE NDUJA E OLIVE NERE",
+    "price": "Ksh 2150",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella With Nduja (Cured Pork & Peppers Paste) & Black Olives",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PIZZA BARESE",
+    "price": "Ksh 2800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Pizza with Parma Ham, Rocket & Burrata Cheese",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "CARBONARA",
+    "price": "Ksh 1850",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Mozzarella, Bacon, Carbonara Cream & Pecorino",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "CHICKEN BARBEQUE PIZZA",
+    "price": "Ksh 1650",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Tomato, Mozzarella & Homemade BBQ Chicken",
+    "priceSubTitle": ""
+  }
+    ],
+    "headingtext": {
+      "title": "Pizze",
+      "subTitle": "Pizza",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+      {
+    "title": "DELIZIA DI TIRAMISU",
+    "price": "Ksh 950",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Mascarpone Mousse. Coffee-soaked finger biscuits.",
+    "priceSubTitle": "A | E"
+  },
+  {
+    "title": "PANNA E FRAGOLE (STRAWBERRY CLOUD)",
+    "price": "Ksh 1000",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Delicious strawberries with cream.",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PANNA COTTA AI FRUTTI DI BOSCO",
+    "price": "Ksh 750",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Milk cream pudding with berry fruit sauce.",
+    "priceSubTitle": "A"
+  },
+  {
+    "title": "CHEESE CAKE AI FRUTTI DI BOSCO",
+    "price": "Ksh 1250",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Cheesecake with lemon & blueberries.",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "LAVA CAKE AL CIOCCOLATO CON GELATO ALLA VANIGLIA",
+    "price": "Ksh 1200",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Chocolate lava cake with vanilla ice cream (contains eggs).",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "RICOTTA CON CIOCCOLATO",
+    "price": "Ksh 1200",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Ricotta cheese pie with chocolate & ice cream (contains eggs).",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "MONALISA INSPIRATION",
+    "price": "Ksh 1750",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Assorted pastries delicatessen (serving for two).",
+    "priceSubTitle": "A | E"
+  },
+  {
+    "title": "SORBET (per scoop)",
+    "price": "Ksh 350",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Choices of lemon, strawberry & passion.",
+    "priceSubTitle": "GF"
+  },
+  {
+    "title": "COPPA GELATO",
+    "price": "Ksh 400",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Choices of vanilla, chocolate & salted caramel.",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "PISTACCHIO GELATO",
+    "price": "Ksh 650",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Pistachio gelato.",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "CASSATA SICILIANA",
+    "price": "Ksh 750",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Sponge cake with ice cream & candied fruits.",
+    "priceSubTitle": "E"
+  },
+  {
+    "title": "TORTA AL CIOCCOLATO (EGGLESS)",
+    "price": "Ksh 1150",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Rich, moist, decadently chocolatey cake (eggless).",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "SORBETTO AL LIMONE E PROSECCO",
+    "price": "Ksh 1400",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Lemon sorbet with Prosecco wine.",
+    "priceSubTitle": "A"
+  }
+    ],
+    "headingtext": {
+      "title": "Dolce",
+      "subTitle": "Dessert",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+     {
+    "title": "INSILATA QUINOA CON VERDURE",
+    "price": "Ksh 1100",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "With mushroom, red onions, zucchini & bell peppers.",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "CAPONATA DI VERDURE ALLA SICILIANA",
+    "price": "Ksh 1100",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Sicily mix sautéed vegetables with olives & capers.",
+    "priceSubTitle": "V | N | GF"
+  },
+  {
+    "title": "MINESTRONE CONTADINA",
+    "price": "Ksh 1100",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Vegetable soup.",
+    "priceSubTitle": "V | GF"
+  }
+    ],
+    "headingtext": {
+      "title": "Vegan Menu",
+      "subTitle": "ANTIPASTE | SALADS | SOUPS",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+     {
+    "title": "RISOTTO AL FUNGHI",
+    "price": "Ksh 2150",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Arborio Italy rice with saffron & porcini mushrooms.",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "LINGUINE ORTOLANA CON JULIENNE DI ZUCCHINE",
+    "price": "Ksh 1600",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Linguine pasta with zucchini, cherry tomatoes & pine nuts.",
+    "priceSubTitle": "N | V | VG"
+  },
+  {
+    "title": "Traditional Baked Aubergine With Tomato & Mozzarella",
+    "price": "Ksh 1300",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "PENNE ALL’ ARRABBIATA",
+    "price": "Ksh 1450",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "With cherry tomato sauce and chili.",
+    "priceSubTitle": "V | GF"
+  }
+    ],
+    "headingtext": {
+      "title": "Piatti Principali Vegan",
+      "subTitle": "Main Courses Vegan",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
+  },
+  {
+    "foodMenu": [
+     {
+    "title": "SORBET",
+    "price": "Ksh 350",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Choices of lemon, strawberry & passion.",
+    "priceSubTitle": ""
+  },
+  {
+    "title": "COPPA GELATO",
+    "price": "Ksh 800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Choices of coconut & chocolate.",
+    "priceSubTitle": "VG"
+  },
+  {
+    "title": "VEGAN PISTACCHIO GELATO",
+    "price": "Ksh 800",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "",
+    "priceSubTitle": "VG"
+  },
+  {
+    "title": "FRUIT SALAD",
+    "price": "Ksh 550",
+    "image": "/assets/img/itemShow/item-show.png",
+    "subTitle": "Assorted seasonal fruits.",
+    "priceSubTitle": ""
+  }
+    ],
+    "headingtext": {
+      "title": "Dolce Vegan",
+      "subTitle": "Dessert",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"

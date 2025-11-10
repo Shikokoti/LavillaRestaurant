@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "posation": "Head of Chef",
-        "name": "Byron Smith",
+        "posation": "Fridays 7:30 PM - 9:00 PM",
+        "name": "Live Band ",
         "img": "/assets/img/chef/chef_1.jpg",
-        "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
-        "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
-        "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
+        "videolink": "https://vimeo.com/734126900",
+        "shortDesp": "Gather your girls and unwind in style every Thursday at LaVilla Restaurant!",
+        "desp": "Enjoy a glamorous evening filled with live band music, signature cocktails, and irresistible vibes. Celebrate good food, laughter, and rhythm — because every lady deserves a night to shine. 💃",
         "Children": [
             {
                 "link": "https://www.facebook.com/",
                 "name": "facebook"
             },
             {
-                "link": "https://www.linkedin.com/",
-                "name": "linkedin"
+                "link": "https://www.tiktok.com/@la.villa_restaurant?_r=1&_t=ZM-91AxvI3kb52",
+                "name": "TikTok"
             },
             {
                 "link": "https://www.instagram.com/",
@@ -24,11 +24,11 @@
     },
     {
         "id": 2,
-        "posation": "Italian Specialist",
-        "name": "Craig Martin",
+        "posation": "Sundays 6:00 PM - 8:00 PM",
+        "name": "Live Piano",
         "img": "/assets/img/chef/chef_2.jpg",
-        "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
-        "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
+        "videolink": "https://vimeo.com/734126900",
+        "shortDesp": "Lavilla restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
         "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
         "Children": [
             {
@@ -36,8 +36,8 @@
                 "name": "facebook"
             },
             {
-                "link": "https://www.linkedin.com/",
-                "name": "linkedin"
+                "link": "https://www.tiktok.com/@la.villa_restaurant?_r=1&_t=ZM-91AxvI3kb52",
+                "name": "TikTok"
             },
             {
                 "link": "https://www.instagram.com/",
@@ -47,10 +47,10 @@
     },
     {
         "id": 3,
-        "posation": "Thai Specialist",
-        "name": "Italian Specialist",
+        "posation": "Happy Birthday",
+        "name": "Birthdays & Anniversaries",
         "img": "/assets/img/chef/chef_3.jpg",
-        "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
+        "videolink": "https://vimeo.com/734126900",
         "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
         "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
         "Children": [
@@ -59,8 +59,8 @@
                 "name": "facebook"
             },
             {
-                "link": "https://www.linkedin.com/",
-                "name": "linkedin"
+                "link": "https://www.tiktok.com/@la.villa_restaurant?_r=1&_t=ZM-91AxvI3kb52",
+                "name": "TikTok"
             },
             {
                 "link": "https://www.instagram.com/",
@@ -70,10 +70,10 @@
     },
     {
         "id": 4,
-        "posation": "Italian Specialist",
-        "name": "Andrew Cannon",
+        "posation": "Pizza Fridays",
+        "name": "Cabonara & Wine",
         "img": "/assets/img/chef/chef_4.jpg",
-        "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
+        "videolink": "https://vimeo.com/734126900",
         "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
         "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
         "Children": [
@@ -82,8 +82,8 @@
                 "name": "facebook"
             },
             {
-                "link": "https://www.linkedin.com/",
-                "name": "linkedin"
+                "link": "https://www.tiktok.com/@la.villa_restaurant?_r=1&_t=ZM-91AxvI3kb52",
+                "name": "TikTok"
             },
             {
                 "link": "https://www.instagram.com/",
@@ -93,10 +93,10 @@
     },
     {
         "id": 5,
-        "posation": "Italian Specialist",
-        "name": "Wesley Story",
+        "posation": "Happy Hour",
+        "name": "Buy two get one free",
         "img": "/assets/img/chef/chef_5.jpg",
-        "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
+        "videolink": "https://vimeo.com/734126900",
         "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
         "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
         "Children": [
@@ -105,8 +105,8 @@
                 "name": "facebook"
             },
             {
-                "link": "https://www.linkedin.com/",
-                "name": "linkedin"
+                "link": "https://www.tiktok.com/@la.villa_restaurant?_r=1&_t=ZM-91AxvI3kb52",
+                "name": "TikTok"
             },
             {
                 "link": "https://www.instagram.com/",
@@ -116,10 +116,10 @@
     },
     {
         "id": 6,
-        "posation": "Michael Laseter",
-        "name": "Michael Laseter",
+        "posation": "Special Occasions",
+        "name": "Corportate Events",
         "img": "/assets/img/chef/chef_6.jpg",
-        "videolink": "https://www.youtube.com/watch?v=UsD1MhKBmD4",
+        "videolink": "https://vimeo.com/734126900",
         "shortDesp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that. Lorem to our restaurant, where culinary artistry meets exceptional dining exp eriences. At, we strive to create a gastronomic haven that.",
         "desp": "Lorem to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that tantalizes your taste buds and leaves you with unforgettable memories. Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic.,",
         "Children": [
@@ -128,8 +128,8 @@
                 "name": "facebook"
             },
             {
-                "link": "https://www.linkedin.com/",
-                "name": "linkedin"
+                "link": "https://www.tiktok.com/@la.villa_restaurant?_r=1&_t=ZM-91AxvI3kb52",
+                "name": "Tiktok"
             },
             {
                 "link": "https://www.instagram.com/",

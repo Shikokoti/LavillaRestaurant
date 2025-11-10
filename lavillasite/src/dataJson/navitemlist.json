@@ -2,19 +2,8 @@
     {
         "title": "Home",
         "link": "/",
-        "key": "home",
-        "childern": [
-            {
-                "title": "Home 1",
-                "link": "/",
-                "key": "home1"
-            },
-            {
-                "title": "Home 2",
-                "link": "/home2",
-                "key": "home2"
-            }
-        ]
+        "key": "home"
+        
     },
     {
         "title": "About",
@@ -22,55 +11,42 @@
         "key": "about"
     },
     {
-        "title": "Menu",
+        "title": "Food Menu",
         "link": "/menu",
         "key": "menu"
     },
     {
-        "title": "Chef",
-        "link": "/chef",
-        "key": "chef"
-    },
-    {
-        "title": "Portfolio",
-        "link": "/portfolio",
-        "key": "portfolio"
-    },
-    {
-        "title": "Blog",
-        "link": "/blog",
-        "key": "blog"
-    },
-    {
-        "title": "Pages",
-        "link": "/",
-        "key": "pages",
-        "childern": [
+        "title": "Drinks Menu",
+        "link": "/drinks-menu",
+        "key": "drinksmenu",
+        "children":[
             {
-                "title": "Contact",
-                "link": "/contact",
-                "key": "contact"
+                "title": "Wines",
+                "link": "/drinks-menu/wines",
+                "key": "Wines"
             },
             {
-                "title": "Reservations",
-                "link": "/reservations",
-                "key": "reservations"
-            },
-            {
-                "title": "gallery",
-                "link": "/gallery",
-                "key": "gallery"
-            },
-            {
-                "title": "Error Pages",
-                "link": "/error-pages",
-                "key": "errorpages"
-            },
-            {
-                "title": "Comming Soon",
-                "link": "/comming-soon",
-                "key": "commingsoon"
+                "title": "Beverages",
+                "link": "/drinks-menu/beverages",
+                "key": "Beverages"
             }
+
         ]
+    },
+
+    {
+        "title": "Wine Menu",
+        "link": "/drinks-menu/wines",
+        "key": "Wines"
+    },
+    {
+        "title": "Events",
+        "link": "/chef",
+        "key": "events"
+    },
+    {
+        "title": "Contact Us",
+        "link": "/contact",
+        "key": "pages"
     }
 ]

@@ -6,7 +6,7 @@ import ChefList from "../dataJson/cheflist.json";
 export default function Chef() {
   return (
     <>
-      <CommonHero title={"Our Chefs"} link={"/"} />
+      <CommonHero title={"Our Events"} link={"/"} />
       <div className="ak-height-150 ak-height-lg-60"></div>
       <div className="container">
         <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5">

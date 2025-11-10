@@ -6,7 +6,7 @@ export default function VideoButton({ videoId }) {
   return (
     <div className="video-section">
       <ModalVideo
-        channel="youtube"
+        channel="vimeo"
         youtube={{ mute: 0, autoplay: 0 }}
         isOpen={isOpen}
         videoId={videoId}
