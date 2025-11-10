@@ -12,7 +12,8 @@ const Footertext = {
   addressone: "1.3C ,Kitisuru Road. Nairobi",
   addresstwo: "",
   timeone: "MONDAY 17:30PM - 23:00PM",
-  timetwo: "TUESDAY - SATURDAY: 12:00PM - 23:00PM | SUNDAY: 12:00PM - 21:30PM",
+  timetwo: "TUESDAY - SATURDAY: 12:00PM - 23:00PM" ,
+  timethree: "SUNDAY: 12:00PM - 21:30PM",
   copyright: "Copyright 2025 All Right Reserved",
 };
 

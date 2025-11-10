@@ -590,16 +590,16 @@
       },
       {
         "title": "Cincoro Blanco",
-        "price": "Ksh 850",
+        "price": "Ksh 1250",
         "subTitle": "Glass",
-        "priceSubTitle": "Bottle Ksh 35000",
+        "priceSubTitle": "Bottle Ksh 25000",
         "image": ""
       },
       {
         "title": "Cincoro Reposado",
-        "price": "Ksh 850",
+        "price": "Ksh 1450",
         "subTitle": "Glass",
-        "priceSubTitle": "Bottle Ksh 45000",
+        "priceSubTitle": "Bottle Ksh 32000",
         "image": ""
       },
       {
@@ -623,7 +623,7 @@
       { "title": "JW Green Label", "price": "Ksh 800", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 15000", "image": "" },
       { "title": "JW Blue Label", "price": "Ksh 1800", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 52000", "image": "" },
       { "title": "JW Gold Reserve", "price": "Ksh 950", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 18000", "image": "" },
-      { "title": "JW 18y", "price": "Ksh 950", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 23000", "image": "" },
+      { "title": "JW 18y", "price": "Ksh 950", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 20000", "image": "" },
       { "title": "Chivas 12y", "price": "Ksh 600", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 12500", "image": "" },
       { "title": "Chivas 18y", "price": "Ksh 1050", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 22000", "image": "" }
     ],
@@ -642,7 +642,7 @@
       { "title": "Talisker 10y", "price": "Ksh 850", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 15000", "image": "" },
       { "title": "Laphroaig 10y", "price": "Ksh 850", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 18500", "image": "" },
       { "title": "Ardberg 10y", "price": "Ksh 1100", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 28000", "image": "" },
-      { "title": "Lagavulin 16y", "price": "Ksh 1100", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 28000", "image": "" },
+      { "title": "Lagavulin 16y", "price": "Ksh 1100", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 25000", "image": "" },
       { "title": "Macallan 12y", "price": "Ksh 1000", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 15000", "image": "" },
       { "title": "Macallan 18y", "price": "Ksh 2250", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 52000", "image": "" },
       { "title": "Glenfiddich 12y", "price": "Ksh 650", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 12500", "image": "" },
