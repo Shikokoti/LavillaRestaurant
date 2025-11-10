@@ -7,7 +7,7 @@ const testimonialInfo = [
     title: "Steven K. Roberts",
     subtitle: "From Nairobi",
     content:
-      "“Their talented team of passionate chefs masterfully crafts each dish, combining the finest ingredients with innovative techniques to present culinary creations that are as visually stunning as they are delicious.”",
+      "“Lavilla is the perfect setting for our corporate events — elegant, professional, and with exceptional food that always impresses our guests.”",
   },
   {
     img: "/assets/img/testimonial/testimonial_2.jpg",
