@@ -9,9 +9,9 @@ const Openinginfo = {
   image: "/assets/img/about/about_open_hour.jpg",
   subtext:
     "Lavilla, where culinary artistry meets exceptional dining experiences. At Lavilla, we strive to create a gastronomic haven that.",
-  open: "MONDAY - 17:30PM - 22:30PM",
-  close: "TUESDAY & SATURDAY: 12:00PM - 23:30PM",
-  open2: "SUNDAY: 12:00PM - 22:00PM",
+  open: "MON 17:30PM - 23:00PM",
+  close: "TUE - SAT: 12:00PM - 23:00PM",
+  open2: "SUN: 12:00PM - 21:30PM",
 };
 
 export default function OpeningHoursInfo({ typeTwo }) {
@@ -39,18 +39,26 @@ export default function OpeningHoursInfo({ typeTwo }) {
             <SectionTitle title={title} animTwo={true} />
             <div className="ak-height-30 ak-height-lg-30"></div>
             <p className="opening-hour-subtext">{subtext}</p>
-            {open && close? (
-              <>
-                <div className="ak-height-30 ak-height-lg-30"></div>
-                <div className="opening-hour-date">
-                  <p>{open}</p>
-                  <div className="opening-hour-hr"></div>
-                  <p> {close}</p>
-                </div>
-              </>
-            ) : (
-              ""
-            )}
+            {(open || close || open2) && (
+  <>
+    <div className="ak-height-30 ak-height-lg-30"></div>
+    <div className="opening-hour-date">
+      {open && <p>{open}</p>}
+      {close && (
+        <>
+          <div className="opening-hour-hr"></div>
+          <p>{close}</p>
+        </>
+      )}
+      {open2 && (
+        <>
+          <div className="opening-hour-hr"></div>
+          <p>{open2}</p>
+        </>
+      )}
+    </div>
+  </>
+)}
 
             <div className="ak-height-70 ak-height-lg-30"></div>
             <ButtonCommon to="/reservations">Reservation</ButtonCommon>
