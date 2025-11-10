@@ -34,9 +34,9 @@ const Footernav = [
     key: "menu",
   },
   {
-    title: "Chef",
+    title: "Events",
     link: "/chef",
-    key: "chef",
+    key: "Events",
   },
   {
     title: "Contact",
