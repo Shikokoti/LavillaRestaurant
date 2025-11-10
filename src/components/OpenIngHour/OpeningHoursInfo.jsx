@@ -39,7 +39,7 @@ export default function OpeningHoursInfo({ typeTwo }) {
             <SectionTitle title={title} animTwo={true} />
             <div className="ak-height-30 ak-height-lg-30"></div>
             <p className="opening-hour-subtext">{subtext}</p>
-            {open && close  ? (
+            {open && close? (
               <>
                 <div className="ak-height-30 ak-height-lg-30"></div>
                 <div className="opening-hour-date">

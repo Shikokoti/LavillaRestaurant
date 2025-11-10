@@ -9,11 +9,11 @@ import elegenciaLogo from "/assets/img/logo/logo.png";
 const Footertext = {
   email: "info@lavilla.co.ke",
   phoneone: "+254 706 880 688",
-  phonetwo: "+254 733 880 688",
   addressone: "1.3C ,Kitisuru Road. Nairobi",
   addresstwo: "",
-  timeone: "MONDAY & SUNDAY: 11:30AM - 22:30PM",
-  timetwo: "TUESDAY - SATURDAY: 12:0PM - 11:00PM",
+  timeone: "MONDAY 17:30PM - 23:00PM",
+  timetwo: "TUESDAY - SATURDAY: 12:00PM - 23:00PM",
+  timethree: "SUNDAY: 12:00PM - 21:30PM",
   copyright: "Copyright 2025 All Right Reserved",
 };
 
@@ -34,9 +34,9 @@ const Footernav = [
     key: "menu",
   },
   {
-    title: "Chef",
+    title: "Events",
     link: "/chef",
-    key: "chef",
+    key: "Events",
   },
   {
     title: "Contact",
@@ -141,6 +141,8 @@ export default function Footer() {
                   ref={footerTimeBorder}
                 ></div>
                 <p>{Footertext.timetwo}</p>
+                <div className="footer-time-border my-1"></div>
+                <p>{Footertext.timethree}</p> 
               </div>
               <div className="footer-btn">
                 <WhiteButton to="reservations">Reservations</WhiteButton>
