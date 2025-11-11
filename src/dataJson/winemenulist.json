@@ -4,7 +4,7 @@
       {
         "title": "Prosecco Extra Dry DOC Giacondi | Glera | 2021",
         "price": "Ksh 1000",
-        "subTitle": "Glass",
+        "subTitle": "",
         "priceSubTitle": "Bottle Ksh 4600",
         "image": "",
         "description": "Pleasant and fruity on the nose."
@@ -12,7 +12,7 @@
       {
         "title": "Prosecco Brut Extra Dry DOC Montelvini | Glera",
         "price": "Ksh 5000",
-        "subTitle": "Glass",
+        "subTitle": "",
         "priceSubTitle": "Bottle Ksh 5300",
         "image": "",
         "description": "Straw-yellow colour with greenish hues, has a fresh and highly fruity bouquet that reminisces acacia flowers, wisteria, pear, and wild apples."
@@ -20,7 +20,7 @@
       {
         "title": "Prosecco Brut Luna | Glera",
         "price": "Ksh 1200",
-        "subTitle": "Glass",
+        "subTitle": "",
         "priceSubTitle": "Bottle Ksh 5500",
         "image": "",
         "description": "Fruity notes of golden apple, pear, and floral notes are refreshing and lovely."
@@ -28,7 +28,7 @@
       {
         "title": "Bellini | Fiorelli",
         "price": "Ksh 14000",
-        "subTitle": "Glass",
+        "subTitle": "",
         "priceSubTitle": "Bottle Ksh 14000",
         "image": "",
         "description": "Notes of fruity grapefruit, peach, fresh sweet, and flavored intense."
@@ -36,7 +36,7 @@
       {
         "title": "Vino Spumante Brut Bottega White Gold | Glera",
         "price": "Ksh 14000",
-        "subTitle": "Glass",
+        "subTitle": "",
         "priceSubTitle": "Bottle Ksh 14000",
         "image": "",
         "description": "Nose of fruity scents of golden apple, pear, and acacia flowers. Palate; fresh and crisp with floral notes."
@@ -44,7 +44,7 @@
       {
         "title": "Prosecco Bottega Gold | Glera",
         "price": "Ksh 14000",
-        "subTitle": "Glass",
+        "subTitle": "",
         "priceSubTitle": "Bottle Ksh 14000",
         "image": "",
         "description": "Nose of fresh fruits with hints of mandarin, pineapple, and pear but also of floral hints of aromatic wisteria and aromatic herbs."
