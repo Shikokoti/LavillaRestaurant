@@ -2,103 +2,60 @@
   {
     "WineMenu": [
       {
-        "title": "APERITIF & COCKTAILS",
-        "price": "Ksh 2100",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Aperitif",
-        "priceSubTitle": ""
+        "title": "Prosecco Extra Dry DOC Giacondi | Glera | 2021",
+        "price": "Ksh 1000",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 4600",
+        "image": "",
+        "description": "Pleasant and fruity on the nose."
       },
       {
-        "title": "NEGRONI CLASSICO ",
-        "price": "Ksh 1100",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Mixed Green Salad, Cherry Tomato, Rocket & Onions",
-        "priceSubTitle": ""
+        "title": "Prosecco Brut Extra Dry DOC Montelvini | Glera",
+        "price": "Ksh 5000",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 5300",
+        "image": "",
+        "description": "Straw-yellow colour with greenish hues, has a fresh and highly fruity bouquet that reminisces acacia flowers, wisteria, pear, and wild apples."
       },
       {
-        "title": "INSALATA MISTA CON BARBABIETOLE",
-        "price": "Ksh 1300",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Mixed Green Salad, Cherry Tomatoes, Rocket, Onions, Feta & Beetroot",
-        "priceSubTitle": "V"
+        "title": "Prosecco Brut Luna | Glera",
+        "price": "Ksh 1200",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 5500",
+        "image": "",
+        "description": "Fruity notes of golden apple, pear, and floral notes are refreshing and lovely."
       },
       {
-        "title": "CAESAR SALAD",
-        "price": "Ksh 1400",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Green Salad With Mayonaise, Eggs, Bacon, Crutons & Parmesan Cheese",
-        "priceSubTitle": "E"
+        "title": "Bellini | Fiorelli",
+        "price": "Ksh 14000",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 14000",
+        "image": "",
+        "description": "Notes of fruity grapefruit, peach, fresh sweet, and flavored intense."
       },
       {
-        "title": "CAPONATA DI VERDURE ALLA SICILIANA",
-        "price": "Ksh 1100",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Sicily Mix Sautéed Vegetables With Olives & Capers",
-        "priceSubTitle": "V | N | GF"
+        "title": "Vino Spumante Brut Bottega White Gold | Glera",
+        "price": "Ksh 14000",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 14000",
+        "image": "",
+        "description": "Nose of fruity scents of golden apple, pear, and acacia flowers. Palate; fresh and crisp with floral notes."
       },
       {
-        "title": "CROSTINI ASSORTITI",
-        "price": "Ksh 1350",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Toasted Homemade Bread Topped With Cherry Tomato",
-        "priceSubTitle": "V | N"
-      },
-      {
-        "title": "ARANCINI AI FUNGHI E TARTUFO",
-        "price": "Ksh 1100",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Truffle Mushroom Arancini Balls With Mozarella, Sriracha Sauce & Baba Ganoush",
-        "priceSubTitle": "V"
-      },
-      {
-        "title": "CAMEMBERT FRITTO CON MIELE ",
-        "price": "Ksh 1100",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Fried Camembert Cheese Served With Honey",
-        "priceSubTitle": "V"
-      },
-      {
-        "title": "PARMIGIANA DI MELANZANE",
-        "price": "Ksh 1300",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Traditional Baked Aubergine With Tomato & Mozzarella",
-        "priceSubTitle": "V | GF"
-      },
-      {
-        "title": "CARPACCIO DI MANZO RUCOLA E PARMIGIANO",
-        "price": "Ksh 2150",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Thinly Sliced Cold Beef Tenderloin With Rocket Salad & Flake Grana Padano",
-        "priceSubTitle": ""
-      },
-      {
-        "title": "PROSCIUTTO CRUDO PARMA",
-        "price": "Ksh 2100",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Thinly Sliced Parma Ham",
-        "priceSubTitle": "ITALIY"
-      },
-      {
-        "title": "ALI DI POLLO",
-        "price": "Ksh 1250",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Tender, Juicy Chicken Wings, Fried to Golden Perfection & Tossed in a Barbeque Signature Sauce",
-        "priceSubTitle": ""
-      },
-      {
-        "title": "TAGLIERE DI SALUMI E FORMAGGI PER DUE PERSONE",
-        "price": "Ksh 6500",
-        "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Consists of: (Cheese Cuts - Caciotta Cheese with Truffle, Spicy aged Pecorino Cheese, Raw Milk Fontina Cheese, Sweet Taleggio) (Meat Cuts - Truffle Mortadella, Spicy Dry-Cured Italian Pork Meat, (Cinghiale) Italian Wild Boar Salami, Parma Ham)",
-        "priceSubTitle": ""
+        "title": "Prosecco Bottega Gold | Glera",
+        "price": "Ksh 14000",
+        "subTitle": "Glass",
+        "priceSubTitle": "Bottle Ksh 14000",
+        "image": "",
+        "description": "Nose of fresh fruits with hints of mandarin, pineapple, and pear but also of floral hints of aromatic wisteria and aromatic herbs."
       }
     ],
     "headingtext": {
-      "title": "Sparkling Wine",
-      "subTitle": "Wines",
+      "title": "Sparkling Wines",
+      "subTitle": "Crisp, Refreshing, and Bubbly Selections",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/menuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
   },
   {
     "WineMenu": [
