@@ -9,7 +9,7 @@ const Openinginfo = {
   image: "/assets/img/about/about10.jpg",
   subtext:
     "Lavilla, where culinary artistry meets exceptional dining experiences. At Lavilla, we strive to create a gastronomic haven that.",
-  open: "MON 17:30PM - 23:00PM",
+  open: "MON: 17:30PM - 23:00PM",
   close: "TUE - SAT: 12:00PM - 23:00PM",
   open2: "SUN: 12:00PM - 21:30PM",
 };
