@@ -30,7 +30,7 @@ export default function BookingSystem(props) {
           >
             <option value={inputs.option || "One"}>One</option>
             <option value={inputs.option || "Two"}>Two</option>
-            <option value={inputs.option || "Three"}>Three</option>
+            <option value={inputs.option || "Ten"}>Ten</option>
           </select>
           <div className="select-icon">
             <svg
