@@ -5,8 +5,8 @@ import { gsap } from "gsap";
 import logo from "/assets/img/logo/logo.png";
 
 const Headerlogo = {
-  title: "reservations",
-  link: "/reservations",
+  title: "reservation",
+  link: "/Reservations",
   img: logo,
 };
 
