@@ -86,7 +86,7 @@
         "priceSubTitle": ""
       },
       {
-        "title": "TAGLIERE DI SALUMI E FORMAGGI PER DUE PERSONE",
+        "title": "TAGLIERE DI SALUMI E FORMAGGI ",
         "price": "Ksh 6500",
         "image": "/assets/img/itemShow/item-show.png",
         "subTitle": "Consists of: (Cheese Cuts - Caciotta Cheese with Truffle, Spicy aged Pecorino Cheese, Raw Milk Fontina Cheese, Sweet Taleggio) (Meat Cuts - Truffle Mortadella, Spicy Dry-Cured Italian Pork Meat, (Cinghiale) Italian Wild Boar Salami, Parma Ham)",
@@ -301,7 +301,7 @@
         "title": "LASAGNA EMILIANA CON RAGU` BOLOGNESE E MOZZARELLA",
         "price": "Ksh 1850",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Homemade Pasta Baked with Beef Bolognese Tomato Bolognese Sauce & Mozzarella Cheese",
+        "subTitle": "Homemade Pasta with Beef Bolognese Tomato Bolognese Sauce & Mozzarella Cheese",
         "priceSubTitle": "A | E"
       },
       {
@@ -358,7 +358,7 @@
       }
     ],
     "headingtext": {
-      "title": "Veg Pasta",
+      "title": "Risotto",
       "subTitle": "Risotto",
       "tyle": "center"
     },
@@ -425,7 +425,7 @@
     ],
     "headingtext": {
       "title": "Sea Food Pasta",
-      "subTitle": "Risotto",
+      "subTitle": "",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
