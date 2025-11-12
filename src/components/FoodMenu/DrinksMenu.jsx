@@ -3,7 +3,7 @@ import SectionTitle from "../SectionTitle/SectionTitle";
 import DrinksMenuItem from "./DrinksMenuItem";
 import { ButtonCommon } from "../Button/Button";
 
-import itemShow from "/assets/img/itemShow/food-menu.png";
+// import itemShow from "/assets/img/itemShow/food-menu.png";
 
 const DrinksMenu = [
   {
@@ -97,7 +97,7 @@ export default function DrinksMenuHome({ styleTwo }) {
               })}
             </div>
             <div>
-              <img src={itemShow} alt="..." />
+              >
             </div>
           </div>
         ) : (
