@@ -91,7 +91,7 @@
       "subTitle": "Crafted Specials",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgaperitifs.png"
   },
   {
     "DrinksMenu": [
@@ -122,7 +122,7 @@
       "subTitle": "Refreshing Italian Classics",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgCocktails.png"
   },
   {
     "DrinksMenu": [
@@ -188,7 +188,7 @@
       "subTitle": "Timeless Favorites",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgNewCocktails.png"
   },
   {
     "DrinksMenu": [
@@ -226,7 +226,7 @@
       "subTitle": "Coffee with a Kick",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgCoffee.png"
   },
   {
     "DrinksMenu": [
@@ -250,7 +250,7 @@
       "subTitle": "Classic Italian Cocktails",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgcocktails17.png"
   },
   {
     "DrinksMenu": [
@@ -316,7 +316,7 @@
       "subTitle": "Premium Gin Creations",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgGIN2.png"
   },
   {
     "DrinksMenu": [
@@ -445,7 +445,7 @@
       "subTitle": "Premium Gin Selection",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgCocktails15.png"
   },
   {
     "DrinksMenu": [
@@ -542,7 +542,7 @@
       "subTitle": "Premium Rum Selection",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgNewCocktails11.png"
   },
   {
     "DrinksMenu": [
@@ -615,7 +615,7 @@
       "subTitle": "Premium Tequila Selection",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgdONjULIO.png"
   },{
     "DrinksMenu": [
       { "title": "JW Black Label", "price": "Ksh 450", "subTitle": "Glass", "priceSubTitle": "Bottle Ksh 11000", "image": "" },
@@ -632,7 +632,7 @@
       "subTitle": "Premium Scotch Selection",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgCocktails.png"
   },
   {
     "DrinksMenu": [
@@ -657,7 +657,7 @@
       "subTitle": "Fine Single Malt Selection",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgaperitifs.png"
   },
   {
     "DrinksMenu": [
@@ -671,7 +671,7 @@
       "subTitle": "Classic & American Styles",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgCocktails.png"
   },
   {
     "DrinksMenu": [
@@ -684,7 +684,7 @@
       "subTitle": "Before Dinner Classics",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgNewCocktails.png"
   },
   {
     "DrinksMenu": [
@@ -714,7 +714,7 @@
       "subTitle": "Sweet and Aromatic",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBg1.png"
   },
   {
     "DrinksMenu": [
@@ -728,7 +728,7 @@
       "subTitle": "Classic Aromatic Wines",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgaperitifs.png"
   },
   {
     "DrinksMenu": [
@@ -745,7 +745,7 @@
       "subTitle": "Finest French Spirits",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBg2.png"
   },
   {
     "DrinksMenu": [
@@ -756,7 +756,7 @@
       "subTitle": "Smooth & Aromatic",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBg3.png"
   },
   {
     "DrinksMenu": [
