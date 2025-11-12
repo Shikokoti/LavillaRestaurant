@@ -86,7 +86,7 @@
         "priceSubTitle": ""
       },
       {
-        "title": "TAGLIERE DI SALUMI E FORMAGGI PER DUE PERSONE",
+        "title": "TAGLIERE DI SALUMI E FORMAGGI",
         "price": "Ksh 6500",
         "image": "",
         "subTitle": "Consists of: (Cheese Cuts - Caciotta Cheese with Truffle, Spicy aged Pecorino Cheese, Raw Milk Fontina Cheese, Sweet Taleggio) (Meat Cuts - Truffle Mortadella, Spicy Dry-Cured Italian Pork Meat, (Cinghiale) Italian Wild Boar Salami, Parma Ham)",
@@ -141,7 +141,7 @@
     "bgImgShow": "/assets/img/bg/barMenuBg8.png",
     "headingtext": {
       "title": "Antipasti",
-      "subTitle": "SEAFOOD STARTER",
+      "subTitle": "Seafood Starter",
       "tyle": "center"
     }
   },
@@ -358,7 +358,7 @@
       }
     ],
     "headingtext": {
-      "title": "Veg Pasta",
+      "title": "Risotto",
       "subTitle": "Risotto",
       "tyle": "center"
     },
@@ -425,7 +425,7 @@
     ],
     "headingtext": {
       "title": "Sea Food Pasta",
-      "subTitle": "Risotto",
+      "subTitle": "",
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/bessertsMenuBg.png"
