@@ -97,7 +97,7 @@ export default function DrinksMenuHome({ styleTwo }) {
               })}
             </div>
             <div>
-              >
+              
             </div>
           </div>
         ) : (

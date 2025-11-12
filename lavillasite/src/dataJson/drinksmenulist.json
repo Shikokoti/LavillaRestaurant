@@ -773,7 +773,7 @@
       "subTitle": "Local & International Brews",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBg34.png"
   },
   {
     "DrinksMenu": [
@@ -825,7 +825,7 @@
       "subTitle": "Freshly Prepared & Chilled",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBg6.png"
   },
   {
     "DrinksMenu": [
@@ -912,7 +912,7 @@
       "subTitle": "Refreshing Non-Alcoholic Choices",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgCocktails.png"
   },
   {
     "DrinksMenu": [
@@ -971,7 +971,7 @@
       "subTitle": "Rich & Aromatic Brews",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBgCoffee.png"
   },
   {
     "DrinksMenu": [
@@ -1009,7 +1009,7 @@
       "subTitle": "Aromatic & Soothing",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBg4.png"
   },
   {
     "DrinksMenu": [
@@ -1054,6 +1054,6 @@
       "subTitle": "Delightful Blended Treats",
       "tyle": "center"
     },
-    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+    "bgImgShow": "/assets/img/bg/barMenuBg5.png"
   }
 ]
