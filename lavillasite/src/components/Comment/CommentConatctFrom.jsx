@@ -13,7 +13,8 @@ export default function CommentConatctFrom() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    alert("Data send successfully");
+    alert("Redirecting to Google Reviews...");
+    window.open("https://g.page/r/Cab6GNXGX_sOEAE/review", "_blank");
   };
 
   return (
@@ -23,8 +24,8 @@ export default function CommentConatctFrom() {
           placeholder="Name"
           className="w-50"
           type="text"
-          name="fristname"
-          value={inputs.fristname || ""}
+          name="firstname"
+          value={inputs.firstname || ""}
           onChange={handleChange}
         />
         <input
