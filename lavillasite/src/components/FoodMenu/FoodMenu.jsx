@@ -9,7 +9,7 @@ const foodMenu = [
   {
     title: "Breggio D’amore",
     price: "Ksh 2450",
-    image: "/assets/img/itemShow/item-show.png",
+    image: "",
     subTitle: "Creamy Philadelphia Cheese and Bocconcini Soft Mozzarella",
     priceSubTitle: "",
   },
@@ -23,7 +23,7 @@ const foodMenu = [
   {
     title: "Salmon Croquettes ",
     price: "Ksh 2000",
-    image: "/assets/img/itemShow/item-show.png",
+    image: "",
     subTitle: "Savory flavor of salmon",
     priceSubTitle: "",
   },
@@ -37,7 +37,7 @@ const foodMenu = [
   {
     title: "Ravioli Al Tartufo",
     price: "Ksh 2200",
-    image: "/assets/img/itemShow/item-show.png",
+    image: "",
     subTitle: "Spaghetti alla Carbonara",
     priceSubTitle: "",
   },
@@ -51,7 +51,7 @@ const foodMenu = [
   {
     title: "Tagliatelle In Burrata",
     price: "Ksh 2450",
-    image: "/assets/img/itemShow/item-show.png",
+    image: "",
     subTitle: "Homemade Tagliatelle Pasta with Creamy Richness of Burrata",
     priceSubTitle: "",
   },
@@ -65,7 +65,7 @@ const foodMenu = [
   {
     title: "Crème Brulee",
     price: "Ksh 800",
-    image: "/assets/img/itemShow/item-show.png",
+    image: "",
     subTitle: "Rich creamy custard ",
     priceSubTitle: "",
   },
