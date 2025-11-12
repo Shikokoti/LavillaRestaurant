@@ -97,7 +97,7 @@ export default function FoodMenuHome({ styleTwo }) {
               })}
             </div>
             <div>
-              <img src={itemShow} alt="..." />
+             
             </div>
           </div>
         ) : (
