@@ -145,7 +145,7 @@ export default function Footer() {
                 <p>{Footertext.timethree}</p> 
               </div>
               <div className="footer-btn">
-                <WhiteButton to="reservations">Reservations</WhiteButton>
+                <WhiteButton to="Reservations">Reservations</WhiteButton>
               </div>
             </div>
           </div>
