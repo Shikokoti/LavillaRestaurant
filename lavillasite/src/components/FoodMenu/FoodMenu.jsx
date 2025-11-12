@@ -3,7 +3,7 @@ import SectionTitle from "../SectionTitle/SectionTitle";
 import FoodMenuItem from "./FoodMenuItem";
 import { ButtonCommon } from "../Button/Button";
 
-import itemShow from "/assets/img/itemShow/food-menu.png";
+// import itemShow from "/assets/img/itemShow/food-menu.png";
 
 const foodMenu = [
   {
