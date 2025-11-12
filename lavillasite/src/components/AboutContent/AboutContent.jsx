@@ -43,7 +43,7 @@ export default function AboutContent() {
               <div className="ak-height-30 ak-height-lg-30"></div>
               <p className="about-subtext">{subtext}</p>
               <div className="ak-height-50 ak-height-lg-30"></div>
-              <ButtonCommon to={"/about"}>Discover The Kitchen</ButtonCommon>
+              <ButtonCommon to={"/menu"}>Discover The Kitchen</ButtonCommon>
             </div>
           </div>
         </div>
