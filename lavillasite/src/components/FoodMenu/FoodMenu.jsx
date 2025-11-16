@@ -76,6 +76,13 @@ const foodMenu = [
     subTitle: "Indulge in our Dubai Chocolate Gelato",
     priceSubTitle: "",
   },
+  {
+    title: "Tableside Tiramisu Experience ",
+    price: "Ksh 1250",
+    image: "",
+    subTitle: "Witness the creation of the classic Italian at your table, delicately assembled layers of creamy mascarpone, coffee-soaked ladyfingers, and a dusting of cocoa.",
+    priceSubTitle: "Live Preparation",
+  }
 ];
 
 export default function FoodMenuHome({ styleTwo }) {
