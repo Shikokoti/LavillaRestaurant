@@ -7,10 +7,10 @@ import { ButtonCommon } from "../Button/Button";
 
 const foodMenu = [
   {
-    title: "Breggio D’amore",
-    price: "Ksh 2450",
+    title: "Tagliere With Truffle",
+    price: "Ksh 2250",
     image: "",
-    subTitle: "Creamy Philadelphia Cheese and Bocconcini Soft Mozzarella",
+    subTitle: "CMixed Truffle Cold cuts: (Cinghiale) Italian Wild Bore Salami with Truffle,Pecorino Truffle &amp; Mortadella Truffle &amp; Bruschetta topped with Truffled Porcini Mushrooms",
     priceSubTitle: "",
   },
   {
