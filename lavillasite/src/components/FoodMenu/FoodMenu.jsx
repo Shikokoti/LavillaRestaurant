@@ -21,10 +21,10 @@ const foodMenu = [
     priceSubTitle: "",
   },
   {
-    title: "Salmon Croquettes ",
-    price: "Ksh 2000",
+    title: "Tartare Di Manzo ",
+    price: "Ksh 2300",
     image: "",
-    subTitle: "Savory flavor of salmon",
+    subTitle: "SBeef tartar, drizzled with truffle oil and topped with freshly grated truffle",
     priceSubTitle: "",
   },
   {
