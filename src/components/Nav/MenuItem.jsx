@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import classNames from "classnames";
 
-export default function MenuItem({ props }) {
+export default function MenuItem({ props, closeMenu }) {
   const [showMenu, setShowMenu] = useState(false);
 
   const showsubnav = () => {
@@ -14,22 +14,38 @@ export default function MenuItem({ props }) {
     active: showMenu,
   });
 
-  const showActivePrent = classNames("menu-item-has-children", {
+  const showActiveParent = classNames("menu-item-has-children", {
     active: showMenu,
   });
 
+  const hasChildren = isArray(props.children);
+
   return (
-    <li className={showActivePrent}>
-      <Link to={props.link}>{props.title}</Link>
-      {isArray(props.childern) && (
+    <li className={showActiveParent}>
+      <Link
+        to={props.link}
+        onClick={() => {
+          if (!hasChildren) closeMenu();  // Close for normal items
+        }}
+      >
+        {props.title}
+      </Link>
+
+      {hasChildren && (
         <>
           <ul>
-            {props?.childern?.map((child) => (
+            {props.children.map((child) => (
               <li key={child.key}>
-                <Link to={child.link}>{child.title}</Link>
+                <Link
+                  to={child.link}
+                  onClick={closeMenu} // Close for child clicks too
+                >
+                  {child.title}
+                </Link>
               </li>
             ))}
           </ul>
+
           <span className={showActive} onClick={showsubnav}></span>
         </>
       )}

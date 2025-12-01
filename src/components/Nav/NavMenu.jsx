@@ -36,7 +36,10 @@ export default function NavMenu() {
             <div className="ak-nav ak-medium">
               <ul id="ak-nav_list" className={`ak-nav_list ${navlist}`}>
                 {navitemlist?.map((item, i) => {
-                  return <MenuItem props={item} key={i} />;
+                  return <MenuItem props={item} key={i}closeMenu={() => {
+          setNavbar("");
+          setNavList("");
+        }} />;
                 })}
               </ul>
               <span
