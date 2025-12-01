@@ -1,0 +1,1059 @@
+[
+  {
+    "DrinksMenu": [
+      {
+        "title": "Above The Clouds",
+        "price": "Ksh 1250",
+        "subTitle": "Vodka, Pineapple, Pickled Ginger, Lychee Orange Blossom & Aqua Fabba.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Pink Flamingo",
+        "price": "Ksh 1200",
+        "subTitle": "Tequila, Strawberry, Rosemary, Pink Grapefruit Juice, Lime Juice.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Kaleidoscope",
+        "price": "Ksh 1200",
+        "subTitle": "Vodka, Fresh Raspberries, Campari, Sweet & Sour Mix, Fresh Pink Grapefruit Juice.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "La Villa Spritz",
+        "price": "Ksh 1100",
+        "subTitle": "Elderflower Liqueur, Pink Grapefruit, Prosecco with a dash of Sparkling Water.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "La Villa Blossom",
+        "price": "Ksh 1200",
+        "subTitle": "London Dry Gin, Rose Syrup, Aquafaba, Pinot Grigio, Sweet and Sour.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Slice Of Spice",
+        "price": "Ksh 1100",
+        "subTitle": "Spiced Rum, Fresh Ginger, Lemon Zest, Jalapeno, Angostura Bitters & Pineapple Juice.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Whiskey Sour",
+        "price": "Ksh 1200",
+        "subTitle": "Elderflower Liqueur, Pink Grapefruit, Prosecco with a dash of Sparkling Water.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Talk Of The Town",
+        "price": "Ksh 1250",
+        "subTitle": "Hibiscus Infused Gin mixed with Basil & Lemon, giving a Tangy Floral Cocktail.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Passion Paradise",
+        "price": "Ksh 1050",
+        "subTitle": "Aperol, Passoa, Thyme, Homemade Lemongrass Puree, Lemon Juice topped with Prosecco.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Espresso Martini",
+        "price": "Ksh 1200",
+        "subTitle": "(Optional with Parmesan Cheese) Vanilla Infused Vodka, Kahlua & Espresso.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "La Villa Flip",
+        "price": "Ksh 1200",
+        "subTitle": "Bacardi, Aperol, Triple Sec, Lime Juice, Sugar Syrup & Aquafaba.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Gin Basil Smash",
+        "price": "Ksh 1250",
+        "subTitle": "Tanqueray Gin, Midori, Lime Juice, Sugar Syrup & Basil.",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Signature Cocktails",
+      "subTitle": "Crafted Specials",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgaperitifs.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Limoncello Spritz",
+        "price": "Ksh 1000",
+        "subTitle": "Limoncello, Fresh Lemon, Sparkling Water, Prosecco & Lemon Zest.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Aperol Spritz",
+        "price": "Ksh 1150",
+        "subTitle": "Aperol, Sparkling Water & Prosecco.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Hugo",
+        "price": "Ksh 1250",
+        "subTitle": "London Dry Gin, Elderflower Liqueur, Fresh Mint & Lime topped with Prosecco.",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Aperitifs & Spritzers",
+      "subTitle": "Refreshing Italian Classics",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgCocktails.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Boulevardier Cocktail",
+        "price": "Ksh 1200",
+        "subTitle": "Bulleit Bourbon, Martini Rosso, Campari, Maraschino Cherry.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Whisky Sour",
+        "price": "Ksh 1200",
+        "subTitle": "J W Black Label, Lime Juice, Sugar Syrup, Aqua Fabba.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Cosmopolitan",
+        "price": "Ksh 900",
+        "subTitle": "Leleshwa Vodka, Cranberry Juice, Triple Sec, Lemon Juice.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Old Fashioned",
+        "price": "Ksh 1200",
+        "subTitle": "Bulleit Bourbon, Brown Molasses, Angostura Bitters, Orange Peel & Maraschino Cherry.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Pimms Cup Cocktail",
+        "price": "Ksh 1200",
+        "subTitle": "Pimms, Brandy, Strawberries, Cucumber, Oranges, Mint Leaves & Topped with Sprite.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Classic Margarita",
+        "price": "Ksh 900",
+        "subTitle": "Tequila, Triple Sec, Sweet & Sour.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Classic Daiquiri",
+        "price": "Ksh 900",
+        "subTitle": "White Rum with Sweet & Sour Mix.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Classic Gin and Tonic",
+        "price": "Ksh 900",
+        "subTitle": "Beefeater Gin, Lime Wedge & Topped with Tonic.",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Classic Cocktails",
+      "subTitle": "Timeless Favorites",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgNewCocktails.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Irish Coffee",
+        "price": "Ksh 750",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Baileys Cappuccino",
+        "price": "Ksh 700",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Amaretto Cafe",
+        "price": "Ksh 700",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Hot Toddy",
+        "price": "Ksh 800",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Boozy Coffees",
+      "subTitle": "Coffee with a Kick",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgCoffee.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Negroni Sbagliato",
+        "price": "Ksh 900",
+        "subTitle": "Prosecco, Campari & Martini Rosso.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Negroni Classic",
+        "price": "Ksh 950",
+        "subTitle": "London Dry Gin, Campari & Martini Rosso.",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Negroni Cocktails",
+      "subTitle": "Classic Italian Cocktails",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgcocktails17.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Kijabe Gimlet",
+        "price": "Ksh 1500",
+        "subTitle": "Muddled juniper berries, with Blue Dot Gin, simple syrup and Lemon juice.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Blue Dot Negroni",
+        "price": "Ksh 1350",
+        "subTitle": "Procera Blue Dot Gin, Campari & Martini Fiero.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Red Dot Negroni",
+        "price": "Ksh 1650",
+        "subTitle": "Red Dot, Campari and sweet red vermouth.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray Craft",
+        "price": "Ksh 1450",
+        "subTitle": "Rosemary Aromatic Tonic & Strawberries.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray 10 Craft",
+        "price": "Ksh 1600",
+        "subTitle": "Grapefruit Mediterranean Tonic.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray Royale Craft",
+        "price": "Ksh 1650",
+        "subTitle": "Mixed Berries - Blue Tonic.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Malfy Gin Rosa Craft",
+        "price": "Ksh 1650",
+        "subTitle": "Grapefruit, Grapefruit Tonic.",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Botanist Craft",
+        "price": "Ksh 1550",
+        "subTitle": "Strawberries, Indian Tonic.",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Gin Cocktails & Craft Gins",
+      "subTitle": "Premium Gin Creations",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgGIN2.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Beefeater",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6700",
+        "image": ""
+      },
+      {
+        "title": "Beefeater Pink",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6700",
+        "image": ""
+      },
+      {
+        "title": "Beefeater Blood Orange",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6700",
+        "image": ""
+      },
+      {
+        "title": "Bombay Sapphire",
+        "price": "Ksh 500",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 7500",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray",
+        "price": "Ksh 500",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 8000",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray 10",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 10000",
+        "image": ""
+      },
+      {
+        "title": "Tanqueray Royale",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 7500",
+        "image": ""
+      },
+      {
+        "title": "Hendricks",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 10500",
+        "image": ""
+      },
+      {
+        "title": "The Botanist",
+        "price": "Ksh 700",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 10000",
+        "image": ""
+      },
+      {
+        "title": "Gin Mare",
+        "price": "Ksh 700",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 13000",
+        "image": ""
+      },
+      {
+        "title": "Procera Blue Dot",
+        "price": "Ksh 950",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 18000",
+        "image": ""
+      },
+      {
+        "title": "Procera Red Dot",
+        "price": "Ksh 1050",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 21000",
+        "image": ""
+      },
+      {
+        "title": "Procera Green Dot",
+        "price": "Ksh 1250",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 25000",
+        "image": ""
+      },
+      {
+        "title": "Monkey 47",
+        "price": "Ksh 750",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 9500",
+        "image": ""
+      },
+      {
+        "title": "Malfy Rosa",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 9500",
+        "image": ""
+      },
+      {
+        "title": "Malfy Con Limone",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 9500",
+        "image": ""
+      },
+      {
+        "title": "Malfy Originale",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 9500",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Gin",
+      "subTitle": "Premium Gin Selection",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgCocktails15.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Absolut",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 7500",
+        "image": ""
+      },
+      {
+        "title": "Ketel One",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 9500",
+        "image": ""
+      },
+      {
+        "title": "Grey Goose",
+        "price": "Ksh 750",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 13000",
+        "image": ""
+      },
+      {
+        "title": "Ciroc",
+        "price": "Ksh 700",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 12500",
+        "image": ""
+      },
+      {
+        "title": "Beluga",
+        "price": "Ksh 800",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 14000",
+        "image": ""
+      },
+      {
+        "title": "Belvedere",
+        "price": "Ksh 650",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 12000",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Vodka",
+      "subTitle": "Premium Vodka Selection",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Bacardi Carta Blanca",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6000",
+        "image": ""
+      },
+      {
+        "title": "Bacardi Negra",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6000",
+        "image": ""
+      },
+      {
+        "title": "Captain Morgan Spiced",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6000",
+        "image": ""
+      },
+      {
+        "title": "Malibu",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 4000",
+        "image": ""
+      },
+      {
+        "title": "Ron Zacapa 23",
+        "price": "Ksh 800",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 19800",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Rum",
+      "subTitle": "Premium Rum Selection",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgNewCocktails11.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Olmeca Bianco",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Olmeca Gold",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 9500",
+        "image": ""
+      },
+      {
+        "title": "Jose Cuervo Gold",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 9500",
+        "image": ""
+      },
+      {
+        "title": "Don Julio Blanco",
+        "price": "Ksh 700",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 14000",
+        "image": ""
+      },
+      {
+        "title": "Don Julio Reposado",
+        "price": "Ksh 700",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 14000",
+        "image": ""
+      },
+      {
+        "title": "Don Julio Anejo",
+        "price": "Ksh 850",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 18000",
+        "image": ""
+      },
+      {
+        "title": "Cincoro Blanco",
+        "price": "Ksh 1250",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 25000",
+        "image": ""
+      },
+      {
+        "title": "Cincoro Reposado",
+        "price": "Ksh 1450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 32000",
+        "image": ""
+      },
+      {
+        "title": "Don Julio 1942",
+        "price": "Ksh 2600",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 65000",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Tequila",
+      "subTitle": "Premium Tequila Selection",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgdONjULIO.png"
+  },{
+    "DrinksMenu": [
+      { "title": "JW Black Label", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 11000", "image": "" },
+      { "title": "JW Double Black Label", "price": "Ksh 750", "subTitle": "", "priceSubTitle": "Bottle Ksh 14000", "image": "" },
+      { "title": "JW Green Label", "price": "Ksh 800", "subTitle": "", "priceSubTitle": "Bottle Ksh 15000", "image": "" },
+      { "title": "JW Blue Label", "price": "Ksh 1800", "subTitle": "", "priceSubTitle": "Bottle Ksh 52000", "image": "" },
+      { "title": "JW Gold Reserve", "price": "Ksh 950", "subTitle": "", "priceSubTitle": "Bottle Ksh 18000", "image": "" },
+      { "title": "JW 18y", "price": "Ksh 950", "subTitle": "", "priceSubTitle": "Bottle Ksh 20000", "image": "" },
+      { "title": "Chivas 12y", "price": "Ksh 600", "subTitle": "", "priceSubTitle": "Bottle Ksh 12500", "image": "" },
+      { "title": "Chivas 18y", "price": "Ksh 1050", "subTitle": "", "priceSubTitle": "Bottle Ksh 22000", "image": "" }
+    ],
+    "headingtext": {
+      "title": "Blended Scotch",
+      "subTitle": "Premium Scotch Selection",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgCocktails.png"
+  },
+  {
+    "DrinksMenu": [
+      { "title": "Glenlivet 12y", "price": "Ksh 800", "subTitle": "", "priceSubTitle": "Bottle Ksh 13500", "image": "" },
+      { "title": "Glenlivet 15y", "price": "Ksh 950", "subTitle": "", "priceSubTitle": "Bottle Ksh 18000", "image": "" },
+      { "title": "Glenlivet 18y", "price": "Ksh 1250", "subTitle": "", "priceSubTitle": "Bottle Ksh 32000", "image": "" },
+      { "title": "Talisker 10y", "price": "Ksh 850", "subTitle": "", "priceSubTitle": "Bottle Ksh 15000", "image": "" },
+      { "title": "Laphroaig 10y", "price": "Ksh 850", "subTitle": "", "priceSubTitle": "Bottle Ksh 18500", "image": "" },
+      { "title": "Ardberg 10y", "price": "Ksh 1100", "subTitle": "", "priceSubTitle": "Bottle Ksh 28000", "image": "" },
+      { "title": "Lagavulin 16y", "price": "Ksh 1100", "subTitle": "", "priceSubTitle": "Bottle Ksh 25000", "image": "" },
+      { "title": "Macallan 12y", "price": "Ksh 1000", "subTitle": "", "priceSubTitle": "Bottle Ksh 15000", "image": "" },
+      { "title": "Macallan 18y", "price": "Ksh 2250", "subTitle": "", "priceSubTitle": "Bottle Ksh 52000", "image": "" },
+      { "title": "Glenfiddich 12y", "price": "Ksh 650", "subTitle": "", "priceSubTitle": "Bottle Ksh 12500", "image": "" },
+      { "title": "Glenfiddich 18y", "price": "Ksh 850", "subTitle": "", "priceSubTitle": "Bottle Ksh 18500", "image": "" },
+      { "title": "Indri 11y", "price": "Ksh 1150", "subTitle": "", "priceSubTitle": "Bottle Ksh 25000", "image": "" },
+      { "title": "Singleton 12y", "price": "Ksh 650", "subTitle": "", "priceSubTitle": "Bottle Ksh 12500", "image": "" },
+      { "title": "Singleton 15y", "price": "Ksh 750", "subTitle": "", "priceSubTitle": "Bottle Ksh 18500", "image": "" },
+      { "title": "Singleton 18y", "price": "Ksh 850", "subTitle": "", "priceSubTitle": "Bottle Ksh 24500", "image": "" }
+    ],
+    "headingtext": {
+      "title": "Single Malts",
+      "subTitle": "Fine Single Malt Selection",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgaperitifs.png"
+  },
+  {
+    "DrinksMenu": [
+      { "title": "Jameson", "price": "Ksh 500", "subTitle": "", "priceSubTitle": "Bottle Ksh 8000", "image": "" },
+      { "title": "Bulleit Bourbon", "price": "Ksh 500", "subTitle": "", "priceSubTitle": "Bottle Ksh 10000", "image": "" },
+      { "title": "Jack Daniels", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 9000", "image": "" },
+      { "title": "Jack Daniels Fire", "price": "Ksh 550", "subTitle": "", "priceSubTitle": "Bottle Ksh 12000", "image": "" }
+    ],
+    "headingtext": {
+      "title": "Whiskey & Bourbon",
+      "subTitle": "Classic & American Styles",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgCocktails.png"
+  },
+  {
+    "DrinksMenu": [
+      { "title": "Aperol", "price": "Ksh 400", "subTitle": "", "priceSubTitle": "Bottle Ksh 6500", "image": "" },
+      { "title": "Campari", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6500", "image": "" },
+      { "title": "Pimms", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6500", "image": "" }
+    ],
+    "headingtext": {
+      "title": "Aperitifs",
+      "subTitle": "Before Dinner Classics",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgNewCocktails.png"
+  },
+  {
+    "DrinksMenu": [
+      { "title": "Jagermeister", "price": "Ksh 500", "subTitle": "", "priceSubTitle": "Bottle Ksh 7500", "image": "" },
+      { "title": "Baileys", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6500", "image": "" },
+      { "title": "Limoncello", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 5500", "image": "" },
+      { "title": "Sambuca", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6000", "image": "" },
+      { "title": "Amaro Del Capo", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 13500", "image": "" },
+      { "title": "Fernet Branca", "price": "Ksh 500", "subTitle": "", "priceSubTitle": "Bottle Ksh 10800", "image": "" }
+    ],
+    "headingtext": {
+      "title": "Digestives",
+      "subTitle": "After Dinner Liqueurs",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg.png"
+  },
+  {
+    "DrinksMenu": [
+      { "title": "Cointreau", "price": "Ksh 550", "subTitle": "", "priceSubTitle": "Bottle Ksh 11000", "image": "" },
+      { "title": "Grand Marnier", "price": "Ksh 600", "subTitle": "", "priceSubTitle": "Bottle Ksh 12500", "image": "" },
+      { "title": "Kahlua", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6500", "image": "" },
+      { "title": "Amaretto Disaronno", "price": "Ksh 550", "subTitle": "", "priceSubTitle": "Bottle Ksh 8000", "image": "" }
+    ],
+    "headingtext": {
+      "title": "Liqueurs",
+      "subTitle": "Sweet and Aromatic",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg1.png"
+  },
+  {
+    "DrinksMenu": [
+      { "title": "Martini Bianco", "price": "Ksh 400", "subTitle": "", "priceSubTitle": "Bottle Ksh 5500", "image": "" },
+      { "title": "Martini Rosso", "price": "Ksh 400", "subTitle": "", "priceSubTitle": "Bottle Ksh 5500", "image": "" },
+      { "title": "Martini Extra Dry", "price": "Ksh 400", "subTitle": "", "priceSubTitle": "Bottle Ksh 5500", "image": "" },
+      { "title": "Martini Fiero", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6000", "image": "" }
+    ],
+    "headingtext": {
+      "title": "Vermouth",
+      "subTitle": "Classic Aromatic Wines",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgaperitifs.png"
+  },
+  {
+    "DrinksMenu": [
+      { "title": "Hennessy VS", "price": "Ksh 750", "subTitle": "", "priceSubTitle": "Bottle Ksh 16000", "image": "" },
+      { "title": "Hennessy VSOP", "price": "Ksh 1200", "subTitle": "", "priceSubTitle": "Bottle Ksh 21000", "image": "" },
+      { "title": "Remy Martin VSOP", "price": "Ksh 950", "subTitle": "", "priceSubTitle": "Bottle Ksh 18000", "image": "" },
+      { "title": "Remy Martin XO", "price": "Ksh 3500", "subTitle": "", "priceSubTitle": "Bottle Ksh 70000", "image": "" },
+      { "title": "Martell VS", "price": "Ksh 950", "subTitle": "", "priceSubTitle": "Bottle Ksh 19000", "image": "" },
+      { "title": "Martell VSOP", "price": "Ksh 1100", "subTitle": "", "priceSubTitle": "Bottle Ksh 20000", "image": "" },
+      { "title": "Martell XO", "price": "Ksh 2450", "subTitle": "", "priceSubTitle": "Bottle Ksh 55000", "image": "" }
+    ],
+    "headingtext": {
+      "title": "Cognac",
+      "subTitle": "Finest French Spirits",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg2.png"
+  },
+  {
+    "DrinksMenu": [
+      { "title": "Viceroy", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 4500", "image": "" }
+    ],
+    "headingtext": {
+      "title": "Brandy",
+      "subTitle": "Smooth & Aromatic",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg3.png"
+  },
+  {
+    "DrinksMenu": [
+      { "title": "White Cap", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" },
+      { "title": "White Cap Crisp", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" },
+      { "title": "Tusker Lager", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" },
+      { "title": "Tusker Lite", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" },
+      { "title": "Tusker Malt", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" },
+      { "title": "Heineken", "price": "Ksh 600", "subTitle": "", "priceSubTitle": "", "image": "" },
+      { "title": "Guinness Stout", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" }
+    ],
+    "headingtext": {
+      "title": "Beer",
+      "subTitle": "Local & International Brews",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg34.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Orange",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Passion Fruit",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Pineapple",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Mango Juice",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Fresh Lemon & Ginger Juice",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Freshly Squeezed Orange Juice",
+        "price": "Ksh 800",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Juices",
+      "subTitle": "Freshly Prepared & Chilled",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg7.2.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Fanta Orange & Black Currant",
+        "price": "Ksh 300",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Coke",
+        "price": "Ksh 300",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Sprite",
+        "price": "Ksh 300",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tonic",
+        "price": "Ksh 300",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Diet Coke",
+        "price": "Ksh 300",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Stoney",
+        "price": "Ksh 300",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Fitch and Leeds Indian Tonic",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Fitch and Leeds Blue Tonic",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Fitch and Leeds Pink Tonic",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Red Bull",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Heineken Zero 0",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Soft Drinks & Energy Drinks",
+      "subTitle": "Refreshing Non-Alcoholic Choices",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgCocktails.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Espresso",
+        "price": "Ksh 300",
+        "subTitle": "Single",
+        "priceSubTitle": "250",
+        "image": ""
+      },
+      {
+        "title": "Machiato",
+        "price": "Ksh 400",
+        "subTitle": "Single",
+        "priceSubTitle": "350",
+        "image": ""
+      },
+      {
+        "title": "Cappuccino",
+        "price": "Ksh 500",
+        "subTitle": "Single",
+        "priceSubTitle": "450",
+        "image": ""
+      },
+      {
+        "title": "Latte",
+        "price": "Ksh 500",
+        "subTitle": "Single",
+        "priceSubTitle": "450",
+        "image": ""
+      },
+      {
+        "title": "Americano",
+        "price": "Ksh 450",
+        "subTitle": "Single",
+        "priceSubTitle": "400",
+        "image": ""
+      },
+      {
+        "title": "Mocha",
+        "price": "Ksh 550",
+        "subTitle": "Single",
+        "priceSubTitle": "500",
+        "image": ""
+      },
+      {
+        "title": "Hot Chocolate",
+        "price": "Ksh 500",
+        "subTitle": "Single",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Coffee",
+      "subTitle": "Rich & Aromatic Brews",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBgCoffee.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "Herbal Tea",
+        "price": "Ksh 400",
+        "subTitle": "Single",
+        "priceSubTitle": "Hibiscus | Green | Camomile",
+        "image": ""
+      },
+      {
+        "title": "English Breakfast",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Fruit Tea",
+        "price": "Ksh 500",
+        "subTitle": "Peach | Srawberry-Vanilla | Apple-Cinnamon",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Mixed Kenyan Tea",
+        "price": "Ksh 500",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Tea",
+      "subTitle": "Aromatic & Soothing",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg4.png"
+  },
+  {
+    "DrinksMenu": [
+      {
+        "title": "NuttySalted Toffey",
+        "price": "Ksh 650",
+        "subTitle": "",
+        "priceSubTitle": "Contains Nuts",
+        "image": ""
+      },
+      {
+        "title": "Heavenly Vanilla",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Creamy Chocolate Dream",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Kitisuru Strawberry Dream",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "La Villa Coffee Cloud",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      }
+    ],
+    "headingtext": {
+      "title": "Milkshakes",
+      "subTitle": "Delightful Blended Treats",
+      "tyle": "center"
+    },
+    "bgImgShow": "/assets/img/bg/barMenuBg5.png"
+  }
+]
