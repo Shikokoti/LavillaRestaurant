@@ -17,7 +17,7 @@
     },
     {
         "title": "Drinks Menu",
-        "link": "/drinks-menu",
+        "link": "#",
         "key": "drinksmenu",
         "children":[
             {
