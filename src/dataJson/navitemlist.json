@@ -27,7 +27,7 @@
             },
             {
                 "title": "Beverages",
-                "link": "/drinks-menu/beverages",
+                "link": "/drinks-menu" ,
                 "key": "Beverages"
             }
 
