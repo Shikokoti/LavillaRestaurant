@@ -1,6 +1,7 @@
-from server.app import app
+from server.app import create_app, db
 from server.models import User, Reservation
-from server.database import db
+
+app = create_app()
 
 with app.app_context():
 
