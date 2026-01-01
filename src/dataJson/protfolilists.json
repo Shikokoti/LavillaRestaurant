@@ -62,7 +62,7 @@
     {
         "id": 3,
         "img": "/assets/img/portfolio/portfolio_3.jpg",
-        "title": "Pizza Amatriciana",
+        "title": "Prosciutto Cotto E Funghi",
         "subtitle": "Pizza",
         "portfoliodetails": {
             "category": "Pizza",
@@ -92,11 +92,11 @@
     {
         "id": 4,
         "img": "/assets/img/portfolio/portfolio_4.jpg",
-        "title": "Parmagiana D Melanane",
-        "subtitle": "Piatti Principali ",
+        "title": "Petto Di Pollo Alla Parmentier",
+        "subtitle": "Con Fungi Trifolati ",
         "portfoliodetails": {
             "category": "Piatti Principali ",
-            "date": "5 July 2023",
+            "date": "5 July 2026",
             "desp": "Traditional Baked Aubergine With Tomato & Mozzarela",
             "shortdesp": "Traditional Baked Aubergine With Tomato & Mozzarela ",
             "tags": [
@@ -242,7 +242,7 @@
     {
         "id": 9,
         "img": "/assets/img/portfolio/portfolio_9.jpg",
-        "title": "Carbonara",
+        "title": "Pizza Barese",
         "subtitle": "Pizza",
         "portfoliodetails": {
             "category": "Pizza",
