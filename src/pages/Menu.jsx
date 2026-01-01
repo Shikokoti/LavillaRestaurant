@@ -4,7 +4,7 @@ import FoodMenuItem from "../components/FoodMenu/FoodMenuItem";
 import SectionTitle from "../components/SectionTitle/SectionTitle";
 import { imageZoomInOut } from "../helper/main";
 import foodmenulist from "../dataJson/foodmenulist.json";
-
+// edited this component section to rename the food menu from Menu to food-menu
 export default function Menu() {
   const imageContainers = useRef([]);
   const imageZoomIns = useRef([]);
