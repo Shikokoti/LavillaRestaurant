@@ -5,7 +5,7 @@ import WineMenuItem from "../components/FoodMenu/WineMenuItem";
 import SectionTitle from "../components/SectionTitle/SectionTitle";
 import { imageZoomInOut } from "../helper/main";
 import winemenulist from "../dataJson/winemenulist.json";
-
+// plese make sure to create WineMenuItem component in the specified path
 export default function WineMenu() {
   const imageContainers = useRef([]);
   const imageZoomIns = useRef([]);
