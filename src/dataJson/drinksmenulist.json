@@ -616,16 +616,65 @@
       "tyle": "center"
     },
     "bgImgShow": "/assets/img/bg/barMenuBgdONjULIO.png"
-  },{
+  },
+  {
     "DrinksMenu": [
-      { "title": "JW Black Label", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 11000", "image": "" },
-      { "title": "JW Double Black Label", "price": "Ksh 750", "subTitle": "", "priceSubTitle": "Bottle Ksh 14000", "image": "" },
-      { "title": "JW Green Label", "price": "Ksh 800", "subTitle": "", "priceSubTitle": "Bottle Ksh 15000", "image": "" },
-      { "title": "JW Blue Label", "price": "Ksh 1800", "subTitle": "", "priceSubTitle": "Bottle Ksh 52000", "image": "" },
-      { "title": "JW Gold Reserve", "price": "Ksh 950", "subTitle": "", "priceSubTitle": "Bottle Ksh 18000", "image": "" },
-      { "title": "JW 18y", "price": "Ksh 950", "subTitle": "", "priceSubTitle": "Bottle Ksh 20000", "image": "" },
-      { "title": "Chivas 12y", "price": "Ksh 600", "subTitle": "", "priceSubTitle": "Bottle Ksh 12500", "image": "" },
-      { "title": "Chivas 18y", "price": "Ksh 1050", "subTitle": "", "priceSubTitle": "Bottle Ksh 22000", "image": "" }
+      {
+        "title": "JW Black Label",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 11000",
+        "image": ""
+      },
+      {
+        "title": "JW Double Black Label",
+        "price": "Ksh 750",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 14000",
+        "image": ""
+      },
+      {
+        "title": "JW Green Label",
+        "price": "Ksh 800",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 15000",
+        "image": ""
+      },
+      {
+        "title": "JW Blue Label",
+        "price": "Ksh 1800",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 52000",
+        "image": ""
+      },
+      {
+        "title": "JW Gold Reserve",
+        "price": "Ksh 950",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 18000",
+        "image": ""
+      },
+      {
+        "title": "JW 18y",
+        "price": "Ksh 950",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 20000",
+        "image": ""
+      },
+      {
+        "title": "Chivas 12y",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 12500",
+        "image": ""
+      },
+      {
+        "title": "Chivas 18y",
+        "price": "Ksh 1050",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 22000",
+        "image": ""
+      }
     ],
     "headingtext": {
       "title": "Blended Scotch",
@@ -636,21 +685,111 @@
   },
   {
     "DrinksMenu": [
-      { "title": "Glenlivet 12y", "price": "Ksh 800", "subTitle": "", "priceSubTitle": "Bottle Ksh 13500", "image": "" },
-      { "title": "Glenlivet 15y", "price": "Ksh 950", "subTitle": "", "priceSubTitle": "Bottle Ksh 18000", "image": "" },
-      { "title": "Glenlivet 18y", "price": "Ksh 1250", "subTitle": "", "priceSubTitle": "Bottle Ksh 32000", "image": "" },
-      { "title": "Talisker 10y", "price": "Ksh 850", "subTitle": "", "priceSubTitle": "Bottle Ksh 15000", "image": "" },
-      { "title": "Laphroaig 10y", "price": "Ksh 850", "subTitle": "", "priceSubTitle": "Bottle Ksh 18500", "image": "" },
-      { "title": "Ardberg 10y", "price": "Ksh 1100", "subTitle": "", "priceSubTitle": "Bottle Ksh 28000", "image": "" },
-      { "title": "Lagavulin 16y", "price": "Ksh 1100", "subTitle": "", "priceSubTitle": "Bottle Ksh 25000", "image": "" },
-      { "title": "Macallan 12y", "price": "Ksh 1000", "subTitle": "", "priceSubTitle": "Bottle Ksh 15000", "image": "" },
-      { "title": "Macallan 18y", "price": "Ksh 2250", "subTitle": "", "priceSubTitle": "Bottle Ksh 52000", "image": "" },
-      { "title": "Glenfiddich 12y", "price": "Ksh 650", "subTitle": "", "priceSubTitle": "Bottle Ksh 12500", "image": "" },
-      { "title": "Glenfiddich 18y", "price": "Ksh 850", "subTitle": "", "priceSubTitle": "Bottle Ksh 18500", "image": "" },
-      { "title": "Indri 11y", "price": "Ksh 1150", "subTitle": "", "priceSubTitle": "Bottle Ksh 25000", "image": "" },
-      { "title": "Singleton 12y", "price": "Ksh 650", "subTitle": "", "priceSubTitle": "Bottle Ksh 12500", "image": "" },
-      { "title": "Singleton 15y", "price": "Ksh 750", "subTitle": "", "priceSubTitle": "Bottle Ksh 18500", "image": "" },
-      { "title": "Singleton 18y", "price": "Ksh 850", "subTitle": "", "priceSubTitle": "Bottle Ksh 24500", "image": "" }
+      {
+        "title": "Glenlivet 12y",
+        "price": "Ksh 800",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 13500",
+        "image": ""
+      },
+      {
+        "title": "Glenlivet 15y",
+        "price": "Ksh 950",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 18000",
+        "image": ""
+      },
+      {
+        "title": "Glenlivet 18y",
+        "price": "Ksh 1250",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 32000",
+        "image": ""
+      },
+      {
+        "title": "Talisker 10y",
+        "price": "Ksh 850",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 15000",
+        "image": ""
+      },
+      {
+        "title": "Laphroaig 10y",
+        "price": "Ksh 850",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 18500",
+        "image": ""
+      },
+      {
+        "title": "Ardberg 10y",
+        "price": "Ksh 1100",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 28000",
+        "image": ""
+      },
+      {
+        "title": "Lagavulin 16y",
+        "price": "Ksh 1100",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 25000",
+        "image": ""
+      },
+      {
+        "title": "Macallan 12y",
+        "price": "Ksh 1000",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 15000",
+        "image": ""
+      },
+      {
+        "title": "Macallan 18y",
+        "price": "Ksh 2250",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 52000",
+        "image": ""
+      },
+      {
+        "title": "Glenfiddich 12y",
+        "price": "Ksh 650",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 12500",
+        "image": ""
+      },
+      {
+        "title": "Glenfiddich 18y",
+        "price": "Ksh 850",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 18500",
+        "image": ""
+      },
+      {
+        "title": "Indri 11y",
+        "price": "Ksh 1150",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 25000",
+        "image": ""
+      },
+      {
+        "title": "Singleton 12y",
+        "price": "Ksh 650",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 12500",
+        "image": ""
+      },
+      {
+        "title": "Singleton 15y",
+        "price": "Ksh 750",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 18500",
+        "image": ""
+      },
+      {
+        "title": "Singleton 18y",
+        "price": "Ksh 850",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 24500",
+        "image": ""
+      }
     ],
     "headingtext": {
       "title": "Single Malts",
@@ -661,10 +800,34 @@
   },
   {
     "DrinksMenu": [
-      { "title": "Jameson", "price": "Ksh 500", "subTitle": "", "priceSubTitle": "Bottle Ksh 8000", "image": "" },
-      { "title": "Bulleit Bourbon", "price": "Ksh 500", "subTitle": "", "priceSubTitle": "Bottle Ksh 10000", "image": "" },
-      { "title": "Jack Daniels", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 9000", "image": "" },
-      { "title": "Jack Daniels Fire", "price": "Ksh 550", "subTitle": "", "priceSubTitle": "Bottle Ksh 12000", "image": "" }
+      {
+        "title": "Jameson",
+        "price": "Ksh 500",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 8000",
+        "image": ""
+      },
+      {
+        "title": "Bulleit Bourbon",
+        "price": "Ksh 500",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 10000",
+        "image": ""
+      },
+      {
+        "title": "Jack Daniels",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 9000",
+        "image": ""
+      },
+      {
+        "title": "Jack Daniels Fire",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 12000",
+        "image": ""
+      }
     ],
     "headingtext": {
       "title": "Whiskey & Bourbon",
@@ -675,9 +838,27 @@
   },
   {
     "DrinksMenu": [
-      { "title": "Aperol", "price": "Ksh 400", "subTitle": "", "priceSubTitle": "Bottle Ksh 6500", "image": "" },
-      { "title": "Campari", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6500", "image": "" },
-      { "title": "Pimms", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6500", "image": "" }
+      {
+        "title": "Aperol",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6500",
+        "image": ""
+      },
+      {
+        "title": "Campari",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6500",
+        "image": ""
+      },
+      {
+        "title": "Pimms",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6500",
+        "image": ""
+      }
     ],
     "headingtext": {
       "title": "Aperitifs",
@@ -688,12 +869,48 @@
   },
   {
     "DrinksMenu": [
-      { "title": "Jagermeister", "price": "Ksh 500", "subTitle": "", "priceSubTitle": "Bottle Ksh 7500", "image": "" },
-      { "title": "Baileys", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6500", "image": "" },
-      { "title": "Limoncello", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 5500", "image": "" },
-      { "title": "Sambuca", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6000", "image": "" },
-      { "title": "Amaro Del Capo", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 13500", "image": "" },
-      { "title": "Fernet Branca", "price": "Ksh 500", "subTitle": "", "priceSubTitle": "Bottle Ksh 10800", "image": "" }
+      {
+        "title": "Jagermeister",
+        "price": "Ksh 500",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 7500",
+        "image": ""
+      },
+      {
+        "title": "Baileys",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6500",
+        "image": ""
+      },
+      {
+        "title": "Limoncello",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 5500",
+        "image": ""
+      },
+      {
+        "title": "Sambuca",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6000",
+        "image": ""
+      },
+      {
+        "title": "Amaro Del Capo",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 13500",
+        "image": ""
+      },
+      {
+        "title": "Fernet Branca",
+        "price": "Ksh 500",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 10800",
+        "image": ""
+      }
     ],
     "headingtext": {
       "title": "Digestives",
@@ -704,10 +921,34 @@
   },
   {
     "DrinksMenu": [
-      { "title": "Cointreau", "price": "Ksh 550", "subTitle": "", "priceSubTitle": "Bottle Ksh 11000", "image": "" },
-      { "title": "Grand Marnier", "price": "Ksh 600", "subTitle": "", "priceSubTitle": "Bottle Ksh 12500", "image": "" },
-      { "title": "Kahlua", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6500", "image": "" },
-      { "title": "Amaretto Disaronno", "price": "Ksh 550", "subTitle": "", "priceSubTitle": "Bottle Ksh 8000", "image": "" }
+      {
+        "title": "Cointreau",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 11000",
+        "image": ""
+      },
+      {
+        "title": "Grand Marnier",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 12500",
+        "image": ""
+      },
+      {
+        "title": "Kahlua",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6500",
+        "image": ""
+      },
+      {
+        "title": "Amaretto Disaronno",
+        "price": "Ksh 550",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 8000",
+        "image": ""
+      }
     ],
     "headingtext": {
       "title": "Liqueurs",
@@ -718,10 +959,34 @@
   },
   {
     "DrinksMenu": [
-      { "title": "Martini Bianco", "price": "Ksh 400", "subTitle": "", "priceSubTitle": "Bottle Ksh 5500", "image": "" },
-      { "title": "Martini Rosso", "price": "Ksh 400", "subTitle": "", "priceSubTitle": "Bottle Ksh 5500", "image": "" },
-      { "title": "Martini Extra Dry", "price": "Ksh 400", "subTitle": "", "priceSubTitle": "Bottle Ksh 5500", "image": "" },
-      { "title": "Martini Fiero", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 6000", "image": "" }
+      {
+        "title": "Martini Bianco",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 5500",
+        "image": ""
+      },
+      {
+        "title": "Martini Rosso",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 5500",
+        "image": ""
+      },
+      {
+        "title": "Martini Extra Dry",
+        "price": "Ksh 400",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 5500",
+        "image": ""
+      },
+      {
+        "title": "Martini Fiero",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 6000",
+        "image": ""
+      }
     ],
     "headingtext": {
       "title": "Vermouth",
@@ -732,13 +997,55 @@
   },
   {
     "DrinksMenu": [
-      { "title": "Hennessy VS", "price": "Ksh 750", "subTitle": "", "priceSubTitle": "Bottle Ksh 16000", "image": "" },
-      { "title": "Hennessy VSOP", "price": "Ksh 1200", "subTitle": "", "priceSubTitle": "Bottle Ksh 21000", "image": "" },
-      { "title": "Remy Martin VSOP", "price": "Ksh 950", "subTitle": "", "priceSubTitle": "Bottle Ksh 18000", "image": "" },
-      { "title": "Remy Martin XO", "price": "Ksh 3500", "subTitle": "", "priceSubTitle": "Bottle Ksh 70000", "image": "" },
-      { "title": "Martell VS", "price": "Ksh 950", "subTitle": "", "priceSubTitle": "Bottle Ksh 19000", "image": "" },
-      { "title": "Martell VSOP", "price": "Ksh 1100", "subTitle": "", "priceSubTitle": "Bottle Ksh 20000", "image": "" },
-      { "title": "Martell XO", "price": "Ksh 2450", "subTitle": "", "priceSubTitle": "Bottle Ksh 55000", "image": "" }
+      {
+        "title": "Hennessy VS",
+        "price": "Ksh 750",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 16000",
+        "image": ""
+      },
+      {
+        "title": "Hennessy VSOP",
+        "price": "Ksh 1200",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 21000",
+        "image": ""
+      },
+      {
+        "title": "Remy Martin VSOP",
+        "price": "Ksh 950",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 18000",
+        "image": ""
+      },
+      {
+        "title": "Remy Martin XO",
+        "price": "Ksh 3500",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 70000",
+        "image": ""
+      },
+      {
+        "title": "Martell VS",
+        "price": "Ksh 950",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 19000",
+        "image": ""
+      },
+      {
+        "title": "Martell VSOP",
+        "price": "Ksh 1100",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 20000",
+        "image": ""
+      },
+      {
+        "title": "Martell XO",
+        "price": "Ksh 2450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 55000",
+        "image": ""
+      }
     ],
     "headingtext": {
       "title": "Cognac",
@@ -749,7 +1056,13 @@
   },
   {
     "DrinksMenu": [
-      { "title": "Viceroy", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "Bottle Ksh 4500", "image": "" }
+      {
+        "title": "Viceroy",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "Bottle Ksh 4500",
+        "image": ""
+      }
     ],
     "headingtext": {
       "title": "Brandy",
@@ -760,13 +1073,55 @@
   },
   {
     "DrinksMenu": [
-      { "title": "White Cap", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" },
-      { "title": "White Cap Crisp", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" },
-      { "title": "Tusker Lager", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" },
-      { "title": "Tusker Lite", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" },
-      { "title": "Tusker Malt", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" },
-      { "title": "Heineken", "price": "Ksh 600", "subTitle": "", "priceSubTitle": "", "image": "" },
-      { "title": "Guinness Stout", "price": "Ksh 450", "subTitle": "", "priceSubTitle": "", "image": "" }
+      {
+        "title": "White Cap",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "White Cap Crisp",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tusker Lager",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tusker Lite",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Tusker Malt",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Heineken",
+        "price": "Ksh 600",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      },
+      {
+        "title": "Guinness Stout",
+        "price": "Ksh 450",
+        "subTitle": "",
+        "priceSubTitle": "",
+        "image": ""
+      }
     ],
     "headingtext": {
       "title": "Beer",

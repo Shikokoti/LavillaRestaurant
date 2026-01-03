@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 const testimonialInfo = [
   {
     img: "/assets/img/testimonial/testimonial_1.jpg",
-    title: "Steven K. Roberts",
+    title: "Lisa M. Wangari",
     subtitle: "From Nairobi",
     content:
       "“Lavilla is the perfect setting for our corporate events — elegant, professional, and with exceptional food that always impresses our guests.”",
@@ -18,10 +18,10 @@ const testimonialInfo = [
   },
   {
     img: "/assets/img/testimonial/testimonial_3.jpg",
-    title: "Jon Kamau",
+    title: "John K. Otieno",
     subtitle: "From Mombasa ",
     content:
-      "“Their talented team of passionate chefs masterfully crafts each dish, combining the finest ingredients with innovative techniques to present culinary creations that are as visually stunning as they are delicious.”",
+      "“Delicious Italian food, fresh ingredients, and amazing flavors. Great pasta, perfect pizzas, and a warm dining experience every time.”",
   },
 ];
 

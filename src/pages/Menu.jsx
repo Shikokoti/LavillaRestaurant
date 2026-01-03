@@ -19,7 +19,7 @@ export default function Menu() {
   }, []);
   return (
     <div>
-      <CommonHero title={"Our  Food Menu"} link={"/"} />
+      <CommonHero title={"Our Food Menu"} link={"/"} />
       {foodmenulist?.map((item, i) => (
         <div
           key={i}
