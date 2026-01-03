@@ -9,6 +9,8 @@ def create_app():
     app = Flask(__name__)
     app.config.from_object("config.Config")
 
+    CORS(app) #Added to handle the front end requests
+
     # Initialize extensions
     db.init_app(app)
     migrate.init_app(app, db)
