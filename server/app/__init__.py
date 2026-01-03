@@ -1,4 +1,5 @@
 from flask import Flask
+from flask_cors import CORS
 from .extensions import db, migrate
 from .routes.reservation_routes import reservations_bp
 from .routes.main import main as main_bp
