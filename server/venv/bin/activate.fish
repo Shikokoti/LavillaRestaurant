@@ -29,10 +29,10 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/wangarinjihia/Development/Code/Work/LavillaRestaurant/server/venv
+set -gx VIRTUAL_ENV "/Users/macbookm2/Documents/Development/code/phase-6/LavillaRestaurant/lavillasite/server/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
-set -gx PATH "$VIRTUAL_ENV/"bin $PATH
+set -gx PATH "$VIRTUAL_ENV/bin" $PATH
 
 # unset PYTHONHOME if set
 if set -q PYTHONHOME
@@ -52,8 +52,8 @@ if test -z "$VIRTUAL_ENV_DISABLE_PROMPT"
         set -l old_status $status
 
         # Prompt override?
-        if test -n '(venv) '
-            printf "%s%s" '(venv) ' (set_color normal)
+        if test -n "(venv) "
+            printf "%s%s" "(venv) " (set_color normal)
         else
             # ...Otherwise, prepend env
             set -l _checkbase (basename "$VIRTUAL_ENV")
