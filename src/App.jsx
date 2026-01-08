@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route , Navigate} from "react-router-dom";
 import Main from "./layout/Main";
 import Home from "./pages/Home";
 import HomeTwo from "./pages/HomeTwo";
@@ -25,13 +25,20 @@ export default function App() {
         <Route index element={<Home />}></Route>
         <Route path="/home2" element={<HomeTwo />}></Route>
         <Route path="/about" element={<About />}></Route>
-        <Route path="/menu" element={<Menu />}></Route>
+        {/* Redirect old menu URL */}
+        <Route path="/menu" element={<Navigate to="/food-menu" replace />} />
+
+        {/* New food menu URL */}
+        <Route path="/food-menu" element={<Menu />} />
         <Route path="/drinks-menu" element={<DrinksMenu />}></Route>
         <Route path="/drinks-menu/wines" element={<WineMenu />}></Route>
         <Route path="/chef" element={<Chef />}></Route>
         <Route path="/meet-the-chef/:id" element={<Chefdetails />}></Route>
         <Route path="/portfolio" element={<Portfolio />}></Route>
-        <Route path="/portfolio-details/:id" element={<Portfoliodetails />}></Route>
+        <Route
+          path="/portfolio-details/:id"
+          element={<Portfoliodetails />}
+        ></Route>
         <Route path="/blog" element={<Blog />}></Route>
         <Route path="/blog-details/:id" element={<Blogdetails />}></Route>
         <Route path="/contact" element={<Contact />}></Route>
