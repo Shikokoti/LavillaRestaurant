@@ -35,11 +35,6 @@
     },
 
     {
-        "title": "The Wines",
-        "link": "/drinks-menu/wines",
-        "key": "Wines"
-    },
-    {
         "title": "Events",
         "link": "/chef",
         "key": "events"
