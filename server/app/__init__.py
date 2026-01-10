@@ -4,9 +4,11 @@ from .extensions import db, migrate
 from .routes.reservation_routes import reservations_bp
 from .routes.main import main as main_bp
 from . import models
+import os
 
 def create_app():
     app = Flask(__name__)
+    
     app.config.from_object("config.Config")
 
     CORS(app) #Added to handle the front end requests

@@ -16,7 +16,7 @@ export default function Home() {
       <MovingText />
       <AboutContent />
       <OpeningHoursInfo />
-      <PortfolioSlider />
+      {/* <PortfolioSlider /> */}
       <FoodMenuHome styleTwo={false} bgimgremove={true} />
       <BestItem />
       <Testimonial />
