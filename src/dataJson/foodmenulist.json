@@ -479,7 +479,7 @@
         "title": "PETTO DI POLLO ALLA PARMENTIER CON FUNGHI TRIFOLATI (180/200Grms)",
         "price": "Ksh 2400",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Chicken Breast Filled With Parma Ham & Mozzarella Cheese",
+        "subTitle": "Chicken Breast Filled With Parma Ham & Mozzarella Cheese. Served on a Bed of Porcini Mushroom Sauce",
         "priceSubTitle": ""
       },
       {
@@ -493,7 +493,7 @@
         "title": "COTOLETTA ALLA MILANESE IN TRUFFLE SAUCE (180/200Grms)",
         "price": "Ksh 3800",
         "image": "/assets/img/itemShow/item-show.png",
-        "subTitle": "Chicken Breast In Bread Crumbs & Truffle Sauce",
+        "subTitle": "Chicken Breast In Bread Crumbs &  Black Truffle Sauce",
         "priceSubTitle": ""
       },
       {
@@ -710,7 +710,7 @@
   },
   {
     "title": "PIZZA NORCINA CON FUNGHI PORCINI E BURRATA V",
-    "price": "Ksh 2250",
+    "price": "Ksh 2350",
     "image": "/assets/img/itemShow/item-show.png",
     "subTitle": "Black Truffle Pizza with Porcini Mushrooms & Mozzarella Burrata",
     "priceSubTitle": "V"
