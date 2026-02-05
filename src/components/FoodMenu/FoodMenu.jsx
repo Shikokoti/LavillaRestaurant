@@ -34,6 +34,13 @@ const foodMenu = [
     priceSubTitle: "",
   },
   {
+    title: "Chicken liver Pate",
+    price: "Ksh 1900",
+    // image: "/assets/img/itemShow/item-show_2.png",
+    subTitle: "Rich and creamy chicken liver pate with a hint of truffle",
+    priceSubTitle: "",
+  },
+  {
     title: "Ravioli Al Tartufo",
     price: "Ksh 2200",
     // image: "/assets/img/itemShow/item-show.png",
