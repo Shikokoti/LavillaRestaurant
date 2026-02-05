@@ -194,28 +194,28 @@
     "DrinksMenu": [
       {
         "title": "Irish Coffee",
-        "price": "Ksh 750",
+        "price": "Ksh 850",
         "subTitle": "",
         "priceSubTitle": "",
         "image": ""
       },
       {
         "title": "Baileys Cappuccino",
-        "price": "Ksh 700",
+        "price": "Ksh 800",
         "subTitle": "",
         "priceSubTitle": "",
         "image": ""
       },
       {
         "title": "Amaretto Cafe",
-        "price": "Ksh 700",
+        "price": "Ksh 800",
         "subTitle": "",
         "priceSubTitle": "",
         "image": ""
       },
       {
         "title": "Hot Toddy",
-        "price": "Ksh 800",
+        "price": "Ksh 900",
         "subTitle": "",
         "priceSubTitle": "",
         "image": ""
@@ -232,14 +232,14 @@
     "DrinksMenu": [
       {
         "title": "Negroni Sbagliato",
-        "price": "Ksh 900",
+        "price": "Ksh 1000",
         "subTitle": "Prosecco, Campari & Martini Rosso.",
         "priceSubTitle": "",
         "image": ""
       },
       {
         "title": "Negroni Classic",
-        "price": "Ksh 950",
+        "price": "Ksh 1050",
         "subTitle": "London Dry Gin, Campari & Martini Rosso.",
         "priceSubTitle": "",
         "image": ""
