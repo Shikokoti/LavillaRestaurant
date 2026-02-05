@@ -44,7 +44,7 @@ const foodMenu = [
     title: "Ravioli Al Tartufo",
     price: "Ksh 2200",
     // image: "/assets/img/itemShow/item-show.png",
-    subTitle: "Spaghetti alla Carbonara",
+    subTitle: "Homemade Ravioli stuffed with a luxurious truffle-infused filling",
     priceSubTitle: "",
   },
   {
