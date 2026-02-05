@@ -62,10 +62,10 @@ const foodMenu = [
     priceSubTitle: "",
   },
   {
-    title: "Focaccia Italiana",
-    price: "Ksh 1700",
+    title: "Gnocchi With White Lamb Ragu",
+    price: "Ksh 2250",
     //image: "/assets/img/itemShow/item-show_2.png",
-    subTitle: "Spaghetti alla CarbonaraFresh Rocket Leaves, Mozzarella, Cherry Tomato",
+    subTitle: "Gnocchi with a rich white lamb ragu, served with fresh herbs",
     priceSubTitle: "",
   },
   {
