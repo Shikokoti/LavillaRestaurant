@@ -7,7 +7,86 @@
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) 
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/) 
 
-A modern, responsive **restaurant website** built with **React** and **Node.js**, featuring online reservations, dynamic menus, gallery pages, and smooth navigation.
+# LavillaRestaurant
+
+A full-stack restaurant management system built to support real-world operations such as menu management, orders, and backend data handling.
+
+This project demonstrates end-to-end development — from a React frontend to a Flask backend, relational databases, migrations, and CI/CD workflows.
+
+---
+
+## 🧩 Problem Statement
+
+Many small restaurants rely on manual or fragmented tools to manage menus and orders, which leads to inefficiencies and errors.
+
+LavillaRestaurant explores how a modern web stack can be used to build a scalable, maintainable system that supports restaurant operations with clean UX and reliable backend logic.
+
+---
+
+## 🏗 Architecture Overview
+
+**Frontend**
+- React (JavaScript)
+- Component-based architecture
+- API-driven state management
+- Responsive UI design
+
+**Backend**
+- Flask (Python)
+- RESTful API design
+- Business logic separated from routing
+
+**Database**
+- PostgreSQL (production-ready)
+- SQLite (local development)
+- Alembic for schema migrations
+
+**DevOps**
+- CI/CD pipelines for automated testing and deployment
+- Environment-based configuration
+
+---
+
+## ✨ Features
+
+- React-based frontend consuming Flask APIs
+- REST endpoints for core restaurant operations
+- Database schema versioning using Alembic
+- Support for multiple environments (dev / prod)
+- Clean separation of concerns across layers
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- JavaScript (ES6+)
+- React
+- HTML5 / CSS3
+
+**Backend**
+- Python
+- Flask
+
+**Database**
+- PostgreSQL
+- SQLite
+- Alembic migrations
+
+**Tooling**
+- Git & GitHub
+- CI/CD pipelines
+
+---
+
+## ⚙️ Getting Started
+
+### Backend Setup
+```bash
+cd backend
+pip install -r requirements.txt
+flask db upgrade
+flask run
 
 ---
 
