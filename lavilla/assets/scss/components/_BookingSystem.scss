@@ -1,185 +1,72 @@
-.ak-booking-system {
-  overflow: hidden;
-  position: relative;
-  .ak-booking-system-bg-img {
-    position: absolute;
-    z-index: 0;
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-  }
-}
-
 .booking-system-form {
-  &.style-2 {
-    display: flex;
-    justify-content: space-between;
-    gap: 15px;
-    align-items: flex-start;
-    height: 100%;
-    .select {
-      width: 100%;
-      margin: 0;
-      .ak-form-select {
-        padding: 9px;
-        height: 58px;
-      }
-      .select-icon {
-        top: 25%;
-      }
-    }
-    .ak-form-time-date {
-      width: 100%;
-      .ak-time {
-        .time-input {
-          height: 60px;
-        }
-        .time-icon {
-          top: 14px;
-        }
-      }
-      .ak-date {
-        .date-input {
-          height: 60px;
-        }
-        .date-icon {
-          top: 14px;
-        }
-      }
-    }
-    .ak-btn.style-5 {
-      padding: 15px 20px;
-    }
-  }
+  
+  // Target the containers
   .select {
+    background-color: transparent !important;
+    display: flex !important;
+    align-items: center;
     border: 1px solid $border;
     margin-bottom: 25px;
-    cursor: pointer;
     position: relative;
-    display: flex;
-    justify-content: space-between;
-    .select-icon {
-      position: absolute;
-      width: 30px;
-      right: 2px;
-      top: 20%;
+    overflow: hidden; // Critical to keep input contained
+  }
+
+  // The actual input fields (Name, Email, Number)
+  .ak-form-input {
+    width: 100% !important;
+    flex: 1; 
+    height: 100%;
+    min-height: 50px; // Match your theme height
+    background: transparent !important; // Kill default white
+    background-color: rgba(0,0,0,0) !important; // Kill fallback white
+    border: none !important;
+    padding: 10px 15px !important;
+    font-size: 16px;
+    outline: none !important;
+    box-shadow: none !important;
+    
+    // OVERRIDE YOUR style.css color (#550000)
+    color: #ffffff !important; 
+
+    // KILL AUTOFILL WHITE BACKGROUND (Halfway fill culprit)
+    &:-webkit-autofill,
+    &:-webkit-autofill:hover, 
+    &:-webkit-autofill:focus,
+    &:-webkit-autofill:active {
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: #fff4f4 !important;
+      transition: background-color 5000s ease-in-out 0s;
+      box-shadow: inset 0 0 20px 20px #040D10 !important; // Match your --body-bg-color
+    }
+
+    &::placeholder {
+      color: rgba(255, 255, 255, 0.5) !important;
     }
   }
-  .ak-form-select {
-    appearance: none;
-    width: 100%;
-    cursor: pointer;
-    border: none;
-    padding: 10px;
-    color: $white;
-    background-color: transparent;
-    option {
-      color: $black;
-    }
-  }
+
+  // Fix for Time and Date
   .ak-form-time-date {
-    display: flex;
-    justify-content: space-between;
-    .ak-time {
-      flex-basis: 48%;
-      position: relative;
-      display: flex;
-      justify-content: space-between;
-      .time-input {
-        border: 1px solid $border;
-        color: $white;
-        width: 100%;
-        position: absolute;
-        z-index: 4;
-        background-color: transparent;
-        padding: 9px;
+    .ak-time, .ak-date {
+      .time-input, .date-input {
+        background: transparent !important;
+        background-color: transparent !important;
+        color: #FFF !important;
+        border: 1px solid $border !important;
+        z-index: 5;
+        
+        // Hide native arrow/picker but keep it clickable
+        &::-webkit-calendar-picker-indicator {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          opacity: 0;
+          cursor: pointer;
+        }
       }
-      .time-icon {
-        position: absolute;
-        width: 30px;
-        height: 100%;
-        right: 7px;
-        top: 8px;
-        z-index: 3;
-      }
-    }
-    input[type="time"]::-webkit-calendar-picker-indicator {
-      background-color: $yellow;
-      cursor: pointer;
-      opacity: 0;
-    }
-    .ak-date {
-      flex-basis: 48%;
-      position: relative;
-      display: flex;
-      justify-content: space-between;
-      .date-input {
-        border: 1px solid $border;
-        color: $white;
-        width: 100%;
-        z-index: 4;
-        background-color: transparent;
-        padding: 9px;
-      }
-      .date-icon {
-        position: absolute;
-        width: 30px;
-        height: 100%;
-        right: 7px;
-        top: 8px;
-        z-index: 3;
-      }
-    }
-    input[type="date"]::-webkit-calendar-picker-indicator {
-      background-color: $yellow;
-      cursor: pointer;
-      opacity: 0;
-    }
-  }
-}
-
-.ak-booking-system-map-from {
-  width: 85vw;
-}
-
-.booking-system-map {
-  display: flex;
-  gap: 10%;
-  align-items: center;
-  .booking-system-map-frist {
-    flex-basis: 50%;
-  }
-  .booking-system-map-second {
-    flex-basis: 40%;
-  }
-}
-
-@media screen and (max-width: 991px) {
-  .ak-booking-system-map-from {
-    width: 100vw;
-    padding-right: 13.5px;
-  }
-  .booking-system-map {
-    flex-wrap: wrap;
-    gap: 20px;
-    .booking-system-map-frist {
-      flex-basis: 94%;
-      margin-bottom: 30px;
-    }
-    .booking-system-map-second {
-      flex-basis: 94%;
-    }
-  }
-  .ak-google-map {
-    height: 400px;
-  }
-  .booking-system-form {
-    &.style-2 {
-      flex-wrap: wrap;
-      .ak-btn.style-5 {
-        margin-top: 70px;
-        width: 100%;
-        text-align: center;
+      
+      .time-icon, .date-icon {
+        z-index: 1;
+        pointer-events: none; // Makes icon "invisible" to mouse clicks
       }
     }
   }
