@@ -27,16 +27,6 @@ export function WhiteButton(props) {
 //   );
 // }
 
-// export function SubmitButton({ children, onClick, type = "submit", ...rest }) {
-//   return (
-//     <div className="ak-btn style-5">
-//       <button type={type} onClick={onClick} {...rest}>
-//         {children}
-//       </button>
-//     </div>
-//   );
-// }
-
 
 export function SubmitButton({ children, onClick, type = "submit", ...rest }) {
   return (
