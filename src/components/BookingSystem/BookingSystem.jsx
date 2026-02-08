@@ -5,15 +5,68 @@ import { SubmitButton } from "../Button/Button";
 export default function BookingSystem(props) {
   const [inputs, setInputs] = useState({});
 
+  const [loading, setLoading] = useState(false);
+  const [status, setStatus] = useState(null);
+
   const handleChange = (event) => {
     const name = event.target.name;
     const value = event.target.value;
     setInputs((values) => ({ ...values, [name]: value }));
   };
 
-  const handleSubmit = (event) => {
+  // const handleSubmit = (event) => {
+  //   event.preventDefault();
+  //   alert("Data sent successfully");
+  // };
+
+  const handleSubmit = async (event) => {
     event.preventDefault();
-    alert("Data sent successfully");
+    setLoading(true);
+    setStatus(null);
+
+    const payload = {
+      full_name: inputs.name,
+      phone_number: inputs.number,
+      email: inputs.email,
+      persons: inputs.persons || 1,
+      date: inputs.date,        
+      time: inputs.time     
+    };
+
+    try {
+      const response = await fetch("https://la-villa.onrender.com/health", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+
+      if (!response.ok) throw new Error("Failed to send reservation");
+
+      const data = await response.json();
+      console.log("Server response:", data);
+
+      setStatus({ success: true, message: "✅ Reservation sent successfully!" });
+      alert("Reservation sent successfully!");
+
+      // Reset form
+      setInputs({
+        name: "",
+        email: "",
+        number: "",
+        persons: "",
+        time: "",
+        date: "",
+      });
+    } catch (error) {
+      console.error("Error submitting:", error);
+      setStatus({
+        success: false,
+        message:
+          "❌ There was an error sending your reservation. Please try again.",
+      });
+    } finally {
+      setLoading(false);
+    }
   };
 
   const bookingStyle = classNames("booking-system-form ", {
@@ -173,7 +226,8 @@ export default function BookingSystem(props) {
         {!props?.styleTwo && (
           <div className="ak-height-50 ak-height-lg-30"></div>
         )}
-        <SubmitButton>Reservations</SubmitButton>
+        <SubmitButton type="submit" disabled={loading}>{loading ? "Sending..." : "Reservations"}</SubmitButton>
+
       </form>
     </div>
   );
