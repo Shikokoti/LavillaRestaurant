@@ -29,7 +29,7 @@ export default function BookingSystem(props) {
           <input
             type="text"
             name="name"
-            placeholder="Full Name"
+            placeholder="Full Names"
             className="ak-form-input"
             value={inputs.name || ""}
             onChange={handleChange}
