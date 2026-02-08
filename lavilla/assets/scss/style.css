@@ -208,6 +208,15 @@ textarea {
   transition: all 0.3s ease;
 }
 
+/* This ensures the booking form specifically stays white/transparent */
+.booking-system-form .ak-form-input,
+.booking-system-form input,
+.booking-system-form textarea {
+  color: #ffffff !important; 
+  background-color: transparent !important;
+  background: transparent !important;
+}
+
 @media screen and (min-width: 992px) {
   .ak-height-0 {
     height: 0px;
@@ -695,7 +704,7 @@ hr {
 }
 
 .ak-white-bg {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 .ak-gray-bg-20 {

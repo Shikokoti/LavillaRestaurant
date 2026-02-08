@@ -1,16 +1,27 @@
 .booking-system-form {
-  
-  // Target the containers
-  .select {
-    background-color: transparent !important;
-    display: flex !important;
-    align-items: center;
-    border: 1px solid $border;
-    margin-bottom: 25px;
-    position: relative;
-    overflow: hidden; // Critical to keep input contained
-  }
+  .ak-form-input {
+    // Force text to be white, overriding the #550000 global style
+    color: #000000 !important;
+    background-color: none !important; // Remove any background color
 
+    // THE FIX: Target the internal browser "Autofill" state
+    &:-webkit-autofill,
+    &:-webkit-autofill:hover, 
+    &:-webkit-autofill:focus,
+    &:-webkit-autofill:active {
+      /* Instead of a background color, we use a giant inner shadow 
+         Match this hex to your --body-bg-color (#040D10) */
+      -webkit-box-shadow: 0 0 0px 1000px #040D10 inset !important;
+      -webkit-text-fill-color: #fefefe !important;
+      transition: background-color 5000s ease-in-out 0s;
+    }
+    
+    // Specifically for the Date/Time inputs which behave differently
+    &[type="date"], &[type="time"] {
+      color-scheme: dark; /* Helps force the native picker to dark mode */
+    }
+  }
+}
   // The actual input fields (Name, Email, Number)
   .ak-form-input {
     width: 100% !important;
@@ -23,7 +34,7 @@
     padding: 10px 15px !important;
     font-size: 16px;
     outline: none !important;
-    box-shadow: none !important;
+    box-shadow: inset 0 0 0 9999px transparent !important;
     
     // OVERRIDE YOUR style.css color (#550000)
     color: #ffffff !important; 
