@@ -35,7 +35,7 @@ export default function BookingSystem(props) {
     };
 
     try {
-      const response = await fetch("https://la-villa.onrender.com/book", {
+      const response = await fetch("http://174.138.5.160/book", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
