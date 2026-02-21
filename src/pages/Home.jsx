@@ -20,7 +20,7 @@ export default function Home() {
       <FoodMenuHome styleTwo={false} bgimgremove={true} />
       <BestItem />
       <Testimonial />
-      <BookingSystem videoId={"https://vimeo.com/734126900"} />
+      <BookingSystemTwo videoId={"https://vimeo.com/734126900"} />
     </>
   );
 }
