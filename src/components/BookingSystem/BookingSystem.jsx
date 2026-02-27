@@ -34,7 +34,7 @@ export default function BookingSystem(props) {
     };
 
     try {
-      const response = await fetch("http://174.138.5.160/book", {
+      const response = await fetch("http://api.lavilla.co.ke/create", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
