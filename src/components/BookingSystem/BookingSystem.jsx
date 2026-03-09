@@ -46,7 +46,7 @@ export default function BookingSystem(props) {
       const data = await response.json();
       console.log("Server response:", data);
 
-      setStatus({ success: true, message: "✅ Reservation sent successfully!" });
+      setStatus({ success: true, message: "Reservation sent successfully!" });
       alert("Reservation sent successfully!");
 
       // Reset form
