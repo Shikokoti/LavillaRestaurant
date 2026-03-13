@@ -51,6 +51,19 @@
       padding: 15px 20px;
     }
   }
+  .ak-form-input {
+    width: 100%;
+    border: none;
+    padding: 10px;
+    height: 58px;
+    background-color: transparent;
+    color: $white;
+    outline: none;
+
+    &::placeholder {
+      color: rgba($white, 0.6);
+    }
+  }
   .select {
     border: 1px solid $border;
     margin-bottom: 25px;

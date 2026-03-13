@@ -4,15 +4,70 @@ import { SubmitButton } from "../Button/Button";
 
 export default function BookingSystem(props) {
   const [inputs, setInputs] = useState({});
+
+  const [loading, setLoading] = useState(false);
+  const [status, setStatus] = useState(null);
+  
+
   const handleChange = (event) => {
     const name = event.target.name;
     const value = event.target.value;
     setInputs((values) => ({ ...values, [name]: value }));
   };
 
-  const handleSubmit = (event) => {
+  // const handleSubmit = (event) => {
+  //   event.preventDefault();
+  //   alert("Data sent successfully");
+  // };
+
+  const handleSubmit = async (event) => {
     event.preventDefault();
-    alert("Data send successfully");
+    setLoading(true);
+    setStatus(null);
+
+    const payload = {
+      full_name: inputs.name,
+      phone_number: inputs.number,
+      email: inputs.email,
+      persons: inputs.persons || 1,
+      date: inputs.date,        
+      time: inputs.time     
+    };
+
+    try {
+      const response = await fetch("https://api-rhafs2hpta-uc.a.run.app/api/book", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+
+      if (!response.ok) throw new Error("Failed to send reservation");
+
+      const data = await response.json();
+      console.log("Server response:", data);
+
+      setStatus({ success: true, message: "Reservation sent successfully!" });
+      alert("Reservation sent successfully!");
+
+      // Reset form
+      setInputs({
+        name: "",
+        email: "",
+        number: "",
+        persons: "",
+        time: "",
+        date: "",
+      });
+    } catch (error) {
+      console.error("Error submitting:", error);
+      setStatus({
+        success: false,
+        message:
+          "❌ There was an error sending your reservation. Please try again.",
+      });
+    } finally {
+      setLoading(false);
+    }
   };
 
   const bookingStyle = classNames("booking-system-form ", {
@@ -22,31 +77,60 @@ export default function BookingSystem(props) {
   return (
     <div className="booking-system-form">
       <form className={bookingStyle} onSubmit={handleSubmit}>
+        {/* Name Input Box */}
         <div className="select">
-          <select
-            className="ak-form-select"
-            name="option"
+          <input
+            type="text"
+            name="name"
+            placeholder="Full Names"
+            className="ak-form-input"
+            value={inputs.name || ""}
             onChange={handleChange}
-          >
-            <option value={inputs.option || "One"}>One</option>
-            <option value={inputs.option || "Two"}>Two</option>
-            <option value={inputs.option || "Ten"}>Ten</option>
-          </select>
-          <div className="select-icon">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="18"
-              height="10"
-              viewBox="0 0 18 10"
-              fill="none"
-            >
-              <path
-                d="M8.99516 9.502C8.80335 9.502 8.61135 9.42869 8.46491 9.28225L0.964914 1.78225C0.671852 1.48919 0.671852 1.01463 0.964914 0.72175C1.25798 0.428875 1.73254 0.428688 2.02541 0.72175L8.99516 7.6915L15.9649 0.72175C16.258 0.428688 16.7325 0.428688 17.0254 0.72175C17.3183 1.01481 17.3185 1.48937 17.0254 1.78225L9.52541 9.28225C9.37898 9.42869 9.18698 9.502 8.99516 9.502Z"
-                fill="#FFD28D"
-              />
-            </svg>
-          </div>
+            required
+          />
         </div>
+
+        {/* Email Input Box */}
+        <div className="select">
+          <input
+            type="email"
+            name="email"
+            placeholder="Email Address"
+            className="ak-form-input"
+            value={inputs.email || ""}
+            onChange={handleChange}
+            required
+          />
+        </div>
+
+        {/* Phone Input Box */}
+        <div className="select">
+          <input
+            type="tel"
+            name="number"
+            placeholder="Phone Number"
+            className="ak-form-input"
+            value={inputs.number || ""}
+            onChange={handleChange}
+            required
+          />
+        </div>
+
+        {/* Existing Select Field */}
+        <div className="select">
+          <input
+            type="number"
+            name="persons"
+            placeholder="Number of Persons"
+            className="ak-form-input"
+            min="1"
+            value={inputs.persons || ""}
+            onChange={handleChange}
+            required
+          />
+        </div>
+
+        {/* Time and Date Fields */}
         <div className="ak-form-time-date">
           <div className="ak-time">
             <input
@@ -139,10 +223,12 @@ export default function BookingSystem(props) {
             </div>
           </div>
         </div>
+
         {!props?.styleTwo && (
           <div className="ak-height-50 ak-height-lg-30"></div>
         )}
-        <SubmitButton>Reservations</SubmitButton>
+        <SubmitButton type="submit" disabled={loading}>{loading ? "Sending..." : "Reservations"}</SubmitButton>
+
       </form>
     </div>
   );

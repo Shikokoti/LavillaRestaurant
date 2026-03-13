@@ -24,7 +24,7 @@
       },
       {
         "title": "CAESAR SALAD",
-        "price": "Ksh 1400",
+        "price": "Ksh 1500",
         "image": "/",
         "subTitle": "Green Salad With Mayonaise, Eggs, Bacon, Crutons & Parmesan Cheese",
         "priceSubTitle": "E"
@@ -80,9 +80,9 @@
       },
       {
         "title": "ALI DI POLLO",
-        "price": "Ksh 1250",
+        "price": "Ksh 1350",
         "image": "/",
-        "subTitle": "Tender, Juicy Chicken Wings, Fried to Golden Perfection & Tossed in a Barbeque Signature Sauce",
+        "subTitle": "Tender, Juicy Chicken Wings, Fried to Golden Perfection & Tossed in a Barbeque Signature Sauce, Seved with Fries",
         "priceSubTitle": ""
       },
       {
@@ -675,7 +675,7 @@
   },
   {
     "title": "MARGHERITA V",
-    "price": "Ksh 1300",
+    "price": "Ksh 1400",
     "image": "/",
     "subTitle": "Tomato, Mozzarella & Basil",
     "priceSubTitle": "V"
@@ -752,7 +752,7 @@
   },
   {
     "title": "FUNGHI V",
-    "price": "Ksh 1400",
+    "price": "Ksh 1500",
     "image": "/",
     "subTitle": "Tomatoes, Mozzarella & Fresh Mushrooms",
     "priceSubTitle": "V"
