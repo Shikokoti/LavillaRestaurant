@@ -227,7 +227,7 @@ export default function BookingSystem(props) {
         {!props?.styleTwo && (
           <div className="ak-height-50 ak-height-lg-30"></div>
         )}
-        <SubmitButton type="submit" disabled={loading}>{loading ? "Sending..." : "Reservations"}</SubmitButton>
+        <SubmitButton type="submit" disabled={loading}>{loading ? "Sending..." : "Make Reservation"}</SubmitButton>
 
       </form>
     </div>
