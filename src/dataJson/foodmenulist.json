@@ -302,13 +302,7 @@
   },
   {
     "foodMenu": [
-      {
-        "title": "RISOTTO AL TARTUFO",
-        "price": "Ksh 1950",
-        "image": "/",
-        "subTitle": "Arborio Rice in Fresh Truffle Sauce with Parmesan & Parsley. To Make it More Special, with added Fresh Truffle @ Ksh 500 Per Gram",
-        "priceSubTitle": ""
-      },
+      
       {
         "title": "RISOTTO PRIMAVERA V",
         "price": "Ksh 1700",
@@ -368,13 +362,7 @@
         "subTitle": "Linguine Pasta With Prawns, Squid & Mussels",
         "priceSubTitle": "S | A"
       },
-      {
-        "title": "LINGUINE AL NERO DI SEPPIA E CALAMARI",
-        "price": "Ksh 2150",
-        "image": "/",
-        "subTitle": "Linguine Pasta, Squid, Squid Ink, Onions With White Wine",
-        "priceSubTitle": "A"
-      },
+     
       {
         "title": "LINGUINE AL DENTICE CON CRAMBLE ALL'ACCIUGHE",
         "price": "Ksh 2000",
@@ -500,7 +488,7 @@
       },
       {
         "title": "FILLETO DI MANZO AL SALSA PEPE NERO OR FUNGHI TARTUFATA GF (300Grms)",
-        "price": "Ksh 4200",
+        "price": "Ksh 4800",
         "image": "/",
         "subTitle": "Beef Fillet With Green Garden Salad Served With Roasted Potato With a Choice of Pepper Sauce OR Funghi Tartufata",
         "priceSubTitle": "GF"
