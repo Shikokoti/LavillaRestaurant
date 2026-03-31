@@ -28,7 +28,7 @@ const foodMenu = [
   },
   {
     title: "Tartare Di Manzo",
-    price: "Ksh 2300",
+    price: "Ksh 2500",
     // image: "/assets/img/itemShow/item-show_2.png",
     subTitle: "Beef tartar, drizzled with truffle oil and topped with freshly grated truffle",
     priceSubTitle: "",
